@@ -1,0 +1,59 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Hanson, was ,CARDINAL, sentenced to four months of home detention two years probation
+PERSON,Danny G. Glover, hired by ,O, Gerber
+ORG,GE Mound, so-called is part of ,O, Mount Vernon site
+PERSON,Hanson, offered Way money for ,ORG, GE Mound artefacts
+PERSON,Hanson, was ,O, sentenced
+ORG,GE Mound, so-called is part of ,O, Mount Vernon site in Township
+ORG,GE Mound, was ,O, neither reported to state authorities heavily looted
+ORG,GE Mound, is part of ,O, Mount Vernon archaeological site in Black Township
+ORG,GE Mound, so-called is part of ,O, Mount Vernon archaeological site in Township
+PERSON,Hanson, pled guilty In ,O, July
+ORG,GE Mound, is part of ,O, Mount Vernon site
+ORG,Wilson, cooperate with ,O, state authorities
+PERSON,Hanson, initially offered Way money for ,ORG, GE Mound artefacts
+ORG,Archaeological Resources Protection Act, ' ,CARDINAL, 16 USC 470aa
+PERSON,Hanson, was sentenced to ,CARDINAL, four months
+ORG,General Electric, secure site from ,O, further looting
+ORG,GE Mound, so-called is part of ,O, Mount Vernon archaeological site
+PERSON,Hanson, initially offered ,O, Way money
+PERSON,Towery, was ,O, sentenced
+PERSON,Hanson, was sentenced to ,CARDINAL, four months of home detention
+ORG,GE Mound, was ,O, neither looted
+PERSON,Hanson, later offered ,O, looters money
+ORG,General Electric, secure site from ,O, looting
+PERSON,Hanson, later offered ,O, other looters money
+PERSON,Hanson, pled In ,O, July
+ORG,GE Mound, was ,O, neither reported looted
+ORG,GE Mound, is ,O, part
+ORG,GE Mound, is part of ,O, Mount Vernon site in Township
+ORG,Wilson, agreed ,O, cooperate
+PERSON,Hanson, was sentenced probation to ,CARDINAL, four months
+ORG,GE Mound, is part of ,O, Mount Vernon site in Black Township
+ORG,Wilson, agreed ,O, cooperate with state authorities
+PERSON,Hanson, was ,O, sentenced probation
+DATE,three months, starting in ,DATE, June 1988
+ORG,FBI, avoid ,O, criminal charges
+ORG,GE Mound, was ,O, looted
+ORG,GE Mound, was ,O, neither heavily looted
+DATE,twelve months, is in ,O, prison
+PERSON,Towery, to ,GPE, home in Kentucky
+ORG,GE Mound, so-called is part of ,O, Mount Vernon site in Black Township
+ORG,GE Mound, was ,O, neither reported heavily looted
+ORG,GE Mound, is part of ,O, Mount Vernon archaeological site in Township
+PERSON,Hanson, was ,CARDINAL, sentenced to four months two years probation
+LAW,Section 6, C of ,O, act states
+GPE,Posey County, is in ,O, M. Nassaney
+ORG,GE Mound, was ,O, heavily looted
+ORG,GE Mound, is ,O, so-called part
+PERSON,Hanson, offered ,O, other looters money
+ORG,GE Mound, is part of ,O, Mount Vernon archaeological site
+PERSON,Hanson, offered ,O, looters money
+ORG,FBI, avoid ,O, charges
+PERSON,Hanson, offered ,O, Way money
+ORG,General Electric, secure ,O, site
+PERSON,Hanson, was sentenced probation to ,CARDINAL, four months of home detention
+PERSON,Towery, was sentenced to ,O, sixty days
+ORG,GE Mound, so-called is part of ,O, Mount Vernon archaeological site in Black Township
+PERSON,Hanson, was ,O, sentenced two years probation
+ORG,GE Mound, was ,O, neither reported to state authorities looted

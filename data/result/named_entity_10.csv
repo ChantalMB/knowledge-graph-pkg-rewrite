@@ -1,0 +1,74 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORG,Brooklyn Museum, displayed ,O, its Art collection in exhibition titled
+LOC,Coptic Art, began ,O, appear
+LOC,Coptic Art, appear frequently from ,O, especially late 1950s to 1970s
+ORG,Brooklyn Museum, displayed ,O, its Art collection including known fakes in exhibition
+LOC,Coptic Art, began ,O, appear frequently on art market
+ORG,Brooklyn Museum, are ,O, also affected
+ORG,Brooklyn Museum, displayed ,O, its Art collection in temporary exhibition titled
+ORG,Brooklyn Museum, displayed ,O, its Art collection including fakes in temporary exhibition
+LOC,Coptic Art, appear on ,O, art market
+ORG,Brooklyn Museum, are ,O, affected
+LOC,Coptic Art, appear more frequently from ,O, especially late 1950s to 1970s
+ORG,Brooklyn Museum, is in ,O, New York
+ORG,Brooklyn Museum, displayed ,WORK_OF_ART, its Coptic Art collection in temporary exhibition titled
+ORG,Brooklyn Museum, displayed ,O, its Art collection including fakes
+ORG,Brooklyn Museum, displayed ,WORK_OF_ART, its Coptic Art collection including fakes in temporary exhibition
+ORG,Brooklyn Museum, displayed ,WORK_OF_ART, its Coptic Art collection in exhibition
+ORG,Brooklyn Museum, displayed ,O, its Art collection in temporary exhibition
+LOC,Coptic Art, began ,O, appear more frequently on art market
+LOC,Coptic Art, began In ,O, aftermath
+ORG,Brooklyn Museum, displayed ,WORK_OF_ART, its Coptic Art collection including fakes in exhibition titled
+ORG,Brooklyn Museum, displayed ,WORK_OF_ART, its Coptic Art collection including fakes in temporary exhibition titled
+LOC,Coptic Art, has ,O, has nonetheless regarded
+LOC,Coptic Art, began ,O, appear especially from late 1950s to 1970s
+ORG,Brooklyn Museum, was considered in ,O, objects
+LOC,Coptic Art, began ,O, appear frequently especially from late 1950s to 1970s
+ORG,Brooklyn Museum, displayed ,WORK_OF_ART, its Coptic Art collection including known fakes
+LOC,Coptic Art, began ,O, appear frequently on art market especially from late 1950s to 1970s
+ORG,Brooklyn Museum, displayed ,WORK_OF_ART, its Coptic Art collection including fakes in exhibition
+LOC,Coptic Art, has ,O, has regarded
+LOC,Coptic Art, appearing in ,O, collections of museums
+GPE,Egypt, 's Pagan is ,GPE, Brooklyn Museum 2012
+LOC,Coptic Art, began ,O, appear more frequently especially from late 1950s to 1970s
+GPE,Egypt, 's Pagan is ,DATE, Brooklyn Museum 2012
+ORG,Brooklyn Museum, displayed ,O, its Art collection including fakes in exhibition titled
+ORG,Brooklyn Museum, displayed ,O, its Art collection including fakes in exhibition
+PERSON,Gary Vikan, drew ,O, attention
+ORG,Brooklyn Museum, displayed ,WORK_OF_ART, its Coptic Art collection including fakes
+LOC,Coptic Art, appear more frequently on ,O, art market
+LOC,Coptic Art, began ,O, appear more frequently
+ORG,Brooklyn Museum, displayed ,O, its Art collection including fakes in temporary exhibition titled
+ORG,Brooklyn Museum, displayed ,WORK_OF_ART, its Coptic Art collection in exhibition titled
+GPE,Egypt, has ,GPE, Pagan
+ORG,Brooklyn Museum, displayed ,O, its Art collection including known fakes
+GPE,Egypt, 's Pagan is ,O, http://www.brooklynmuseum.org/exhibitions/coptic/
+ORG,Brooklyn Museum, displayed ,O, its Art collection including known fakes in exhibition titled
+ORG,Brooklyn Museum, displayed ,WORK_OF_ART, its Coptic Art collection including known fakes in temporary exhibition titled
+ORG,Brooklyn Museum, was ,O, considered
+ORG,Brooklyn Museum, displayed ,WORK_OF_ART, its Coptic Art collection in temporary exhibition
+ORG,Brooklyn Museum, displayed ,O, its Art collection including known fakes in temporary exhibition titled
+LOC,Coptic Art, began ,O, appear on art market especially from late 1950s to 1970s
+LOC,Coptic Art, appear from ,O, especially late 1950s to 1970s
+WORK_OF_ART,Late Antique Sculpture, is in ,GPE, Egypt
+LOC,Coptic Art, began In ,O, aftermath of World War II
+LOC,Coptic Art, appearing in ,O, collections
+LOC,Coptic Art, began ,O, appear more frequently on art market especially from late 1950s to 1970s
+PERSON,Gary Vikan, drew attention to ,O, possible nature of suspect sculptures
+PERSON,Gary Vikan, drew attention albeit ,O, albeit format
+ORG,Brooklyn Museum, displayed ,WORK_OF_ART, its Coptic Art collection including known fakes in exhibition
+LOC,Coptic Art, began ,O, appear frequently
+PERSON,Gary Vikan, drew attention to ,O, possible nature
+ORG,Brooklyn Museum, displayed ,O, its Art collection
+GPE,Egypt, 's Pagan is ,DATE, accessed 13/06/2012
+ORG,Brooklyn Museum, displayed ,O, its Art collection in exhibition
+LOC,Coptic Art, appearing in ,O, collections of numerous museums
+ORG,Brooklyn Museum, displayed ,O, its Art collection including known fakes in temporary exhibition
+ORG,Brooklyn Museum, displayed ,WORK_OF_ART, its Coptic Art collection including known fakes in temporary exhibition
+ORG,Brooklyn Museum, have ,CARDINAL, one of largest
+PERSON,Gary Vikan, drew attention to ,O, possible nature of sculptures
+LOC,Coptic Art, began ,O, appear on art market
+ORG,Brooklyn Museum, displayed ,WORK_OF_ART, its Coptic Art collection
+ORG,Brooklyn Museum, displayed ,WORK_OF_ART, its Coptic Art collection including known fakes in exhibition titled
+LOC,Coptic Art, appear frequently on ,O, art market
+PERSON,Gary Vikan, drew attention albeit ,O, albeit unpublished format

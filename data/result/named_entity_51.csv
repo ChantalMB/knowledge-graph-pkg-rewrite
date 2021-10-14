@@ -1,0 +1,103 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Jiri Frel, was associated with ,O, irregularities
+PERSON,Getty Museum, returned ,NORP, terracotta head of Hades to Italy
+PERSON,Getty, were ,O, stolen
+PERSON,Getty Museum, returned ,O, looted terracotta head
+PERSON,Dietrich von Bothmer, few from ,O, Galerie Nefer
+ORG,Los Angeles Times, However revealed in ,DATE, June 2006
+PERSON,Getty, retain possession pending ,GPE, outcome of ongoing proceedings in Italy
+PERSON,Marion True, was charged in ,NORP, Italian court
+PERSON,Marion True, was ,DATE, Curator at J.Paul Getty Museum in Los Angeles from 1986 until 2005
+PERSON,Marion True, was ,PERSON, Curator of Antiquities at J.Paul Getty Museum
+PERSON,Jiri Frel, was associated with ,O, several irregularities regarding museum acquisitions
+PERSON,Getty, keep ,O, number
+PERSON,J. Paul Getty Museum, returned ,CARDINAL, three objects
+PERSON,Getty, retain possession pending ,GPE, outcome of proceedings in Italy
+PERSON,Jiri Frel, was curator at ,PERSON, J.Paul Getty Museum
+PERSON,J. Paul Getty Museum, being ,O, informed
+PERSON,Getty, had already returned ,O, objects
+PERSON,Marion True, was ,PERSON, Curator of Antiquities at J.Paul Getty Museum in Los Angeles
+GPE,Italy, was ,O, keen
+PERSON,Marion True, was ,O, Curator
+PERSON,Getty, has ,NORP, involvement with Italian antiquities trade
+PERSON,Getty Museum, returned ,GPE, terracotta head of Hades to Italy
+PERSON,Jiri Frel, was ,O, curator
+PERSON,Marion True, was ,O, charged
+PERSON,Marion True, was ,PERSON, Curator of Antiquities at J.Paul Getty Museum in Los Angeles from 1986 until 2005
+PERSON,Marion True, Curator of ,O, Antiquities
+PERSON,Marion True, was Curator at ,PERSON, J.Paul Getty Museum
+PERSON,Getty, had returned in ,DATE, 1996
+PERSON,Getty, retain ,O, possession of Statue of Victorious Youth
+PERSON,Getty Museum, returned ,GPE, looted terracotta head of Hades to Italy
+PERSON,J. Paul Getty Museum, returned On ,DATE, 5 February 1999
+PERSON,Giacomo Medici, illegal export of ,O, goods
+PERSON,Getty, has ,O, list of doubts
+PERSON,Giacomo Medici, conspiracy to ,O, traffic
+PERSON,Marion True, was ,DATE, In November 2005 charged in Italian court
+PERSON,Getty, Ministry of ,O, Culture
+PERSON,Getty, return ,CARDINAL, forty objects
+PERSON,Getty, had returned ,O, objects
+PERSON,Jiri Frel, was ,PERSON, curator of antiquities at J.Paul Getty Museum
+GPE,Rome, ' release is ,O, 1 August
+PERSON,Jiri Frel, was associated with ,O, several irregularities
+PERSON,J. Paul Getty Museum, returned to ,GPE, Italy
+PERSON,Marion True, was ,DATE, Curator of Antiquities from 1986 until 2005
+NORP,Medici, is ,NORP, Italian
+PERSON,Getty, retain ,O, possession of Statue
+PERSON,Getty, retain possession pending ,GPE, outcome of ongoing legal proceedings in Italy
+PERSON,Robin Symes, is in ,DATE, 1988
+PERSON,Marion True, was Curator from ,DATE, 1986 until 2005
+GPE,Rome, in ,O, press release
+PERSON,Marion True, was ,PERSON, Curator at J.Paul Getty Museum from 1986 until 2005
+PERSON,Getty Museum, returned ,NORP, looted terracotta head of Hades
+PERSON,Getty, has ,O, own research
+ORG,http://www.getty.edu/news/press/center/statement06_getty_italy_meeting111706.html, accessed ,CARDINAL, 27 July 2012
+GPE,Malibu, From Gill is ,PERSON, Christopher 2007
+ORG,Los Angeles Times, revealed in ,DATE, June 2006
+PERSON,Marion True, was ,PERSON, Curator of Antiquities at J.Paul Getty Museum from 1986 until 2005
+PERSON,Getty Museum, returned ,O, terracotta head
+PERSON,Jiri Frel, was curator of ,O, antiquities
+PERSON,Getty, retain possession pending ,O, outcome of ongoing legal proceedings
+PERSON,Marion True, was Curator at ,PERSON, J.Paul Getty Museum in Los Angeles
+PERSON,Getty, had already returned objects in ,DATE, 1996
+PERSON,Getty, had returned objects to ,GPE, Italy
+PERSON,Jiri Frel, was ,O, associated
+PERSON,Getty, had already returned in ,DATE, 1996
+PERSON,Getty, retain possession pending ,O, outcome
+PERSON,Marion True, was ,DATE, Curator of Antiquities at J.Paul Getty Museum from 1986 until 2005
+PERSON,J. Paul Getty Museum, returned On ,CARDINAL, 5 February 1999
+GPE,Italy, secure ,CARDINAL, return of fifty-two objects
+PERSON,Getty, had already returned to ,GPE, Italy
+PERSON,Frammolino, goddess 's ,PERSON, Getty
+PERSON,Getty, had already returned objects to ,GPE, Italy
+PERSON,http://www.getty.edu/news/press/center/italy_getty_joint_statement_080107.html, accessed ,CARDINAL, 27 July 2002
+PERSON,Marion True, was ,PERSON, Curator at J.Paul Getty Museum in Los Angeles from 1986 until 2005
+PERSON,Marion True, was ,DATE, Curator at J.Paul Getty Museum from 1986 until 2005
+PERSON,Giacomo Medici, export of ,O, goods
+PERSON,Getty Museum, returned ,NORP, terracotta head of Hades
+PERSON,Jiri Frel, was associated with ,O, irregularities regarding museum acquisitions
+PERSON,http://www.getty.edu/news/press/center/italy_getty_joint_statement_080107.html, accessed ,DATE, 27 July 2002
+NORP,Medici, on ,O, storerooms
+PERSON,Marion True, was ,DATE, In November 2005 charged in court
+PERSON,J. Paul Getty Museum, returned ,CARDINAL, three artifacts
+ORG,http://articles.latimes.com/2005/sep/25/local/me-getty25, accessed ,CARDINAL, 27 July 2012
+PERSON,Getty, retain possession pending ,O, outcome of ongoing proceedings
+PERSON,Getty, retain possession pending ,O, outcome of proceedings
+PERSON,Marion True, was charged In ,DATE, November 2005
+PERSON,Getty Museum, returned ,NORP, looted terracotta head of Hades to Italy
+PERSON,Getty, retain possession pending ,GPE, outcome of legal proceedings in Italy
+PERSON,Marion True, was Curator of ,O, Antiquities
+PERSON,Getty, retain ,O, possession of Statue of Youth
+PERSON,Marion True, was ,NORP, In November 2005 charged in Italian court
+PRODUCT,Atlantis Antiquities, is in ,DATE, 1988
+PERSON,Getty, retain ,O, possession
+PERSON,Marion True, was charged in ,O, court
+PERSON,Getty, had returned objects in ,DATE, 1996
+GPE,Italy, secure ,O, return
+GPE,Malibu, From Gill is ,DATE, Christopher 2007
+PERSON,Marion True, Curator at ,PERSON, J. Paul Getty Museum
+PERSON,Getty, keep down ,O, number
+PERSON,Getty, had returned to ,GPE, Italy
+PERSON,Getty, retain possession pending ,O, outcome of legal proceedings
+PERSON,Marion True, was ,DATE, Curator of Antiquities at J.Paul Getty Museum in Los Angeles from 1986 until 2005
+PERSON,Getty, has ,O, troubled goddess

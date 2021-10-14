@@ -1,0 +1,19 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORG,Noriyoshi Horiuchi, started ,O, dealing
+ORG,Noriyoshi Horiuchi, started ,O, dealing in antiquities in 1980s under guidance of Elie Borowski
+ORG,Noriyoshi Horiuchi, started ,O, dealing under guidance
+ORG,Noriyoshi Horiuchi, dealing in ,O, 1980s
+ORG,Noriyoshi Horiuchi, started ,O, dealing in antiquities in 1980s
+ORG,Noriyoshi Horiuchi, started ,O, dealing in antiquities under guidance of Elie Borowski
+ORG,Noriyoshi Horiuchi, started ,O, dealing in antiquities under guidance
+ORG,Noriyoshi Horiuchi, started ,O, dealing in 1980s under guidance of Elie Borowski
+ORG,Noriyoshi Horiuchi, started ,O, dealing in antiquities
+ORG,Noriyoshi Horiuchi, started ,O, dealing in 1980s
+ORG,Noriyoshi Horiuchi, dealing under ,O, guidance of Elie Borowski
+ORG,Horiuchi, is in ,PRODUCT, Geneva Freeport
+ORG,Noriyoshi Horiuchi, started ,O, dealing under guidance of Elie Borowski
+ORG,Noriyoshi Horiuchi, dealing under ,O, guidance
+ORG,Noriyoshi Horiuchi, started ,O, dealing in antiquities in 1980s under guidance
+ORG,Noriyoshi Horiuchi, dealing in ,O, antiquities
+ORG,Horiuchi, is in ,GPE, Geneva Freeport
+ORG,Noriyoshi Horiuchi, started ,O, dealing in 1980s under guidance

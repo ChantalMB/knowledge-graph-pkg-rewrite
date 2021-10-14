@@ -1,0 +1,32 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Litt, strikes ,GPE, deal with Italy
+PERSON,Litt, return ,CARDINAL, 14 artworks
+PERSON,Gift, Keep in ,O, honour of Arielle P. Kozloff
+PERSON,Litt, return ,CARDINAL, 14 ancient artworks
+GPE,Italy, loan ,GPE, Cleveland similar number of pieces of equivalent quality
+GPE,Italy, loan ,GPE, Cleveland similar number
+PERSON,Litt, Museum of ,O, Art
+PERSON,Litt, return ,ORG, Cleveland.com
+GPE,Italy, loan ,GPE, Cleveland similar number of pieces of quality
+GPE,Italy, has ,O, list of ancient treasures at
+GPE,Italy, agreed For ,O, its part
+PERSON,Giacomo Medici, illegal export of ,O, goods
+GPE,Italy, loan ,GPE, Cleveland similar number of pieces
+PERSON,Apulian Gnathia Flat-Bodied Epichysis, c. ,ORG, 340-320 BC
+PERSON,Giacomo Medici, conspiracy to ,O, traffic
+GPE,Medici, on ,O, storerooms
+GPE,Italy, loan ,GPE, Cleveland number of pieces of equivalent quality
+PERSON,Timothy Rub, was ,O, quoted
+GPE,Italy, loan ,GPE, Cleveland number
+GPE,http://www.scoop.co.nz/stories/HL0704/S00343.htm, accessed ,O, 27 July 2012
+GPE,Italy, loan ,GPE, Cleveland number of pieces of quality
+GPE,Cleveland, has ,O, then-curator of ancient art John Cooney
+PERSON,Gift, Keep in ,O, honour
+GPE,Cleveland, agree to ,O, exchange
+GPE,Cleveland, agree to ,O, exchange of antiquities
+GPE,Medici, is ,NORP, Italian
+PERSON,Giacomo Medici, export of ,O, goods
+GPE,Italy, loan ,GPE, Cleveland number of pieces
+GPE,http://www.cleveland.com/arts/index.ssf/2008/11/cleveland_museum_of_art_1.html, accessed ,O, 27 July 2012
+DATE,19 November, Museum of ,O, Art
+PERSON,Litt, strikes ,O, deal

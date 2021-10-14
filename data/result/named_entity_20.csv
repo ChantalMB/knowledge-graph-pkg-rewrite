@@ -1,0 +1,32 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Lazar, has characterized investigation at ,O, point
+QUANTITY,123 mm, is in ,O, diameter
+PERSON,Watson, Rich in ,O, Gold
+PERSON,Lazar, quoted in ,DATE, Cojocaru 2011
+PERSON,Sarmizegetusa Regia, was specifically targeted for ,O, looting
+PERSON,Watson, Shows ,O, National Geographic News
+PERSON,Sarmizegetusa Regia, was specifically targeted for ,O, looting by organized crime groups
+PERSON,Lazar, quoted in ,ORG, Cojocaru 2011
+ORDINAL,fifth, was returned by ,O, government free
+PERSON,Dacia, existed from ,ORG, 82 BC
+PERSON,Sarmizegetusa Regia, was specifically targeted for ,O, looting by crime groups
+ORDINAL,fifth, was returned by ,NORP, French government free of charge
+ORDINAL,fifth, was returned by ,NORP, French government
+PERSON,Dacia, existed from ,CARDINAL, 82 BC
+NORP,Romans, conquered ,O, area
+NORP,Romans, destroyed ,PERSON, Sarmizegetusa Regia
+NORP,Romanians, have ,PERSON, have indicted for looting at Sarmizegetusa Regia
+ORDINAL,fifth, was ,O, returned
+PERSON,Watson, Shows ,O, 13 January
+PERSON,Sarmizegetusa Regia, was targeted for ,O, looting by crime groups
+PERSON,Sarmizegetusa Regia, was ,O, targeted
+PERSON,Lazar, has characterized investigation at ,O, half-way point
+NORP,Romanians, have ,O, have indicted for looting
+PERSON,Sarmizegetusa Regia, was targeted for ,O, looting by organized crime groups
+ORDINAL,fifth, was returned by ,O, government
+PERSON,Sarmizegetusa Regia, was ,O, specifically targeted
+NORP,Romanians, have ,O, have indicted
+ORDINAL,fifth, was returned by ,NORP, French government free
+PERSON,Sarmizegetusa Regia, was targeted for ,O, looting
+ORDINAL,fifth, was returned by ,O, government free of charge
+ORG,Constantinescu, Characterization of ,NORP, Ancient Gold Artifacts from Romanian Museums Using

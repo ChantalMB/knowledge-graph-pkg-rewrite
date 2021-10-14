@@ -1,0 +1,31 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORG,Soldi, of ,O, collection
+PERSON,Cabrera, devoted rest to ,ORG, Bruhns
+PERSON,Basilio Uschuya, noted ,O, Irma Gutiérrez de Aparcana
+PERSON,Carlos, is with ,O, understanding
+GPE,Peru, in ,O, Desert
+PERSON,Cabrera, converted into ,O, museum
+PERSON,Basilio Uschuya, informed ,O, Irma Gutiérrez de Aparcana
+PERSON,Cabrera, devoted ,O, rest
+PERSON,Basilio Uschuya, informed ,O, noted
+PERSON,Basilio Uschuya, informed In ,DATE, 1975 two farmers
+PERSON,Anne P. Rowe, in Dawson is ,O, Lawrence E.
+PERSON,Anne P. Rowe, in Dawson is ,NORP, Painted Cloth Mummy Masks of Ica
+PERSON,Cabrera, converted floor into ,O, museum
+PERSON,Cabrera, devoted ,O, rest of his life
+PERSON,Cabrera, converted ,O, lower floor of his home
+PERSON,Cabrera, abandoned ,O, his practice
+PERSON,Cabrera, converted ,O, lower floor
+ORG,Mostel, has ,O, textiles
+ORG,Nazca, inhabited ,GPE, Paracas Cultures
+PERSON,Cabrera, converted ,O, floor
+ORG,Bruhns, Faking ,O, Andes
+PERSON,Basilio Uschuya, noted ,O, pseudoscientist Erich von Daniken
+ORG,Soldi, co-owner of ,ORG, Hacienda Ocucaje
+PERSON,Cabrera, converted ,O, floor of his home
+PERSON,Basilio Uschuya, informed In ,CARDINAL, 1975 two farmers
+PERSON,Simon, Buried in ,GPE, Peru 's Desert
+ORG,Bruhns, Faking ,O, Ancient Andes
+ORG,Soldi, through ,O, hands
+PERSON,Cerro Max Uhle, Museum of ,GPE, Natural History n.d.
+PERSON,Cabrera, abandoned ,O, his medical practice

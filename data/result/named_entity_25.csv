@@ -1,0 +1,14 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORG,El-Aref, Help on ,O, hand
+ORG,El-Aref, Help on ,O, hand for
+GPE,Egypt, has ,O, Antiquities Minister
+GPE,Egypt, from ,ORG, Supreme Council of Antiquities
+GPE,Egypt, has ,O, rich archaeological heritage
+PERSON,Egyptian Museum, is in ,GPE, Cairo
+GPE,Cairo, List at ,O, Risk
+DATE,2012b, is in ,ORG, ICOM
+PERSON,Egyptian Museum, found ,O, itself
+GPE,Egypt, 's treasures is ,PERSON, Al-Ahram
+GPE,Cairo, List of ,NORP, Egyptian Cultural Objects
+ORG,ABC News, destroy ' ,GPE, during Egypt protests
+GPE,Egypt, ' ,O, treasures

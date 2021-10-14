@@ -1,0 +1,48 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORG,Corbridge, has ,CARDINAL, one histories of instances
+ORG,Corbridge, has ,CARDINAL, one documented histories of instances of nighthawking in United Kingdom
+ORG,Corbridge, known by ,O, its name
+ORG,Corbridge, has ,CARDINAL, one of documented histories of instances of nighthawking
+ORG,Corbridge, known by ,NORP, its Latin name
+PERSON,English Heritage, have employed security firm on ,O, site
+GPE,England, in examples is ,PERSON, Addyman 2001
+ORG,Corbridge, has ,CARDINAL, one of most documented histories of instances of nighthawking in United Kingdom
+ORG,Corbridge, known by ,ORG, its name of Corstopitum
+ORG,Corbridge, has ,CARDINAL, one histories
+ORG,Corbridge, also known by ,ORG, its name of Corstopitum
+PERSON,English Heritage, have consistently employed security firm on ,O, site
+ORG,Corbridge, has ,CARDINAL, one of most documented histories of instances of nighthawking
+ORG,Corbridge, has ,CARDINAL, one histories of instances of nighthawking
+ORG,Corbridge, has ,CARDINAL, one most documented histories of instances
+ORG,Corbridge, also known by ,NORP, its Latin name of Corstopitum
+ORG,Corbridge, has ,CARDINAL, one documented histories of instances
+ORG,Corbridge, has ,CARDINAL, one documented histories of instances of nighthawking
+ORG,Corbridge, also known by ,NORP, its Latin name
+ORG,Corbridge, also known by ,ORG, its Latin name of Corstopitum
+ORG,Corbridge, has ,CARDINAL, one histories of instances of nighthawking in United Kingdom
+ORG,Corbridge, has ,CARDINAL, one of documented histories of instances of nighthawking in United Kingdom
+ORG,Corbridge, has ,CARDINAL, one of documented histories of instances
+ORG,Corbridge, has ,CARDINAL, one most documented histories of instances of nighthawking in United Kingdom
+NORP,Hadrian, 's Wall is ,O, http://www.english-heritage.org.uk/daysout/properties/corbridge-roman-town-hadrians-wall
+ORG,Corbridge, known by ,NORP, its Latin name of Corstopitum
+PERSON,Addyman, Antiquities without ,PERSON, Archaeology in United Kingdom '
+NORP,Hadrian, of ,O, Wall
+ORG,Corbridge, has ,CARDINAL, one of most documented histories of instances
+PERSON,English Heritage, have consistently employed ,O, security firm
+ORG,Corbridge, town on ,DATE, outskirts of modern-day Corbridge in Northumberland
+ORG,Corbridge, has ,CARDINAL, one of histories
+NORP,Hadrian, 's Wall is ,DATE, accessed 12/07/2012
+ORG,Corbridge, known by ,ORG, its Latin name of Corstopitum
+PERSON,English Heritage, have employed ,O, security firm
+ORG,Corbridge, has ,CARDINAL, one of most documented histories
+ORG,Corbridge, has ,CARDINAL, one of histories of instances of nighthawking in United Kingdom
+ORG,Corbridge, has ,CARDINAL, one of documented histories
+ORG,Corbridge, has ,CARDINAL, one most documented histories
+NORP,Hadrian, ' ,O, Wall
+ORG,Corbridge, also known by ,O, its name
+ORG,Corbridge, town on ,GPE, outskirts of modern-day Corbridge in Northumberland
+ORG,Corbridge, has ,CARDINAL, one most documented histories of instances of nighthawking
+ORG,Corbridge, has ,CARDINAL, one documented histories
+ORG,Corbridge, has ,CARDINAL, one of histories of instances of nighthawking
+ORG,Corbridge, town on ,ORG, outskirts of modern-day Corbridge in Northumberland
+GPE,England, in examples is ,DATE, Addyman 2001

@@ -1,0 +1,30 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Jiri Frel, was associated with ,O, irregularities regarding museum acquisitions
+PERSON,Getty, decided After ,O, inspection
+NORP,Becchina, is ,NORP, Italian
+PERSON,Marion True, was Curator from ,DATE, 1986 until 2005
+PERSON,Marion True, was ,PERSON, Curator at J.Paul Getty Museum from 1986 until 2005
+PERSON,Jiri Frel, was ,O, curator
+PERSON,Jiri Frel, was associated with ,O, irregularities
+PERSON,Marion True, was ,PERSON, Curator of Antiquities at J.Paul Getty Museum in Los Angeles from 1986 until 2005
+PERSON,Marion True, was ,PERSON, Curator of Antiquities at J.Paul Getty Museum from 1986 until 2005
+PERSON,Marion True, was Curator at ,PERSON, J.Paul Getty Museum
+PERSON,Marion True, was Curator of ,O, Antiquities
+PERSON,Jiri Frel, was curator of ,O, antiquities
+PERSON,Marion True, was Curator at ,PERSON, J.Paul Getty Museum in Los Angeles
+PERSON,Marion True, was ,DATE, Curator at J.Paul Getty Museum in Los Angeles from 1986 until 2005
+PERSON,Marion True, was ,PERSON, Curator of Antiquities at J.Paul Getty Museum
+PERSON,Jiri Frel, was associated with ,O, several irregularities regarding museum acquisitions
+PERSON,Jiri Frel, was ,O, associated
+PERSON,http://www.nytimes.com/1991/08/04/arts/art-absolutely-real-absolutely-fake.html?pagewanted=all&src=pm, accessed ,DATE, 17 July 2012
+PERSON,Jiri Frel, was curator at ,PERSON, J.Paul Getty Museum
+PERSON,Marion True, was ,DATE, Curator of Antiquities at J.Paul Getty Museum in Los Angeles from 1986 until 2005
+PERSON,Marion True, was ,DATE, Curator of Antiquities at J.Paul Getty Museum from 1986 until 2005
+PERSON,Marion True, was ,PERSON, Curator at J.Paul Getty Museum in Los Angeles from 1986 until 2005
+PERSON,Marion True, was ,PERSON, Curator of Antiquities at J.Paul Getty Museum in Los Angeles
+PERSON,Jiri Frel, was ,PERSON, curator of antiquities at J.Paul Getty Museum
+PERSON,Marion True, was ,DATE, Curator at J.Paul Getty Museum from 1986 until 2005
+PERSON,Getty, transported ,O, it
+PERSON,Marion True, was ,O, Curator
+PERSON,Jiri Frel, was associated with ,O, several irregularities
+PERSON,Marion True, was ,DATE, Curator of Antiquities from 1986 until 2005

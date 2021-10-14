@@ -1,0 +1,21 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORG,Malter, pled ,DATE, guilty to conspiracy in February 2000
+LOC,Portakalci, was selling artifacts including ,ORG, Joel Malter
+LOC,Portakalci, was selling artifacts including ,GPE, Joel Malter in Encino
+ORG,US Customs, became In ,DATE, October 1997
+PERSON,Joel Malter, is in ,GPE, Encino
+LOC,Portakalci, was selling artifacts including ,ORG, Joel Malter of Malter Galleries in Encino
+LOC,Portakalci, was selling artifacts including ,ORG, Joel Malter in Encino
+LOC,Portakalci, was arrested In ,O, June 1998
+LOC,Portakalci, was selling ,O, artifacts
+LOC,Portakalci, was ,O, arrested
+LOC,Portakalci, was arrested along with ,CARDINAL, four men
+ORG,Malter, pled In ,O, United States
+ORG,Malter, pled ,O, guilty
+LOC,Portakalci, was selling artifacts on ,O, on collectors
+LOC,Portakalci, was selling artifacts including ,ORG, Joel Malter of Malter Galleries
+LOC,Portakalci, was arrested along with ,CARDINAL, four other men
+ORG,Malter, pled ,O, guilty to conspiracy
+ORG,US Customs, became ,O, aware
+LOC,Portakalci, was selling artifacts including ,GPE, Joel Malter of Malter Galleries in Encino
+DATE,25 February, Department of ,O, Treasury

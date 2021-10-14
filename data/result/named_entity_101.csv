@@ -1,0 +1,7 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORG,Christie, in ,DATE, 16 June 2006
+ORG,Christie, allowing ,O, US Customs
+ORG,Christie, withdrew ,O, piece
+ORG,Metropolitan, has ,O, curator
+ORG,Christie, withdrew piece from ,O, sale
+ORG,Christie, has ,O, New York

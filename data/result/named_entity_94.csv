@@ -1,0 +1,43 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORG,Rassiga, approached ,O, then director of Metropolitan Museum
+PERSON,Everett Rassiga, Website of ,O, Metropolitan Museum
+ORG,Rassiga, returned ,O, facade
+ORG,Rassiga, presented ,ORG, Bernal
+ORG,Rassiga, suggested to ,ORG, Bernal
+ORG,Rassiga, suggested to ,ORG, shocked Bernal
+ORG,Rassiga, returned facade to ,GPE, Mexico
+ORG,Rassiga, approached ,O, then director
+ORG,Rassiga, 's name is ,DATE, Meyer 1973
+PERSON,Thomas Hoving, director of ,O, Metropolitan Museum in New York
+ORG,Rassiga, approached ,O, director of Metropolitan Museum of Art in New York
+ORG,Rassiga, owned house in ,O, city
+ORG,Rassiga, allegedly suggested to ,ORG, shocked Bernal
+ORG,Rassiga, approached ,O, director of Metropolitan Museum
+ORG,Rassiga, has ,O, name
+ORG,Rassiga, approached ,O, director of Metropolitan Museum of Art
+ORG,Rassiga, returned to ,GPE, Mexico
+ORG,Rassiga, through ,O, hands the 1950s now in collection of Metropolitan Museum of Art
+ORG,Rassiga, approached ,O, Thomas Hoving
+ORG,Rassiga, approached ,O, then director of Metropolitan Museum in New York
+GPE,Placeres, is ,O, Late
+ORG,Rassiga, allegedly suggested to ,ORG, Bernal
+ORG,Rassiga, 's name is ,ORG, Meyer 1973
+GPE,Mexico, at ,O, National Museum of Anthropology of possible major theft
+ORG,Rassiga, owned house in ,NORP, Mexican city of Cuernavaca
+ORG,Bernal, visited ,ORG, Met
+ORG,Rassiga, owned house in ,NORP, Mexican city
+ORG,Rassiga, subsequently returned facade to ,GPE, Mexico
+ORG,Meyer, According to ,O, account
+GPE,Placeres, is ,O, located
+ORG,Rassiga, subsequently returned to ,GPE, Mexico
+GPE,Sweden, of ,O, National Museum
+ORG,Rassiga, approached ,O, director
+ORG,Rassiga, approached ,O, then director of Metropolitan Museum of Art in New York
+ORG,Bernal, visited Met According to ,ORG, Meyer 's account
+ORG,Rassiga, subsequently returned ,O, facade
+GPE,Placeres, is ,LOC, Maya
+ORG,Rassiga, owned ,O, house
+ORG,Rassiga, approached ,O, director of Metropolitan Museum in New York
+ORG,Rassiga, approached ,O, then director of Metropolitan Museum of Art
+GPE,Placeres, is ,O, Classic
+ORG,Rassiga, owned house in ,O, city of Cuernavaca

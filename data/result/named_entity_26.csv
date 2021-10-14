@@ -1,0 +1,20 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Kingsbury, bought ,O, material
+ORG,British Museum, confirm ,O, archaeologist
+PERSON,Kingsbury, admitted ,O, having
+PERSON,Neil Kingsbury, pleaded ,O, guilty to charges relating to misrepresentation of provenance
+PERSON,Neil Kingsbury, pleaded ,O, guilty to charges relating to misrepresentation
+PERSON,Neil Kingsbury, pleaded ,O, guilty to charges relating to fraudulent misrepresentation of provenance
+PERSON,Neil Kingsbury, pleaded ,O, guilty to charges relating
+PERSON,Kingsbury, bought ,O, material in tourist shop
+ORG,British Museum, confirm ,O, identity
+ORG,http://english.ahram.org.eg/NewsContent/9/0/78641/Heritage/0/British-Museum-and-archaeologist-confirm-identity-.aspx, accessed ,DATE, 6 February 2014
+ORG,British Museum, confirm ,O, identity of stolen artifact
+ORG,British Museum, confirm ,O, identity of artifact
+PERSON,Neil Kingsbury, pleaded In ,O, August
+PERSON,Neil Kingsbury, pleaded ,O, guilty
+PERSON,Neil Kingsbury, pleaded ,O, guilty to charges relating to fraudulent misrepresentation
+PERSON,Neil Kingsbury, pleaded ,O, guilty to charges
+PERSON,Kingsbury, bought ,GPE, material in tourist shop in Egypt
+ORG,British Museum, confirm ,NORP, identity of Egyptian artifact
+ORG,British Museum, confirm ,NORP, identity of stolen Egyptian artifact

@@ -1,0 +1,6 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORG,Kelker, Faking ,O, Ancient Mesoamerica
+PERSON,Self Portrait, is with ,O, Small Monkey
+ORG,Kelker, Faking ,O, Mesoamerica
+PERSON,Kahlo, 's 1945 is ,O, Self Portrait with Small Monkey
+PERSON,Kahlo, of ,O, 1945 Self Portrait with Small Monkey

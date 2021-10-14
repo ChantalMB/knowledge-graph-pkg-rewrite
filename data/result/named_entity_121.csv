@@ -1,0 +1,30 @@
+Type,Entity 1,Relationship,Type,Entity2
+NORP,Medici, visited ,O, warehouse
+NORP,Medici, reported on ,O, condition
+NORP,Medici, was scheduled ,GPE, Munich on 15 June
+GPE,Koutoulakis, asked ,NORP, Giacomo Medici
+NORP,Medici, reported back on ,O, condition
+QUANTITY,2.04 m, is in ,O, height
+NORP,Medici, be in ,GPE, Munich
+GPE,Munich, watch ,O, football match
+PERSON,Todeschini, has ,O, use of term
+NORP,Medici, was ,O, scheduled
+NORP,Medici, was scheduled ,GPE, Munich
+PERSON,Watson, reported ,O, statements to effect
+ORG,Tsirogiannis, University of ,O, Cambridge
+NORP,Medici, kept Polaroid images in ,O, his archive
+NORP,Medici, kept ,ORG, Polaroid images
+PERSON,Giacomo Medici, illegal export of ,O, goods
+GPE,Munich, watch ,GPE, football match between Italy
+PERSON,Giacomo Medici, check ,O, object
+NORP,Medici, be in ,GPE, Munich on 15 June
+PERSON,Giacomo Medici, conspiracy to ,O, traffic
+ORG,Tsirogiannis, Unravelling International Illicit Antiquities Network through ,O, Robin Symes-Christos Michaelides archive
+NORP,Medici, reported back on ,O, condition of statue
+NORP,Medici, reported on ,O, condition of statue
+PERSON,Giacomo Medici, check object for ,O, him
+ORG,Tsirogiannis, Unravelling ,O, International Illicit Antiquities Network
+PERSON,Watson, reported ,O, statements
+PERSON,Giacomo Medici, export of ,O, goods
+PERSON,Watson, reported ,PERSON, Todeschini
+NORP,Medici, is ,NORP, Italian

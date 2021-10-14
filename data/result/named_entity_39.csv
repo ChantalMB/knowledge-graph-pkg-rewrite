@@ -1,0 +1,84 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORG,Medici, opened ,O, gallery Antiquaria Romana
+ORG,Medici, bought ,O, Geneva-based Editions Services
+PERSON,Getty, returned ,O, kylix
+ORG,Marion True, was ,PERSON, Curator of Antiquities at J.Paul Getty Museum
+ORG,Medici, had developed ,O, relations with antiquities dealers
+ORG,Medici, had developed ,O, commercial relations with antiquities dealers
+ORG,Carabinieri, raided ,ORG, Medici 's home in Santa Marinella
+ORG,Marion True, was Curator at ,PERSON, J.Paul Getty Museum
+ORG,Marion True, was ,DATE, Curator of Antiquities from 1986 until 2005
+ORG,Carabinieri, decided ,O, act
+ORG,Medici, had developed relations By ,DATE, late 1980s
+ORG,Medici, has ,O, central position in organisation of antiquities
+ORG,Medici, started ,O, dealing in antiquities
+ORG,Marion True, was ,PERSON, Curator at J.Paul Getty Museum in Los Angeles from 1986 until 2005
+ORG,Marion True, was ,PERSON, Curator of Antiquities at J.Paul Getty Museum in Los Angeles
+PERSON,Getty, returned to ,GPE, Italy
+ORG,Metropolitan, restored ,O, ownership
+ORG,Medici, is ,NORP, Italian
+ORG,Medici, started ,GPE, dealing in Rome
+ORG,Marion True, was Curator from ,DATE, 1986 until 2005
+ORG,http://www.theartnewspaper.com/articles/Looted%20from%20Italy%20and%20now%20in%20a%20major%20Spanish%20museum?/21261, accessed ,O, 17 July 2012
+ORG,Medici, had developed ,O, relations with major antiquities dealers
+ORG,Medici, was ,GPE, In January 1997 arrested in Rome
+ORG,Medici, had developed relations By ,DATE, 1980s
+ORG,Medici, started ,GPE, dealing in antiquities in Rome
+ORG,Metropolitan, restored ownership In ,DATE, 2006
+ORG,Medici, started ,GPE, dealing in antiquities in Rome during 1960s
+PERSON,Hydra Gallery, providing ,O, false provenance
+DATE,ten years, is in ,O, prison
+ORG,Medici, dealing in ,GPE, Rome
+ORG,Marion True, was ,O, Curator
+PERSON,Getty, returned kylix to ,GPE, Italy
+ORG,Medici, opened ,GPE, gallery Antiquaria Romana in Rome
+ORG,Medici, had developed ,O, relations with antiquities dealers including Robin Symes
+ORG,Medici, was arrested in ,GPE, Rome
+ORG,Medici, was arrested In ,DATE, January 1997
+ORG,Medici, had developed ,O, commercial relations with major antiquities dealers
+ORG,Medici, to ,O, business practices
+PERSON,Getty, returned kylix in ,DATE, 1999
+ORG,Medici, was arrested in ,CARDINAL, Silver 2009 175-6
+ORG,Marion True, was ,DATE, Curator at J.Paul Getty Museum from 1986 until 2005
+ORG,Medici, was arrested in ,DATE, Silver 2009 175-6
+ORG,Medici, dealing in ,O, antiquities
+ORG,Marion True, was ,DATE, Curator of Antiquities at J.Paul Getty Museum in Los Angeles from 1986 until 2005
+ORG,Medici, started ,O, dealing during 1960s
+PERSON,Hydra Gallery, fragments of ,O, Onesimos kylix
+ORG,Marion True, was ,PERSON, Curator at J.Paul Getty Museum from 1986 until 2005
+ORG,Marion True, was ,DATE, Curator of Antiquities at J.Paul Getty Museum from 1986 until 2005
+ORG,Medici, was ,O, arrested
+ORG,Medici, started ,O, dealing
+ORG,Medici, dealing during ,DATE, Silver 2009
+ORG,Medici, has ,O, storage space
+ORG,Medici, was ,DATE, In January 1997 arrested in Rome
+ORG,Medici, of ,O, storerooms
+ORG,Medici, receiving ,O, stolen goods
+ORG,Medici, trafficked ,CARDINAL, thousands of artefacts
+ORG,Medici, into ,O, business
+ORG,Metropolitan, restored ,O, ownership of krater
+ORG,Marion True, was ,PERSON, Curator of Antiquities at J.Paul Getty Museum in Los Angeles from 1986 until 2005
+ORG,Carabinieri, raided ,ORG, Medici 's home
+ORG,Marion True, was ,PERSON, Curator of Antiquities at J.Paul Getty Museum from 1986 until 2005
+ORG,Medici, had developed ,O, relations with other major antiquities dealers
+PERSON,Getty, returned in ,DATE, 1999
+ORG,Marion True, was Curator of ,O, Antiquities
+ORG,Medici, opened gallery Antiquaria Romana In ,DATE, 1968
+ORG,Medici, had developed ,O, commercial relations with other major antiquities dealers
+ORG,Medici, had developed ,O, relations
+ORG,Medici, had developed ,O, commercial relations
+ORG,Medici, dealing during ,O, 1960s
+ORG,Medici, bought ,O, Editions Services
+ORG,Medici, has ,O, home in Santa Marinella
+ORG,Medici, had developed ,O, relations with other antiquities dealers
+ORG,Medici, had developed ,O, commercial relations with other antiquities dealers
+ORG,Medici, receiving ,O, goods
+ORG,Medici, thousands of ,O, artefacts
+ORG,Medici, trafficked ,CARDINAL, thousands
+PERSON,http://www.bloomberg.com/apps/news?pid=newsarchive&sid=asneBHwVx9wU, accessed ,O, 17 July 2012
+ORG,Marion True, was ,DATE, Curator at J.Paul Getty Museum in Los Angeles from 1986 until 2005
+ORG,Marion True, was Curator at ,PERSON, J.Paul Getty Museum in Los Angeles
+ORG,Medici, started ,O, dealing in antiquities during 1960s
+ORG,Medici, started ,GPE, dealing in Rome during 1960s
+ORG,Metropolitan, restored ,GPE, ownership of krater to Italy
+ORG,Medici, was ,O, charged

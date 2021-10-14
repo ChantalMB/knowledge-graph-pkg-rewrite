@@ -1,0 +1,34 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Diaz-Andreu, Nationalism in ,LOC, Europe
+PERSON,Pettazzoni, Origins of ,O, Three-Headed Representation
+ORG,Mgeltønder, is in ,O, southern Jutland
+NORP,Nationalism, is in ,LOC, Europe
+ORG,Golden Horns, were stolen On ,DATE, 4 May 1802
+ORG,Golden Horns, causing ,O, national uproar
+PERSON,Marie Louise Stig, fall of ,O, nation
+GPE,Denmark, of Museum is ,DATE, Olsen 2004
+ORG,Golden Horns, were ,CARDINAL, On 4 May 1802 stolen by goldsmith
+PERSON,Heidenreich, spent ,DATE, almost forty years in prison
+ORG,Reuters, copies of ,ORDINAL, 5th century
+ORG,Golden Horns, were ,DATE, On 4 May 1802 stolen by goldsmith
+ORG,Golden Horns, were stolen On ,CARDINAL, 4 May 1802
+ORG,Golden Horns, causing ,GPE, national uproar in Denmark
+GPE,Denmark, has ,O, Golden Horns
+ORG,Golden Horns, were ,CARDINAL, On 4 May 1802 stolen by goldsmith named
+PERSON,Heidenreich, spent ,DATE, almost forty years
+ORG,Golden Horns, were ,O, stolen
+PERSON,Jennbert, is in ,GPE, Norse paganism
+ORG,Golden Horns, were stolen by ,O, goldsmith named
+GPE,Rome, in Institute is ,O, Proceedings of conference at Swedish Institute
+PERSON,Heidenreich, was ,O, arrested
+PERSON,Marie Louise Stig, birth of ,O, subject
+LOC,Europe, in Nationalism is ,O, 24-47
+ORG,Golden Horns, were ,DATE, On 4 May 1802 stolen by goldsmith named
+PERSON,Heidenreich, was ,O, arrested year later
+PERSON,Adam Gottlob Oehlenschläger, writer of ,NORP, Danish national anthem
+ORG,Golden Horns, causing ,O, uproar
+ORG,Golden Horns, causing ,GPE, uproar in Denmark
+ORG,Golden Horns, were stolen by ,O, goldsmith
+LOC,Europe, in Nationalism is ,CARDINAL, 1-23
+PERSON,Heidenreich, was ,O, arrested later
+ORG,Eskildsen, Language of ,O, Objects

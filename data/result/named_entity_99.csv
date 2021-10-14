@@ -1,0 +1,68 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORG,Stead, tried Over ,O, few years
+ORG,Stead, tried ,O, others
+ORG,British Museum, later returned ,O, artefacts
+PERSON,David Keys, received ,O, telephone call
+ORG,British Museum, paid for ,O, same collection of artefacts
+PERSON,McAlpine, sold shields After ,O, negotiation
+ORG,Stead, tried Over ,O, next years
+ORG,British Museum, returned to ,O, his daughter
+ORG,Garriock, as was Cummings ,O, tried
+ORG,British Museum, returned to ,DATE, Horsnell 1995a
+ORG,British Museum, paid over for ,O, same collection of artefacts
+ORG,Salisbury Hoard, been found on ,DATE, Stead 1998
+ORG,British Museum, is in ,O, effect
+ORG,Horsnell, was sold ,O, stolen relics
+ORG,Garriock, were tried in ,DATE, 1995
+PERSON,McAlpine, in ,O, catalogue
+ORG,Garriock, has ,O, associate detecting
+ORG,British Museum, paid for ,O, collection
+ORG,Stead, tried Over ,O, next few years
+ORG,Salisbury Hoard, been found on ,O, 23 February 1985
+ORG,British Museum, returned to ,ORG, Horsnell 1995a
+ORG,Salisbury Hoard, been found on ,ORG, Stead 1998
+ORG,MacGregor, Antiquities from ,LOC, Europe
+PERSON,David Keys, journalist with ,O, Independent
+PERSON,McAlpine, sold shields for ,DATE, Donegan 1995
+PERSON,David Keys, received ,CARDINAL, telephone call from one finders
+ORG,British Museum, paid twice over for ,O, same collection
+ORG,British Museum, purchase anyway due ,O, artefacts
+ORG,British Museum, paid over for ,O, collection
+ORG,British Museum, returned artefacts to ,DATE, Horsnell 1995a
+PRODUCT,Rossiter, led ,ORG, Stead
+ORG,British Museum, later returned artefacts to ,DATE, Horsnell 1995a
+ORG,Stead, find ,O, others
+ORG,British Museum, paid twice over for ,O, same collection of artefacts
+ORG,British Museum, returned artefacts to ,O, his daughter
+ORG,Stead, meet ,ORG, Garriock
+ORG,British Museum, purchase ,O, artefacts
+PERSON,John Cummings, dealer from ,GPE, Lincolnshire
+ORG,Garriock, tried ,PRODUCT, Rossiter
+ORG,British Museum, purchase due ,O, artefacts
+ORG,Stead, tried Over ,O, years
+ORG,Salisbury Hoard, been ,O, found
+ORG,British Museum, returned ,O, artefacts
+ORG,Stead, arranged On ,DATE, 22 October 1993
+ORG,British Museum, paid for ,O, collection of artefacts
+ORG,British Museum, later returned artefacts to ,ORG, Horsnell 1995a
+PERSON,McAlpine, sold shields to ,NORP, British Museum
+PERSON,David Keys, received ,CARDINAL, telephone call from one of finders
+ORG,British Museum, later returned to ,DATE, Horsnell 1995a
+ORG,British Museum, later returned to ,O, his daughter
+PERSON,McAlpine, sold ,O, shields
+ORG,British Museum, paid over for ,O, collection of artefacts
+ORG,British Museum, paid twice over for ,O, collection
+ORG,British Museum, later returned artefacts to ,O, his daughter
+ORG,British Museum, later returned to ,ORG, Horsnell 1995a
+ORG,Horsnell, was sold ,O, relics
+PERSON,McAlpine, sold shields for ,PERSON, Donegan 1995
+ORG,Stead, has ,O, notes of whole experience
+ORG,British Museum, returned artefacts to ,ORG, Horsnell 1995a
+ORG,British Museum, paid over for ,O, same collection
+PERSON,McAlpine, sold shields to ,O, Museum
+ORG,Stead, again arranged On ,DATE, 22 October 1993
+ORG,Garriock, was Cummings ,O, tried
+ORG,Devizes Museum, is in ,ORG, Wiltshire
+ORG,British Museum, paid for ,O, same collection
+ORG,Garriock, were ,O, tried
+ORG,British Museum, paid twice over for ,O, collection of artefacts

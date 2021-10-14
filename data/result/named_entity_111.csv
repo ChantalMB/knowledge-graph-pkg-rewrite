@@ -1,0 +1,169 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Fred Drew, was retired American diplomat ,O, who had been functioning as buyer for about 20 years
+PERSON,Kelly, contacted ,ORG, United States Customs agent Gaston Wallace
+GPE,Swetnam, agreed ,O, plead
+PERSON,Pereda, to ,O, home
+PERSON,Poli, claims ,O, have met with former policeman
+ORG,US Customs, conducted ,O, series of raids on targets identified through secret recordings
+PERSON,Drew, was ,NORP, American
+PERSON,Drew, normally have ,GPE, Swetnam
+PERSON,Kelly, collect ,NORP, Peruvian objects in London
+PERSON,Drew, purchased ,GPE, large portions of Sipán collection
+ORG,US Customs, conducted ,PERSON, series of raids on targets identified through secret recordings made by Kelly
+PERSON,Drew, purchased portions with ,O, money provided
+ORG,US Customs, conducted ,PERSON, series on targets identified through recordings made by Kelly
+ORG,US Customs, conducted ,O, series on targets identified through recordings
+PERSON,Fred Drew, was retired diplomat ,GPE, who had been functioning for about 20 years before Sipán looting
+ORG,US Customs, conducted ,O, series of raids
+ORG,US Customs, conducted ,O, series of raids on targets identified through recordings made
+PERSON,Kelly, pay for ,O, airfare
+PERSON,Drew, sometimes bribing ,O, customs officers
+PERSON,Drew, bribing ,O, customs officers
+PERSON,Drew, had worked of ,O, member
+PERSON,Kelly, collect ,O, objects
+PERSON,Drew, purchased portions with ,GPE, money provided by US antiquities dealer
+PERSON,Drew, purchased portions with ,O, money
+PERSON,Poli, claims ,O, have met
+PERSON,Drew, purchased portions with ,GPE, money provided by US antiquities dealer named
+PERSON,Kelly, collect ,NORP, illegally exported Peruvian objects in London
+PERSON,Drew, smuggle ,GPE, Swetnam
+ORG,US Customs, conducted ,O, series of raids on targets
+ORG,US Customs, series of ,O, raids
+ORG,US Customs, series on ,O, targets identified through secret recordings made
+GPE,Swetnam, was sentenced to ,O, six months in prison
+PERSON,Fred Drew, was diplomat ,GPE, who had been functioning for about 20 years before Sipán looting
+PERSON,Fred Drew, was retired American diplomat ,O, who had been functioning
+GPE,Swetnam, devised ,O, way
+PERSON,Pereda, at ,O, house
+PERSON,Drew, bribing ,NORP, Peruvian customs officers
+PERSON,Drew, had worked together of ,PERSON, Michael Kelly
+GPE,Swetnam, offered ,O, pay
+PERSON,Kelly, for ,O, plane tickets
+PERSON,Poli, met with ,O, former policeman
+PERSON,Kelly, was ,O, unable
+PERSON,Kelly, collect ,NORP, illegally exported Peruvian objects
+PERSON,Drew, focusing on ,O, procurement
+PERSON,Kelly, called ,O, Art Collections Conservation Network
+PERSON,Drew, worked ,GPE, Swetnam
+ORG,US Customs, conducted ,O, series on targets identified through secret recordings made
+PERSON,Drew, had worked together According to ,O, testimony
+PERSON,Drew, had worked of ,O, member of smuggling operation
+PERSON,Kelly, provide ,O, false provenance
+GPE,Swetnam, was ,DATE, On 26 June 1989 sentenced to six months
+PERSON,Kelly, receive ,O, footlocker full
+PERSON,Kelly, collect ,GPE, Peruvian objects in London
+PERSON,Kelly, has ,O, recently deceased father
+PERSON,Drew, handed ,GPE, Sipán objects
+PERSON,Fred Drew, was American diplomat ,O, who had been functioning
+GPE,Swetnam, removed in ,O, United Kingdom
+PERSON,Fred Drew, was American diplomat ,O, who had been functioning for about 20 years
+PERSON,Fred Drew, was American diplomat ,GPE, who had been functioning as buyer for about 20 years before Sipán looting
+PERSON,Fred Drew, was retired diplomat ,GPE, who had been functioning as buyer for about 20 years before Sipán looting
+ORG,US Customs, series on ,PERSON, targets identified through recordings made by Kelly
+PERSON,Jacqueline, were ,O, charged
+PERSON,Fred Drew, was diplomat ,O, who had been functioning as buyer
+PERSON,Drew, purchased ,GPE, portions of Sipán collection
+ORG,US Customs, conducted ,O, series of raids on targets identified through recordings
+PERSON,Drew, worked together ,GPE, Swetnam
+PERSON,Fred Drew, was American diplomat ,O, who had been functioning as buyer for about 20 years
+ORG,US Customs, conducted ,O, series of raids on targets identified
+ORG,US Customs, conducted ,O, series on targets identified
+PERSON,Kelly, provide ,O, false provenance based
+GPE,Bolivia, was ,O, viable
+PERSON,Drew, was ,O, retired
+PERSON,Drew, have ,GPE, Swetnam
+PERSON,Fred Drew, was diplomat ,GPE, who had been functioning before Sipán looting
+ORG,US Customs, series on ,O, targets
+PERSON,Drew, sometimes bribing customs officers in ,DATE, Atwood 2004
+GPE,Swetnam, plead ,CARDINAL, guilty to three counts receiving
+PERSON,Kelly, pay for ,O, airfare back
+PERSON,Fred Drew, was retired diplomat ,O, who had been functioning as buyer
+PERSON,Drew, focusing on ,GPE, procurement of Sipán objects
+PERSON,Kelly, collect ,NORP, Peruvian objects
+ORG,US Customs, series on ,O, targets identified through recordings made
+PERSON,Kelly, was ,O, claim
+PERSON,Kelly, pay for ,GPE, airfare back to UK
+ORG,US Customs, conducted ,PERSON, series on targets identified through secret recordings made by Kelly
+ORG,US Customs, conducted ,O, series of raids on targets identified through secret recordings made
+PERSON,Fred Drew, was retired diplomat ,O, who had been functioning as buyer for about 20 years
+PERSON,Drew, bribing customs officers in ,O, process
+ORG,US Customs, series on ,O, targets identified through recordings
+PERSON,Fred Drew, was retired American diplomat ,GPE, who had been functioning before Sipán looting
+PERSON,Fred Drew, was retired American diplomat ,O, who had been functioning as buyer
+ORG,US Customs, conducted ,O, series on targets
+PERSON,Drew, had worked According to ,O, testimony
+PERSON,Fred Drew, was retired American diplomat ,GPE, who had been functioning as buyer before Sipán looting
+GPE,Swetnam, pay for ,PERSON, Kelly 's plane tickets
+PERSON,Drew, smuggle antiquities out of ,GPE, Peru
+PERSON,Fred Drew, was diplomat ,GPE, who had been functioning as buyer for about 20 years before Sipán looting
+PERSON,Drew, purchased ,O, large portions
+PERSON,Kelly, collect ,GPE, objects in London
+PERSON,Fred Drew, was retired diplomat ,O, who had been functioning for about 20 years
+PERSON,Drew, smuggle antiquities in ,O, past
+PERSON,Fred Drew, was diplomat ,O, who had been functioning for about 20 years
+PERSON,Drew, purchased ,O, portions
+PERSON,Kelly, collect ,GPE, exported objects in London
+PERSON,Drew, had worked of ,PERSON, Michael Kelly
+PERSON,Kelly, collect ,GPE, exported Peruvian objects in London
+ORG,US Customs, series on ,O, targets identified through secret recordings
+PERSON,Fred Drew, was diplomat ,O, who had been functioning as buyer for about 20 years
+GPE,Swetnam, removed in ,O, Once United Kingdom
+PERSON,Kelly, receive ,O, footlocker
+PERSON,Drew, bribing ,GPE, Swetnam
+PERSON,Drew, smuggle ,O, antiquities
+GPE,Swetnam, was sentenced On ,DATE, 26 June 1989
+PERSON,Fred Drew, was American diplomat ,O, who had been functioning as buyer
+PERSON,Fred Drew, was retired American diplomat ,GPE, who had been functioning as buyer for about 20 years before Sipán looting
+PERSON,Kelly, collect ,NORP, exported Peruvian objects
+PERSON,Drew, sometimes bribing ,NORP, Peruvian customs officers
+PERSON,Drew, had worked together of ,O, member
+PERSON,Fred Drew, was diplomat ,GPE, who had been functioning as buyer before Sipán looting
+PERSON,Kelly, collect ,O, illegally exported objects
+GPE,Swetnam, was ,DATE, On 26 June 1989 sentenced to six months in prison
+ORG,US Customs, conducted ,O, series on targets identified through recordings made
+PERSON,Michael Kelly, member of ,O, smuggling operation
+ORG,US Customs, conducted ,O, series
+PERSON,Jacqueline, were charged with ,CARDINAL, ten counts
+PERSON,Fred Drew, was American diplomat ,GPE, who had been functioning as buyer before Sipán looting
+PERSON,Fred Drew, was diplomat ,O, who had been functioning
+PERSON,Fred Drew, was retired diplomat ,GPE, who had been functioning before Sipán looting
+GPE,Swetnam, replaced ,O, them
+GPE,Swetnam, devised ,O, way for pieces
+PERSON,Kelly, collect ,GPE, illegally exported objects in London
+PERSON,Drew, eventually settled ,GPE, Swetnam
+ORG,US Customs, series on ,PERSON, targets identified through secret recordings made by Kelly
+GPE,Sipán, is in ,GPE, Peru
+ORG,US Customs, conducted ,O, series on targets identified through secret recordings
+PERSON,Drew, settled ,GPE, Swetnam
+PERSON,Craig, in ,O, home
+GPE,Swetnam, plead ,CARDINAL, guilty to three counts
+PERSON,Fred Drew, was retired American diplomat ,GPE, who had been functioning for about 20 years before Sipán looting
+DATE,six months, is in ,O, prison
+PERSON,Drew, sometimes bribing customs officers in ,O, process
+PERSON,Kelly, collect ,O, exported objects
+PERSON,Drew, had worked together of ,O, member of smuggling operation
+PERSON,Kelly, contacted United States Customs agent Gaston Wallace On ,DATE, 18 September 1987
+ORG,US Customs, conducted series On ,O, 30 March
+PERSON,Drew, sometimes bribing ,GPE, Swetnam
+GPE,Swetnam, was sentenced to ,O, six months
+GPE,Swetnam, was ,O, sentenced
+PERSON,Berckemeyer, used ,O, family cartel connections
+PERSON,Fred Drew, was American diplomat ,GPE, who had been functioning for about 20 years before Sipán looting
+PERSON,Fred Drew, was retired diplomat ,O, who had been functioning
+GPE,Swetnam, plead ,O, guilty
+PERSON,Fred Drew, was American diplomat ,GPE, who had been functioning before Sipán looting
+PERSON,Kelly, pay for ,O, funeral
+PERSON,Fred Drew, was retired diplomat ,GPE, who had been functioning as buyer before Sipán looting
+PERSON,Kelly, collect ,GPE, illegally exported Peruvian objects in London
+PERSON,Fred Drew, was retired American diplomat ,O, who had been functioning for about 20 years
+PERSON,Kelly, receive ,GPE, footlocker full of Sipán objects
+PERSON,Johnson, authenticated ,O, shipment
+GPE,Swetnam, offered ,PERSON, pay for Kelly 's plane tickets
+ORG,US Customs, conducted ,PERSON, series of raids on targets identified through recordings made by Kelly
+ORG,US Customs, series on ,O, targets identified
+PERSON,Jacqueline, were charged with ,CARDINAL, ten counts of conspiracy
+PERSON,Drew, bribing customs officers in ,DATE, Atwood 2004
+PERSON,Kelly, collect ,NORP, exported Peruvian objects in London
+PERSON,Pereda, informed ,PERSON, Poli
+PERSON,Kirkpatrick, Lords of ,GPE, Sipán
+PERSON,Kelly, provide ,O, false provenance based on his father 's death

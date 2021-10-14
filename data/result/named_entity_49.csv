@@ -1,0 +1,63 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Getty, receiving ,O, corroborating information
+ORG,Greek Vases, is in ,PERSON, J. Paul Getty Museum
+PERSON,Hydra Gallery, is now thought ,O, have been acting
+PERSON,Marion True, was ,O, Curator
+PERSON,Getty, receiving ,O, information
+PERSON,Hydra Gallery, is ,O, thought
+ORG,Medici, handed over ,O, pieces shown in photograph
+PERSON,Getty, receiving ,GPE, information from Italy
+PERSON,Getty, returns ,CARDINAL, three works 1
+PERSON,Hydra Gallery, is thought ,ORG, have been acting as front for dealer Giacomo Medici
+PERSON,Marion True, was Curator from ,DATE, 1986 until 2005
+PERSON,Marion True, was ,PERSON, Curator at J.Paul Getty Museum from 1986 until 2005
+PERSON,Getty, returns ,CARDINAL, 90
+ORG,Medici, is ,NORP, Italian
+GPE,Munich, of Savoca is ,PERSON, Watson
+ORG,Medici, handed over ,O, pieces shown
+PERSON,Getty, returns ,CARDINAL, three stolen works 1
+PERSON,Marion True, was ,PERSON, Curator of Antiquities at J.Paul Getty Museum in Los Angeles from 1986 until 2005
+PERSON,Marion True, was ,PERSON, Curator of Antiquities at J.Paul Getty Museum from 1986 until 2005
+PERSON,Marion True, was Curator at ,PERSON, J.Paul Getty Museum
+PERSON,Getty, own ,O, showing
+PERSON,Marion True, was ,GPE, Curator of Antiquities at J.Paul Getty Museum in Los Angeles from 1986 until 2005
+PERSON,Marion True, was ,GPE, Curator of Antiquities at J.Paul Getty Museum from 1986 until 2005
+ORG,Medici, through ,O, hands
+PERSON,Marion True, was ,GPE, Curator of Antiquities from 1986 until 2005
+PERSON,Marion True, was Curator at ,PERSON, J.Paul Getty Museum in Los Angeles
+PERSON,Marion True, was ,DATE, Curator at J.Paul Getty Museum in Los Angeles from 1986 until 2005
+PERSON,Williams, is in ,O, Marion True
+PERSON,Marion True, was ,PERSON, Curator of Antiquities at J.Paul Getty Museum
+PERSON,Hydra Gallery, acting as ,ORG, front for dealer Giacomo Medici
+PERSON,Hydra Gallery, is now thought ,O, have been acting as front
+PERSON,Getty, acquiring fragments in ,O, 1980s
+PERSON,Giacomo Medici, illegal export of ,O, goods
+PERSON,Giacomo Medici, conspiracy to ,O, traffic
+ORG,Viterbo University, is in ,GPE, Italy
+PERSON,Marion True, was ,GPE, Curator of Antiquities at J.Paul Getty Museum
+PERSON,Getty, acquiring ,O, fragments
+PERSON,Hydra Gallery, is ,O, now thought
+PERSON,Marion True, was Curator of ,GPE, Antiquities
+PERSON,Boursaud, provided as ,O, provenance
+ORG,Medici, handed over ,O, pieces
+PERSON,Getty, complied with ,O, Felch
+PERSON,Hydra Gallery, is thought ,O, have been acting
+PERSON,Hydra Gallery, is thought ,O, have been acting as front
+PERSON,Getty, complied with ,O, her request
+PERSON,Getty, returns ,CARDINAL, 3
+PERSON,Marion True, in Williams is ,O, Onesimos
+PERSON,Marion True, was ,DATE, Curator of Antiquities at J.Paul Getty Museum in Los Angeles from 1986 until 2005
+PERSON,Getty, receiving ,GPE, corroborating information from Italy
+PERSON,Marion True, in Williams is ,GPE, Dyfri
+PERSON,Hydra Gallery, is now thought ,ORG, have been acting as front for dealer Giacomo Medici
+PERSON,Marion True, was ,PERSON, Curator at J.Paul Getty Museum in Los Angeles from 1986 until 2005
+PERSON,Marion True, was ,DATE, Curator at J.Paul Getty Museum from 1986 until 2005
+PERSON,Getty, returns ,O, Art Newspaper
+PERSON,Hydra Gallery, acting as ,O, front
+PERSON,Giacomo Medici, export of ,O, goods
+PERSON,Marion True, was ,DATE, Curator of Antiquities at J.Paul Getty Museum from 1986 until 2005
+PERSON,Marion True, was ,PERSON, Curator of Antiquities at J.Paul Getty Museum in Los Angeles
+PERSON,Marion True, was ,GPE, Curator of Antiquities at J.Paul Getty Museum in Los Angeles
+ORG,Medici, handed over ,DATE, pieces shown in photograph in April 1999
+PERSON,Marion True, was ,DATE, Curator of Antiquities from 1986 until 2005
+ORG,Carabinieri, raided ,GPE, his Geneva storerooms

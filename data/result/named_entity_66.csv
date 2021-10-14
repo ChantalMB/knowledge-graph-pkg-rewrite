@@ -1,0 +1,90 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Hollinshead, had ,O, arrangement
+PERSON,Fell, eventually bringing ,O, stela
+PERSON,Fell, drove to ,O, New York City
+PERSON,Machaquilá, is ,WORK_OF_ART, Maya site located in part of Guatemala 's Petén department
+PERSON,Machaquilá Stela 2, exhibited for ,GPE, sale in Florida
+PERSON,Hollinshead, had ,PERSON, prior arrangement with Alamilla for procurement of looted
+PERSON,Fell, put ,O, stela
+PERSON,Fell, piece ,PERSON, Dwyer
+GPE,Miami, is in ,O, boat concealed by shipment of shrimp
+PERSON,Machaquilá, is ,LOC, Maya site located in part of Guatemala 's Petén department
+PERSON,Hollinshead, had ,PERSON, prior arrangement with Alamilla for procurement
+PERSON,La Porte, Machaquila from ,O, Regional Geographic Perspective
+PERSON,Hollinshead, was brought in ,GPE, Florida
+PERSON,Machaquilá Stela 2, exhibited for ,O, sale
+PERSON,Machaquilá, is ,O, site located in part
+PERSON,Fell, has ,O, cousin Harry Brown
+PERSON,Hollinshead, was brought in ,GPE, Once Florida
+PERSON,Graham, was ,O, told
+PERSON,Machaquilá, is ,GPE, site located in isolated part of Guatemala 's Petén department
+PERSON,Hollinshead, had arrangement According to ,O, indictment
+PERSON,Graham, recorded ,O, presence
+PERSON,Hollinshead, was ,O, on-hand
+PERSON,Machaquilá, was ,O, discovered
+PERSON,Fell, put ,PERSON, Dwyer
+PERSON,Hollinshead, had ,PERSON, arrangement with Alamilla for procurement
+PERSON,Hollinshead, had ,O, arrangement for procurement
+PERSON,Machaquilá, is ,O, site located in isolated part
+PERSON,Machaquilá, is ,GPE, site located in part of Guatemala 's Petén department
+PERSON,Machaquilá, is ,WORK_OF_ART, Maya site located in isolated part of Guatemala 's Petén department
+PERSON,Graham, asked friend as ,O, potential buyer
+PERSON,Hollinshead, had ,PERSON, arrangement with Alamilla
+PERSON,Hollinshead, had ,O, prior arrangement for procurement
+PERSON,Fell, also received ,O, sentence
+PERSON,Fell, bought ,PERSON, Dwyer
+PERSON,Hollinshead, had ,PERSON, prior arrangement with Alamilla
+PERSON,Graham, recorded ,O, presence of stelas
+PERSON,Machaquilá, is ,GPE, Maya site located in isolated part of Guatemala 's Petén department
+PERSON,Bryan R., Stelae of ,PERSON, Machaquilá
+PERSON,Machaquilá, is ,WORK_OF_ART, site located in isolated part of Guatemala 's Petén department
+PERSON,Machaquilá, was ,O, Thus discovered
+PERSON,Graham, asked friend as ,O, potential buyer interested
+PERSON,Fell, continued ,PERSON, Dwyer
+PERSON,Hollinshead, was ,GPE, on-hand in Belize during smuggling process
+PERSON,Machaquilá, is ,LOC, Maya
+PERSON,Hollinshead, were ,O, found
+PERSON,Fell, were discussing ,O, piece
+PERSON,Machaquilá, is ,O, located
+PERSON,Ted Wiener, financed ,PERSON, Hollinshead 's purchase of stela
+PERSON,Machaquilá, is ,LOC, Maya site located in part
+PERSON,Machaquilá Stela 2, been ,O, looted
+PERSON,Graham, asked friend as ,LOC, potential buyer interested in Maya stelas
+PERSON,Hollinshead, were found On ,DATE, 14 March 1973
+PERSON,Fell, bringing ,PERSON, Dwyer
+PERSON,Graham, asked ,O, friend of his pose
+PERSON,Graham, asked ,O, friend
+PERSON,Fell, also received ,O, suspended sentence
+PERSON,Fell, in ,GPE, fish-packing plant in Belize City
+PERSON,Fell, were discussing piece with ,O, her
+PERSON,Fell, continued ,O, their drive
+PERSON,Ted Wiener, financed ,PERSON, Hollinshead 's purchase
+PERSON,Machaquilá, is ,O, site
+PERSON,Hollinshead, had ,PERSON, arrangement with Alamilla for procurement of looted
+PERSON,Fell, eventually bringing ,PERSON, Dwyer
+PERSON,Machaquilá, is ,GPE, Maya site located in part of Guatemala 's Petén department
+PERSON,Hollinshead, found ,PERSON, Fell
+PERSON,Graham, asked friend as ,O, potential buyer interested in stelas
+PERSON,Hollinshead, had ,O, prior arrangement
+PERSON,Machaquilá, is ,LOC, Maya site located in isolated part of Guatemala 's Petén department
+PERSON,Machaquilá, is ,LOC, Maya site located
+PERSON,Hollinshead, restore ,O, piece
+PERSON,Hollinshead, had ,O, prior arrangement for procurement of looted
+PERSON,Fell, put stela in ,O, it
+PERSON,Machaquilá, is ,LOC, Maya site
+PERSON,Hollinshead, was ,O, brought
+GPE,Guatemala, of ,WORK_OF_ART, Petén department
+GPE,North Carolina, is in ,O, attempt sell
+PERSON,Machaquilá, is ,LOC, Maya site located in isolated part
+PERSON,Ian Graham, inform ,O, him
+PERSON,Hollinshead, has ,O, purchase of stela
+PERSON,Hollinshead, has ,O, seized records
+PERSON,Hollinshead, was on-hand in ,GPE, Belize
+PERSON,Hollinshead, was on-hand during ,O, smuggling process
+PERSON,Machaquilá, is ,WORK_OF_ART, site located in part of Guatemala 's Petén department
+PERSON,Hollinshead, had ,O, arrangement for procurement of looted
+PERSON,Machaquilá, is ,O, site located
+PERSON,Fell, received ,O, sentence
+PERSON,Fell, bringing ,O, stela
+PERSON,Fell, drove ,PERSON, Dwyer
+PERSON,Fell, received ,O, suspended sentence

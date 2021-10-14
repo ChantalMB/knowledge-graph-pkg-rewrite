@@ -1,0 +1,13 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Bernstein, filed for ,O, their return
+PERSON,Atwood, records ,O, returned objects
+PERSON,Alva, requested ,O, that
+PERSON,Bernstein, filed Following ,O, seizure of objects
+PERSON,Bernstein, was ,O, consigner
+PERSON,Atwood, records ,O, objects
+PERSON,Bernstein, filed for ,O, their return claiming
+PERSON,Bernstein, for ,O, dealing outfit
+PERSON,Atwood, being ,O, lots
+PERSON,Bernstein, filed Following ,O, seizure
+PERSON,Bernstein, was consigner on ,CARDINAL, lots 10
+PERSON,Bernstein, has ,O, motions

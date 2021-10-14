@@ -1,0 +1,32 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORG,Ixkun, is ,LOC, Maya
+PERSON,Graham, removed ,O, several of pieces to village of Dolores
+PERSON,Graham, removed ,O, several of remaining pieces to village
+PERSON,Ian Graham, remapped ,O, ruins in visits
+PERSON,Graham, finding ,CARDINAL, scattered remains of Stela 5
+PERSON,Ian Graham, also remapped ,DATE, ruins in visits in 1971
+PERSON,Ian Graham, also remapped ,O, ruins
+ORG,Ixkun, is ,O, site
+ORG,Ixkun, was inhabited into ,O, periods
+PERSON,Graham, removed ,O, several
+PERSON,Ian Graham, remapped ,O, ruins
+PERSON,Graham, removed ,O, several of pieces to village
+ORG,Ixkun, is ,LOC, Maya site
+GPE,Guatemala, in ,O, Péten Department
+PERSON,Ian Graham, remapped ,DATE, ruins in visits in 1971
+PERSON,Graham, removed ,O, several to village
+PERSON,Ian Graham, also remapped ,O, ruins in visits
+PERSON,Graham, removed ,O, several of remaining pieces
+ORG,Ixkun, was ,NORP, inhabited from Preclassic into Postclassic periods
+PERSON,Graham, finding ,O, scattered remains
+PERSON,Graham, removed ,O, several of remaining pieces to village of Dolores
+PERSON,Graham, Corpus of ,LOC, Maya Hieroglyphic Inscriptions
+ORG,Ixkun, was inhabited from ,WORK_OF_ART, Preclassic
+PERSON,Graham, removed ,O, several to village of Dolores
+ORG,Ixkun, was inhabited into ,NORP, Postclassic periods
+PERSON,Graham, finding ,CARDINAL, remains of Stela 5
+ORG,Ixkun, was ,WORK_OF_ART, inhabited from Preclassic into periods
+PERSON,Graham, removed ,O, several of pieces
+ORG,Ixkun, was ,O, inhabited
+PERSON,Graham, finding ,O, remains
+ORG,Ixkun, was ,WORK_OF_ART, inhabited from Preclassic into Postclassic periods

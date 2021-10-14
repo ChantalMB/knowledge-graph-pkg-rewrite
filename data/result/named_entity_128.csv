@@ -1,0 +1,9 @@
+Type,Entity 1,Relationship,Type,Entity2
+NORP,Stronghold, is in ,PERSON, Paul Frodsham
+ORG,Yeavering Bell, is in ,GPE, Northumbria
+CARDINAL,34, of total is ,PERSON, Kennedy
+ORG,Yeavering Bell, detectorists from ,O, wrong side of town
+GPE,Northumbria, in Bell is ,O, deliberately metal detect on sites of ancient monuments
+ORG,Yeavering Bell, ' Authority is ,DATE, October 2002
+ORG,Yeavering Bell, at ,GPE, Northumberland National Park Authority
+ORG,Stone, identification during ,GPE, Iraq conflict

@@ -1,0 +1,30 @@
+Type,Entity 1,Relationship,Type,Entity2
+NORP,Becchina, used ,O, false provenance for other artefacts
+NORP,Becchina, similar false provenance for ,GPE, USA 2012
+NORP,Becchina, of ,O, gallery located in Basel
+NORP,Becchina, is ,NORP, Italian
+NORP,Becchina, used ,O, similar false provenance
+NORP,Becchina, used ,O, similar false provenance for artefacts
+NORP,Becchina, similar false provenance for ,O, artefacts
+ORG,Medici, is ,NORP, Italian
+DATE,8 January, way for ,O, looted vessel
+NORP,Becchina, had devised ,O, false provenance
+NORP,Becchina, used ,O, similar false provenance for other artefacts
+NORP,Becchina, false provenance for ,GPE, USA 2012
+DATE,8 January, way for ,O, vessel
+NORP,Becchina, false provenance for ,O, artefacts
+NORP,Becchina, similar false provenance for ,DATE, USA 2012
+NORP,Becchina, used ,O, false provenance for artefacts
+PERSON,Giacomo Medici, illegal export of ,O, goods
+PERSON,Giacomo Medici, conspiracy to ,O, traffic
+NORP,Becchina, false provenance for ,O, other artefacts
+NORP,Becchina, 's gallery is ,O, Antike Kunst Palladion
+PERSON,Haug, inherited ,O, piece
+DATE,8 January, way for ,O, looted ancient vessel
+DATE,20 June, District of ,GPE, Ohio
+NORP,Becchina, similar false provenance for ,O, other artefacts
+NORP,Becchina, false provenance for ,DATE, USA 2012
+DATE,8 January, way for ,O, ancient vessel
+NORP,Becchina, used ,O, false provenance
+PERSON,Giacomo Medici, export of ,O, goods
+ORG,Medici, had taken ,O, piece

@@ -1,0 +1,12 @@
+Type,Entity 1,Relationship,Type,Entity2
+GPE,Guatemala, University of ,O, Texas
+PERSON,Río Azul, appear on ,O, face of it
+ORG,National Geographic Magazine, offered ,NORP, Guatemalan Institute of Anthropology
+GPE,Guatemala, of ,O, Cultural Heritage
+PERSON,Río Azul, appear on ,O, face
+PERSON,Tripod Vessel, is with ,O, Slab-legs ' Website of Detroit Institute of Art <
+GPE,Spain, outside of ,O, jurisdiction
+ORG,National Geographic Magazine, offered ,NORP, Guatemalan Institute
+ORG,Barbier-Mueller Pre-Columbian Art Museum, is in ,GPE, Barcelona
+GPE,Guatemala, has ,O, claim
+PERSON,Río Azul, appear for ,O, commentators.While

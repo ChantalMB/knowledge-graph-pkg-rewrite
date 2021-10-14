@@ -1,0 +1,27 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORG,http://www.getty.edu/news/press/center/statement06_getty_italy_meeting111706.html, accessed ,CARDINAL, 20 August 2012
+PERSON,J. Paul Getty Museum, bought statue for ,O, Felch
+ORG,Barbetti, were ,O, charged
+ORG,Barbetti, hid statue in ,O, church
+PERSON,Getty, return ,CARDINAL, 26 objects
+ORG,Barbetti, convicted with ,O, theft of state property
+ORG,Barbetti, hid statue in ,PERSON, church in Gubbio
+PERSON,J. Paul Getty Museum, bought statue for ,O, $ 3.95 million
+ORG,Barbetti, hid statue with ,O, help of priest
+ORG,Barbetti, convicted with ,NORP, theft of Italian state property
+ORG,Barbetti, charged ,O, Nagni
+PERSON,J. Paul Getty Museum, bought statue in ,DATE, 1977
+ORG,Barbetti, hid statue with ,O, help of priest named
+ORG,Barbetti, hid statue with ,O, help
+PERSON,Getty, Statement about ,GPE, ruling in Pesaro on Getty Bronze
+ORG,Barbetti, convicted with ,O, theft
+PERSON,Getty, lost interest in ,DATE, 1974
+PERSON,Getty, Statement about ,PERSON, ruling in Pesaro on Getty Bronze
+ORG,Barbetti, were charged In ,DATE, 1966
+PERSON,Getty, lost ,O, interest
+PERSON,Getty, explored purchase with ,O, Metropolitan Museum
+PERSON,J. Paul Getty Museum, bought ,O, statue
+ORG,Barbetti, convicted ,O, Nagni
+PERSON,Getty, explored ,O, purchase
+ORG,Barbetti, hid ,O, statue
+PERSON,Getty, died in ,DATE, 1976

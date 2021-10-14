@@ -1,0 +1,54 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Fagan, Day at ,PERSON, Slack Farm '
+PERSON,Sergeant Miles Hart, arrived ,O, respond to complaint
+ORG,Slack Farm, is cited as ,PERSON, inspiration for 1990 Native Graves Protection for example Davis 1998
+ORG,Slack Farm, is often cited as ,DATE, inspiration for 1990 Graves Protection for example Davis 1998
+ORG,Slack Farm, is cited as ,DATE, inspiration for example Davis 1998
+ORG,Slack Farm, is often cited as ,PERSON, inspiration for example Davis 1998
+ORG,Slack Farm, is often cited as ,PERSON, inspiration for 1990 Native Graves Protection for example Davis 1998
+ORG,Slack Farm, is often cited as ,DATE, inspiration for 1990 Native American Graves Protection for example Davis 1998
+PERSON,Sidney S. Lyon, named mapped ,O, mound groups
+ORG,Slack Farm, is ,O, often cited
+ORG,Slack Farm, is often cited as ,DATE, inspiration for 1990 American Graves Protection
+ORG,Slack Farm, is cited as ,PERSON, inspiration for example Davis 1998
+ORG,Slack Farm, is cited as ,DATE, inspiration for 1990 Native Graves Protection
+ORG,Slack Farm, is ,O, cited
+ORG,Slack Farm, is often cited as ,O, inspiration
+PERSON,Sergeant Miles Hart, arrived at ,PERSON, Slack Farm
+ORG,Slack Farm, is cited as ,DATE, inspiration for 1990 Native Graves Protection for example Davis 1998
+ORG,Slack Farm, had remained ,O, intact
+GPE,Lucas, Call for ,O, Spirits to Sleep '
+ORG,Slack Farm, is mound outside of ,GPE, Kentucky
+ORG,Slack Farm, is cited as ,DATE, inspiration for 1990 Native American Graves Protection
+ORG,Slack Farm, is often cited as ,DATE, inspiration for 1990 Graves Protection
+ORG,Slack Farm, is mound outside of ,GPE, few miles Uniontown
+ORG,Slack Farm, is often cited as ,PERSON, inspiration for 1990 American Graves Protection for example Davis 1998
+PERSON,Sergeant Miles Hart, respond to ,O, complaint
+ORG,Slack Farm, is often cited as ,DATE, inspiration for 1990 American Graves Protection for example Davis 1998
+ORG,Slack Farm, had remained ,O, largely intact
+ORG,Slack Farm, is cited as ,DATE, inspiration for 1990 Graves Protection for example Davis 1998
+ORG,Slack Farm, is cited as ,O, inspiration
+DATE,1987, of December is ,GPE, Arden 1989
+PERSON,Sidney S. Lyon, named mapped mound groups in ,O, Wabash/Ohio areas
+ORG,Slack Farm, is cited as ,PERSON, inspiration for 1990 American Graves Protection for example Davis 1998
+ORG,Slack Farm, is often cited as ,DATE, inspiration for 1990 Native Graves Protection for example Davis 1998
+ORG,Slack Farm, is cited as ,DATE, inspiration for 1990 Graves Protection
+GPE,Lucas, Call for ,O, Spirits
+ORG,Slack Farm, is cited as ,PERSON, inspiration for 1990 Native American Graves Protection for example Davis 1998
+PERSON,Sergeant Miles Hart, arrived ,O, respond
+ORG,Slack Farm, is ,O, mound
+ORG,Slack Farm, is cited as ,DATE, inspiration for 1990 Native American Graves Protection for example Davis 1998
+ORG,Slack Farm, from remains is ,O, claim
+GPE,US, in ,PERSON, Archaeology Online Features
+DATE,1987, of December is ,DATE, Arden 1989
+ORG,Slack Farm, is often cited as ,DATE, inspiration for 1990 Native Graves Protection
+ORG,Slack Farm, is often cited as ,PERSON, inspiration for 1990 Native American Graves Protection for example Davis 1998
+ORG,Slack Farm, is cited as ,DATE, inspiration for 1990 American Graves Protection
+ORG,Slack Farm, is often cited as ,PERSON, inspiration for 1990 Graves Protection for example Davis 1998
+ORG,Slack Farm, is often cited as ,DATE, inspiration for example Davis 1998
+ORG,Slack Farm, is mound outside of ,GPE, miles Uniontown
+PERSON,Sidney S. Lyon, named mapped ,O, several mound groups
+ORG,Slack Farm, is often cited as ,DATE, inspiration for 1990 Native American Graves Protection
+ORG,Slack Farm, is mound outside of ,GPE, Uniontown
+ORG,Slack Farm, is cited as ,DATE, inspiration for 1990 American Graves Protection for example Davis 1998
+ORG,Slack Farm, is cited as ,PERSON, inspiration for 1990 Graves Protection for example Davis 1998

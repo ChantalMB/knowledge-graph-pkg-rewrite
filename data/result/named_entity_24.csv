@@ -1,0 +1,14 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Lynch, Limits ' ,O, to Authoritarian Arab State
+ORG,El-Aref, Help on ,O, hand
+PERSON,Lynch, Limits After ,GPE, Egypt
+ORG,El-Aref, Help on ,O, hand for
+PERSON,Lynch, Limits of ,O, Online Challenges
+PERSON,Lynch, Perspectives on ,O, Politics
+LOC,Mackenzie, Going ,O, Going
+GPE,Egypt, of ,O, leader Hosni Mubarak
+PERSON,Ken-Amun, of tomb is ,DATE, only 19th-Dynasty tomb known in Lower Egypt
+GPE,Abu Sir, have ,O, have broken
+GPE,Egypt, 's treasures is ,PERSON, Al-Ahram
+PERSON,Ken-Amun, of tomb is ,GPE, only 19th-Dynasty tomb known in Lower Egypt
+GPE,Egypt, ' ,O, treasures

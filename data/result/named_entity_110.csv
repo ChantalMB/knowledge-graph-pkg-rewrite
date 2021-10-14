@@ -1,0 +1,18 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORG,Bonhams, withdrew stele from ,O, sale
+PERSON,Radner, stele of ,O, Adad-nerari III
+ORG,Bonhams, withdrew ,O, stele
+CARDINAL,half, be ,O, owned
+CARDINAL,half, be owned by ,O, resident
+ORG,Bonhams, withdrew stele On ,DATE, 31 March 2014
+CARDINAL,half, be owned by ,GPE, resident of Geneva
+PERSON,Lamb, victory at ,GPE, posh London auction house
+CARDINAL,half, was said ,O, owned
+CARDINAL,half, was ,O, said
+ORG,Bonhams, withdrew stele from ,DATE, Bailey 2014
+PERSON,Saih Hamad, been looted on ,O, 14 September 1999
+ORG,http://www.theartnewspaper.com/articles/Assyrian-stele-withdrawn-from-auction/32304, accessed ,DATE, 17 September 2014
+PERSON,Saih Hamad, been ,O, looted
+CARDINAL,half, was said ,GPE, owned by resident of Geneva
+CARDINAL,half, was said ,O, owned by resident
+ORG,Bonhams, withdrew stele from ,GPE, Bailey 2014

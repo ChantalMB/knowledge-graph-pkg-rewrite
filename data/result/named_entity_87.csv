@@ -1,0 +1,26 @@
+Type,Entity 1,Relationship,Type,Entity2
+GPE,Peru, has ,GPE, Ambassador to Australia at time
+ORG,NGA, accept ,O, mantle
+ORG,NGA, reportedly refused ,NORP, Australian Government
+GPE,Peru, has ,GPE, Ambassador to Australia
+ORG,NGA, reportedly refused ,O, Government
+ORG,NGA, accept ,NORP, Australian Government
+GPE,Peru, has ,O, claim
+PERSON,Lillian Harrison, quoted in ,ORG, Cochrane 1989
+ORG,Brown University, expert in ,NORP, Peruvian textiles
+GPE,Peru, of ,O, cultural heritage
+GPE,Peru, 's claims is ,DATE, Thew 1989
+GPE,Peru, in ,O, National Museum
+ORG,NGA, has ,O, purchase
+GPE,Peru, asked for ,O, its return
+GPE,Peru, from ,GPE, National Museum in Lima
+GPE,Australia, Government of ,DATE, 1986
+ORG,NGA, refused ,NORP, Australian Government
+ORG,NGA, refused ,O, Government
+GPE,Australia, bought ,O, piece
+GPE,Australia, by ,O, national museum
+ORG,NGA, accept ,O, Government
+GPE,Peru, into ,O, claims for mantel
+GPE,Peru, has ,O, claims
+GPE,Peru, from ,O, national museum
+PERSON,Lillian Harrison, quoted in ,DATE, Cochrane 1989

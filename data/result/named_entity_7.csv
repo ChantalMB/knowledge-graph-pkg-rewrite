@@ -1,0 +1,70 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORG,Smithsonian, would ,O, would seen
+ORG,Smithsonian, condoning ,O, commercial exploitation of excavated objects
+ORG,Smithsonian, propose ,O, re-excavation
+ORDINAL,second, was ,NORP, underwater specialist Dr Michael Flecker
+ORG,Smithsonian, continuing ,O, exhibition
+ORG,Smithsonian, condoning ,O, exploitation of objects
+GPE,Indonesia, significance of ,O, wreck
+ORG,Smithsonian, condoning ,O, exploitation
+ORG,Walterfang, obtained ,O, licenses
+PERSON,Shark, has ,O, Fin Soup
+ORDINAL,second, was ,NORP, specialist Dr Michael Flecker
+ORG,Walterfang, sold collection for ,O, $ 32 million
+ORG,Smithsonian, adhere to ,O, spirit
+ORG,Smithsonian, condoning ,O, commercial exploitation of objects
+PERSON,Julian Raby, director of ,ORG, Smithsonian Institution 's Freer/Sackler Galleries
+GPE,China, 's Province is ,NORP, Flecker 2000
+ORDINAL,second, was ,NORP, Southeast underwater specialist Dr Michael Flecker
+ORG,Smithsonian, instead propose re-excavation to ,O, Republic
+ORG,Smithsonian, condoning ,O, exploitation of unscientifically objects
+PERSON,Julian Raby, was ,DATE, In 2007 approached by Singapore Tourism Board 's Pamelia Lee
+PERSON,Victor Mair, author of ,NORP, Chinese languages
+PERSON,Belitung, island off ,GPE, eastern coast of Sumatra
+ORG,Walterfang, obtained licenses from ,O, government
+GPE,China, 's Province is ,DATE, Flecker 2000
+GPE,Indonesia, recognized ,O, significance
+PERSON,http://www.nytimes.com/2011/04/25/arts/design/smithsonian-sunken-treasure-show-poses-ethics-questions.html?_r=1 Woodward, interview with ,O, Meg Lambert
+ORDINAL,second, was ,NORP, Southeast specialist Dr Michael Flecker
+DATE,2005, in USD is ,O, wholly-owned subsidiary of Sentosa Development Corporation
+ORG,Smithsonian, condoning ,O, exploitation of unscientifically excavated objects
+PERSON,Victor Mair, author at ,O, University of Pennsylvania
+ORG,Smithsonian, instead propose ,O, re-excavation
+ORG,USD, subsidiary of ,O, Sentosa Development Corporation
+PERSON,Julian Raby, was approached by ,GPE, Singapore Tourism Board 's Pamelia Lee
+ORG,Smithsonian, adhere to ,O, spirit of Convention
+GPE,China, during ,PERSON, Tang Dynasty
+PERSON,Julian Raby, organizing ,O, exhibition
+PERSON,Raby, organized ,CARDINAL, two meetings
+ORG,Smithsonian, propose re-excavation to ,O, Republic
+ORG,Smithsonian Institution, of ,O, Freer/Sackler Galleries
+ORG,USD, is in ,DATE, 2005 to Sentosa Leisure Group
+ORG,Smithsonian, condoning ,O, commercial exploitation of unscientifically excavated objects
+ORG,Smithsonian, instead propose ,PERSON, re-excavation of Belitung shipwreck site
+ORG,Walterfang, obtained licenses from ,NORP, Indonesian government
+ORG,Science Magazine, interviews with ,O, Meg Lambert
+ORG,Smithsonian, propose ,PERSON, re-excavation of Belitung shipwreck site
+ORDINAL,second, was ,NORP, Asian specialist Dr Michael Flecker
+GPE,China, from ,O, Hunan Province
+GPE,Indonesia, recognized ,O, significance of wreck
+PERSON,Julian Raby, was ,O, approached
+PERSON,Julian Raby, organizing ,O, exhibition of shipwreck
+GPE,Johnston, interview with ,O, Meg Lambert
+PERSON,Belitung, island in ,O, Java Sea
+ORDINAL,second, was ,NORP, Southeast Asian specialist Dr Michael Flecker
+ORG,Smithsonian, condoning ,O, exploitation of excavated objects
+ORG,Seabed Explorations, excavate ,O, wreck
+ORG,Smithsonian, exhibiting ,O, shipwreck artefacts
+PERSON,Julian Raby, was ,GPE, In 2007 approached by Singapore Tourism Board 's Pamelia Lee
+ORG,Smithsonian, condoning ,O, commercial exploitation of unscientifically objects
+ORG,Smithsonian, instead propose re-excavation to ,GPE, Republic of Indonesia
+ORG,Smithsonian, holding ,O, exhibition
+ORG,Smithsonian, by ,PERSON, Sackler Gallery
+ORG,Smithsonian, re-excavation of ,PERSON, Belitung shipwreck site
+GPE,Mathewson, Archaeology on ,O, Trial '
+ORG,Walterfang, sold ,O, collection
+ORDINAL,second, was ,NORP, Southeast Asian underwater specialist Dr Michael Flecker
+ORG,Smithsonian, condoning ,O, commercial exploitation
+PERSON,Julian Raby, was approached In ,DATE, 2007
+ORDINAL,second, was ,NORP, Asian underwater specialist Dr Michael Flecker
+ORG,Smithsonian, propose re-excavation to ,GPE, Republic of Indonesia

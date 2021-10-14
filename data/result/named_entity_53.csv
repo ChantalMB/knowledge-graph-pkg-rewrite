@@ -1,0 +1,39 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORG,http://www.nytimes.com/1987/02/14/arts/a-curator-upsets-the-getty.html, accessed ,O, 17 July 2012
+ORG,Frel, arrived in ,DATE, 1969 from Czechoslovakia where
+PERSON,McNall, could arrange ,O, donor
+ORG,Frel, used ,O, his donation scheme
+ORG,Frel, arrived in ,O, United States
+ORG,Frel, arrived in ,DATE, 1969 from Czechoslovakia
+ORG,Frel, has ,O, schemes
+ORG,Charles University, is in ,GPE, Prague
+ORG,Frel, died in ,DATE, Frammolino 2006
+PERSON,McNall, has ,ORG, partner Hecht
+PERSON,McNall, would locate ,O, individuals
+PERSON,Eisenberg, has ,O, signature
+PERSON,Getty, has ,O, trustees
+ORG,Frel, to ,O, strategy
+PERSON,McNall, would locate ,O, individuals willing
+PERSON,Getty, launched probe into ,ORG, Frel 's activities
+ORG,Frel, died in ,PERSON, Frammolino 2006
+ORG,Frel, would provide ,O, appraised value
+PERSON,McNall, received ,O, 10 percent commission
+ORG,Frel, arrived in ,GPE, 1969 from Czechoslovakia where
+PERSON,Eisenberg, 's signature is ,DATE, Felch 2011
+PERSON,Jiri Jiri Frel, was curator of ,O, antiquities
+ORG,Frel, arrived in ,GPE, 1969 from Czechoslovakia
+PERSON,McNall, could arrange ,O, Felch
+ORG,Frel, also used ,O, his donation scheme
+LOC,Becchina, is ,NORP, Italian
+PERSON,Getty, launched ,O, probe
+ORG,Frel, into ,O, activities
+ORG,Frel, would provide ,O, value
+ORG,Frel, obtained ,O, appraisals
+ORG,Frel, fool ,PERSON, Getty 's trustees
+PERSON,Jiri Jiri Frel, was ,PERSON, curator of antiquities at J.Paul Getty Museum
+PERSON,Eisenberg, of ,O, letter-headed notepaper
+PERSON,Getty, has ,O, collection
+PERSON,Getty, launched ,O, internal probe
+PERSON,Jiri Jiri Frel, was curator at ,PERSON, J.Paul Getty Museum
+ORG,Frel, obtained ,PERSON, appraisals from New York antiquities dealer Jerome Eisenberg
+PERSON,Jiri Jiri Frel, was ,O, curator

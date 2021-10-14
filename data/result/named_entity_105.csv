@@ -1,0 +1,95 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Site Q, was actually site of ,PERSON, El Perú discovered by Ian Graham
+PERSON,Site Q, was actually Guatemalan site of ,PERSON, El Perú discovered by Ian Graham in 1972
+PERSON,Site Q, was actually looted Guatemalan site of ,DATE, El Perú discovered by Ian Graham in 1972
+PERSON,Site Q, was actually heavily looted Guatemalan site of ,PERSON, El Perú discovered by Ian Graham
+PERSON,Site Q, was ,O, actually heavily looted site
+PERSON,Site Q, was actually looted Guatemalan site of ,DATE, El Perú discovered in 1972
+PERSON,Site Q, was ,O, actually site
+PERSON,Site Q, was actually looted site of ,O, El Perú
+PERSON,Site Q, was actually looted Guatemalan site of ,O, El Perú
+PERSON,Site Q, was actually looted Guatemalan site of ,PERSON, El Perú discovered by Ian Graham in 1972
+PERSON,Site Q, was ,O, looted site
+PERSON,Site Q, was heavily looted site of ,O, El Perú discovered
+PERSON,Site Q, was actually site of ,O, El Perú
+PERSON,Site Q, was looted site of ,PERSON, El Perú discovered by Ian Graham in 1972
+PERSON,Site Q, was actually heavily looted site of ,PERSON, El Perú discovered by Ian Graham
+PERSON,Site Q, was actually heavily looted site of ,O, El Perú discovered
+ORG,Archaeologist Peter Matthews, student at ,ORG, Yale
+PERSON,Site Q, was ,O, actually looted site
+PERSON,Site Q, was actually Guatemalan site of ,PERSON, El Perú discovered by Ian Graham
+PERSON,Site Q, was heavily looted Guatemalan site of ,PERSON, El Perú discovered by Ian Graham
+PERSON,Site Q, was actually Guatemalan site of ,O, El Perú discovered
+PERSON,Site Q, was actually heavily looted Guatemalan site of ,PERSON, El Perú discovered by Ian Graham in 1972
+PERSON,Site Q, was site of ,O, El Perú discovered
+PERSON,Stephen Houston, found ,PERSON, David Stewart
+PERSON,Site Q, was Guatemalan site of ,DATE, El Perú discovered in 1972
+PERSON,Site Q, was site of ,DATE, El Perú discovered in 1972
+PERSON,Site Q, was actually heavily looted site of ,PERSON, El Perú discovered by Ian Graham in 1972
+PERSON,Site Q, was looted Guatemalan site of ,DATE, El Perú discovered by Ian Graham in 1972
+PERSON,Site Q, was looted Guatemalan site of ,O, El Perú
+PERSON,Site Q, was ,NORP, actually Guatemalan site
+PERSON,La Corona, was ,O, located
+PERSON,Site Q, was heavily looted site of ,DATE, El Perú discovered in 1972
+PERSON,Site Q, was looted Guatemalan site of ,PERSON, El Perú discovered by Ian Graham in 1972
+PERSON,Site Q, was actually site of ,PERSON, El Perú discovered by Ian Graham in 1972
+PERSON,Site Q, was ,O, heavily looted site
+PERSON,Site Q, was site of ,O, El Perú
+PERSON,Santiago Billy, researcher on ,O, Conservation International campaign protect
+PERSON,Site Q, was ,NORP, looted Guatemalan site
+PERSON,Site Q, was actually heavily looted site of ,DATE, El Perú discovered by Ian Graham in 1972
+PERSON,Site Q, was ,O, site
+PERSON,Site Q, was looted Guatemalan site of ,O, El Perú discovered
+ORG,Matthews, Notes on ,O, Inscriptions of Site Q '
+PERSON,Site Q, was site of ,PERSON, El Perú discovered by Ian Graham
+PERSON,Site Q, was actually looted Guatemalan site of ,PERSON, El Perú discovered by Ian Graham
+PERSON,Site Q, was heavily looted Guatemalan site of ,PERSON, El Perú discovered by Ian Graham in 1972
+PERSON,Site Q, was actually heavily looted Guatemalan site of ,DATE, El Perú discovered in 1972
+PERSON,Site Q, was actually Guatemalan site of ,DATE, El Perú discovered by Ian Graham in 1972
+PERSON,Site Q, was looted site of ,O, El Perú discovered
+PERSON,Site Q, was actually looted site of ,PERSON, El Perú discovered by Ian Graham in 1972
+PERSON,Site Q, was site of ,PERSON, El Perú discovered by Ian Graham in 1972
+PERSON,Site Q, was actually heavily looted Guatemalan site of ,DATE, El Perú discovered by Ian Graham in 1972
+PERSON,Site Q, was actually Guatemalan site of ,DATE, El Perú discovered in 1972
+PERSON,Site Q, was looted site of ,DATE, El Perú discovered by Ian Graham in 1972
+PERSON,Site Q, was actually looted site of ,PERSON, El Perú discovered by Ian Graham
+PERSON,Site Q, was heavily looted Guatemalan site of ,O, El Perú
+PERSON,Site Q, was site of ,DATE, El Perú discovered by Ian Graham in 1972
+PERSON,Site Q, was actually site of ,O, El Perú discovered
+PERSON,Site Q, was actually site of ,DATE, El Perú discovered in 1972
+PERSON,Site Q, was looted site of ,O, El Perú
+ORG,Calakmul, is in ,GPE, Mexico
+PERSON,Site Q, was ,NORP, heavily looted Guatemalan site
+PERSON,Site Q, was Guatemalan site of ,O, El Perú
+PERSON,Site Q, was Guatemalan site of ,PERSON, El Perú discovered by Ian Graham
+PERSON,Site Q, was actually heavily looted site of ,O, El Perú
+PERSON,Site Q, was heavily looted site of ,DATE, El Perú discovered by Ian Graham in 1972
+PERSON,Site Q, was actually Guatemalan site of ,O, El Perú
+PERSON,Site Q, was ,NORP, actually heavily looted Guatemalan site
+PERSON,Site Q, was heavily looted site of ,PERSON, El Perú discovered by Ian Graham in 1972
+PERSON,Site Q, was heavily looted Guatemalan site of ,O, El Perú discovered
+PERSON,Site Q, was actually heavily looted Guatemalan site of ,O, El Perú
+PERSON,Site Q, was actually looted site of ,DATE, El Perú discovered by Ian Graham in 1972
+PERSON,Site Q, was actually looted Guatemalan site of ,O, El Perú discovered
+PERSON,Site Q, was looted site of ,PERSON, El Perú discovered by Ian Graham
+PERSON,Site Q, was looted Guatemalan site of ,PERSON, El Perú discovered by Ian Graham
+PERSON,Site Q, was Guatemalan site of ,O, El Perú discovered
+PERSON,Site Q, was actually looted site of ,DATE, El Perú discovered in 1972
+PERSON,Site Q, was looted site of ,DATE, El Perú discovered in 1972
+PERSON,Site Q, governed by ,O, lords
+PERSON,Site Q, was heavily looted Guatemalan site of ,DATE, El Perú discovered by Ian Graham in 1972
+PERSON,Site Q, was ,NORP, Guatemalan site
+PERSON,Site Q, was heavily looted site of ,O, El Perú
+PERSON,Site Q, was actually heavily looted Guatemalan site of ,O, El Perú discovered
+PERSON,Site Q, was heavily looted Guatemalan site of ,DATE, El Perú discovered in 1972
+PERSON,Site Q, was looted Guatemalan site of ,DATE, El Perú discovered in 1972
+PERSON,Site Q, was Guatemalan site of ,DATE, El Perú discovered by Ian Graham in 1972
+PERSON,Site Q, was actually site of ,DATE, El Perú discovered by Ian Graham in 1972
+ORG,Matthews, Notes on ,O, Inscriptions
+PERSON,Site Q, was actually heavily looted site of ,DATE, El Perú discovered in 1972
+PERSON,Site Q, governed by ,ORG, lords of Calakmul
+PERSON,Site Q, was heavily looted site of ,PERSON, El Perú discovered by Ian Graham
+PERSON,Site Q, was ,NORP, actually looted Guatemalan site
+PERSON,Hudson Museum, Search for ,O, for Site Q
+PERSON,Site Q, was Guatemalan site of ,PERSON, El Perú discovered by Ian Graham in 1972
+PERSON,Site Q, was actually looted site of ,O, El Perú discovered

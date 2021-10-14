@@ -1,0 +1,46 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,John L. Gatling, instructed ,O, all of employees
+PERSON,Graham, reaching ,O, then Director
+CARDINAL,dozens, represent ,O, loss to patrimony
+PERSON,Graham, caught ,O, Director
+CARDINAL,dozens, represent ,O, loss in general
+CARDINAL,dozens, represent ,GPE, loss to patrimony of Guatemala in general
+CARDINAL,dozens, represent ,GPE, loss to cultural patrimony of Guatemala
+PERSON,Graham, reaching ,PERSON, Director of Prehispanic Monuments Rafael Morales
+ORG,Sun Oil Company, of employee is ,O, 1
+PERSON,Graham, caught ,PERSON, Director of Prehispanic Monuments Rafael Morales
+CARDINAL,dozens, represent ,O, loss to patrimony in general
+PERSON,Graham, took ,O, photographs of tombs
+CARDINAL,dozens, loss in ,O, general
+PERSON,John L. Gatling, instructed ,O, all his employees
+PERSON,Graham, reaching ,O, Director
+PERSON,Graham, caught ,PERSON, then Director of Prehispanic Monuments Rafael Morales
+CARDINAL,dozens, loss to ,GPE, patrimony of Guatemala
+PERSON,Pech, apparently told ,O, Gatling about Río Azul
+CARDINAL,dozens, great loss to ,O, cultural patrimony
+PERSON,Pech, told ,O, Gatling
+CARDINAL,dozens, great loss in ,O, general
+PERSON,Graham, took ,O, photographs
+CARDINAL,dozens, represent ,GPE, loss to cultural patrimony of Guatemala in general
+CARDINAL,dozens, loss to ,O, patrimony
+PERSON,John L. Gatling, instructed ,O, all employees
+CARDINAL,dozens, represent ,O, loss to cultural patrimony
+PERSON,Pech, apparently told ,O, Gatling
+PERSON,Pech, told ,O, Gatling about Río Azul
+CARDINAL,dozens, great loss to ,GPE, cultural patrimony of Guatemala
+PERSON,Graham, took ,O, photographs of empty tombs
+PERSON,Graham, reaching ,PERSON, then Director of Prehispanic Monuments Rafael Morales
+PERSON,Graham, caught ,O, looters
+PERSON,Trinidad Pech, employee of ,O, Sun Oil Company
+CARDINAL,dozens, represent ,O, loss to cultural patrimony in general
+CARDINAL,dozens, loss to ,GPE, cultural patrimony of Guatemala
+CARDINAL,dozens, great loss to ,O, patrimony
+CARDINAL,dozens, great loss to ,GPE, patrimony of Guatemala
+PERSON,John L. Gatling, instructed ,O, all of his employees
+PERSON,Graham, reaching ,O, site
+PERSON,Graham, caught looters in ,O, act
+PERSON,Graham, took ,PERSON, Morales
+CARDINAL,dozens, represent ,O, loss
+CARDINAL,dozens, loss to ,O, cultural patrimony
+PERSON,Graham, caught ,O, then Director
+CARDINAL,dozens, represent ,GPE, loss to patrimony of Guatemala

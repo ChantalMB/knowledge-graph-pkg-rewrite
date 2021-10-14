@@ -1,0 +1,18 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORG,Quarrells, guilty on ,O, counts
+GPE,Las Cruces, Mexico in ,O, May of 1976
+PERSON,J.J. Brody, released ,PERSON, popular volume Mimbres Painted Pottery
+PERSON,Mimbres, presents ,O, case
+GPE,New Mexico, within ,O, Gila National Forrest
+PERSON,Mimbres, presents ,O, interesting case
+PERSON,J.J. Brody, released ,DATE, Brody 1977
+PERSON,Mike, violating ,ORG, Charles Quarrell
+ORG,Quarrells, appealed In ,DATE, 2002
+ORG,Quarrells, appealed ,O, their conviction
+PERSON,Mike, violating ,O, Antiquities Act
+GPE,New Mexico, is in ,O, May of 1976
+PERSON,J.J. Brody, released ,PERSON, volume Mimbres Painted Pottery
+PERSON,Mike, were ,O, charged
+PERSON,J.J. Brody, released volume Mimbres Painted Pottery In ,DATE, 1977
+PERSON,Mike, charged ,ORG, Charles Quarrell
+PERSON,J.J. Brody, professor of ,O, Art History

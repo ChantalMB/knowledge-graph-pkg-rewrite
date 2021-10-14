@@ -1,0 +1,45 @@
+Type,Entity 1,Relationship,Type,Entity2
+GPE,http://epaper.dnaindia.com/epapermain.aspx?pgNo=1&edcode=1310016&eddate=2014-01-16, accessed ,DATE, 10 February 2014
+ORG,Megavena, consigned ,CARDINAL, 93 lots to Sotheby 's
+PERSON,Ghiya, selling antiquities in ,O, late 1970s
+PERSON,Ghiya, had ,NORP, access to British bank accounts
+PERSON,Ghiya, purchasing ,O, objects
+PERSON,Ghiya, shipping ,O, material
+PERSON,Ghiya, had ,O, access
+PERSON,Ghiya, purchasing objects from ,O, network of intermediaries
+PERSON,Lynch, left company by ,O, agreement
+PERSON,Ghiya, at ,O, expense
+PERSON,Ghiya, arranging ,O, shipment of objects
+PERSON,Ghiya, selling antiquities in ,O, 1970s
+PERSON,Lynch, exposed ,O, link
+PERSON,Ghiya, sentenced to ,O, life imprisonment
+PERSON,Ghiya, purchasing ,O, stolen objects
+ORG,Megavena, consigned ,CARDINAL, 93 lots
+PERSON,Ghiya, was convicted in ,DATE, 2008
+PERSON,Ghiya, was proprietor of ,GPE, large handicrafts saleroom in Jaipur
+PERSON,Ghiya, selling ,O, antiquities
+PERSON,Ghiya, arranging ,O, shipment abroad
+PERSON,Ghiya, had ,O, access to bank accounts opened
+PERSON,Ghiya, was proprietor of ,O, handicrafts saleroom
+PERSON,Ghiya, would store ,O, material
+PERSON,Ghiya, was proprietor of ,O, large handicrafts saleroom
+PERSON,Ghiya, arranging ,O, shipment
+PERSON,Ghiya, shipping ,GPE, material to Geneva
+PERSON,Lynch, claiming ,O, have stopped
+PERSON,Ghiya, was ,O, charged
+PERSON,Ghiya, was proprietor of ,GPE, handicrafts saleroom in Jaipur
+PERSON,Lynch, left ,O, company
+PERSON,Ghiya, confessed Under ,O, police questioning
+PERSON,Ghiya, selling antiquities in ,DATE, Keefe 2007
+GPE,Jaipur, is in ,GPE, Mathura
+PERSON,Lynch, exposed link After ,PERSON, Watson 1997
+PERSON,Ghiya, describing ,O, them
+PERSON,Lynch, exposed ,PERSON, link between Ghiya
+PERSON,Ghiya, purchasing objects from ,O, network
+PERSON,Ghiya, had ,O, access to bank accounts
+PERSON,Lynch, exposed link After ,DATE, Watson 1997
+PERSON,Ghiya, arranging ,O, shipment abroad of objects
+PERSON,Ghiya, was ,O, convicted
+PERSON,Ghiya, was ,O, proprietor
+PERSON,Ghiya, return ,O, his money
+PERSON,Ghiya, would store ,GPE, material in Jaipur

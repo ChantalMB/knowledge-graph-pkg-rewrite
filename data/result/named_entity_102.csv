@@ -1,0 +1,103 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Art Newspaper, seen ,CARDINAL, documents attesting to 187 spoons
+PERSON,Peter Mimpriss, was lawyer to ,ORG, Marquess of Northampton
+ORG,Northampton, Overy for ,O, damages
+ORG,Northampton, sued ,PERSON, Peter Mimpriss
+ORG,Korban, thus offering ,O, legitimation
+PERSON,Norman, sale of ,O, silver
+PERSON,Art Newspaper, claimed ,O, have seen
+PERSON,Peter Wilson, died In ,O, June 1984
+ORG,Mimpriss, later received ,PERSON, word from Getty about documentation
+PERSON,Zsolt Visy, in Visy is ,O, Zsolt
+ORG,Northampton, viewed ,GPE, material in Zurich
+ORG,Mimpriss, received ,PERSON, word from Getty about documentation
+ORG,Korban, offering ,O, legitimation
+PERSON,Yard, dragging ,O, feet over silver hoard
+ORG,Korban, supplied ,ORDINAL, export permit for first four pieces
+ORG,Mimpriss, later received ,O, word
+ORG,Korban, supplied ,CARDINAL, Lebanese export permit for first four pieces
+ORG,Mimpriss, received ,O, word about forged documentation
+ORG,Northampton, Overy for ,O, damages caused by fraud in relation
+ORG,Mimpriss, received ,O, word about documentation
+ORG,Northampton, viewed material In ,DATE, 1982
+ORG,Northampton, Overy for ,O, damages caused in relation to acquisition
+ORG,Korban, supplied ,CARDINAL, export permit for four pieces
+PERSON,Landesman, curse of ,PERSON, Sevso silver
+ORG,Korban, supplied ,NORP, Lebanese export permit for first four pieces purchased
+PERSON,Hoffman, follies of ,DATE, 1994
+ORG,Korban, supplied ,NORP, Lebanese export permit for four pieces purchased
+PERSON,Visy, objects of ,PERSON, Sevso Treasure
+PERSON,Norman, sale ,O, daring move
+LOC,Lake Balaton, is in ,GPE, western Hungary
+ORG,Korban, supplied ,NORP, Lebanese export permit
+GPE,London, has ,O, Metropolitan Police
+ORG,Northampton, was keen for ,O, investigation
+ORG,Northampton, bought ,CARDINAL, four more pieces
+ORG,Korban, supplied ,ORDINAL, Lebanese export permit for first four pieces purchased
+PERSON,Peter Mimpriss, was ,O, lawyer
+ORG,Northampton, Overy for ,O, damages caused by fraud
+ORG,Northampton, sued ,ORG, Peter Mimpriss
+ORG,Korban, supplied ,O, export permit
+PERSON,De Walden, is in ,GPE, Kate Fitz Gibbon
+ORG,Korban, supplied ,ORDINAL, export permit for first four pieces purchased
+ORG,Mimpriss, later received ,PERSON, word from Getty
+DATE,late-fourth century AD, to AD is ,DATE, Painter 1990
+ORG,Korban, supplied ,NORP, Lebanese export permit for four pieces
+PERSON,Getty, buying ,O, treasure
+ORG,Korban, offering ,O, legitimation of ownership
+ORG,Mimpriss, received ,PERSON, word from Getty
+PERSON,Norman, Independent on ,DATE, Sunday
+ORG,Northampton, was ,O, keen
+ORG,Korban, supplied ,CARDINAL, export permit for first four pieces purchased
+GPE,Lebanon, relinquished ,O, its claim
+ORG,Korban, supplied ,CARDINAL, export permit for first four pieces
+ORG,Korban, thus offering ,O, retrospective legitimation
+ORG,Northampton, viewed ,O, material
+ORG,Mimpriss, later received ,O, word about documentation
+ORG,Northampton, received ,CARDINAL, # 15 million in compensation
+ORG,Korban, supplied ,CARDINAL, Lebanese export permit for four pieces purchased
+ORG,Korban, thus offering ,O, legitimation of ownership
+ORG,Northampton, Overy for ,O, damages caused in relation
+PERSON,Peter Wilson, family ,O, his
+GPE,Hungary, Finally announced ,O, its belief
+GPE,Hungary, announced ,O, its belief
+PERSON,Zsolt Visy, in Visy is ,PERSON, known objects of Sevso Treasure
+PERSON,Art Newspaper, seen ,O, documents
+ORG,Wilson, prepared ,O, prospectus
+ORG,Korban, offering ,O, retrospective legitimation of ownership
+PERSON,Norman, sale 's ,O, Sotheby
+ORG,Korban, offering ,O, retrospective legitimation
+ORG,Northampton, sued Peter Mimpriss In ,DATE, March 1991
+ORG,Northampton, Overy for ,PERSON, damages caused by fraud in relation to acquisition of Treasure
+ORG,Northampton, Overy for ,O, damages caused by fraud in relation to acquisition
+PERSON,Peter Mimpriss, was lawyer to ,O, Marquess
+PERSON,Art Newspaper, seen ,CARDINAL, documents attesting to further 187 spoons
+ORG,Korban, supplied ,CARDINAL, export permit for four pieces purchased
+PERSON,Treasure, of ,O, silver pieces
+PERSON,Peter Mimpriss, was lawyer to ,ORG, Wilson
+PERSON,Yard, dragging ,O, feet
+PERSON,Zsolt Visy, in Hajdú is ,PERSON, Éva
+ORG,Korban, thus offering ,O, retrospective legitimation of ownership
+ORG,Northampton, was keen for ,O, investigation continue
+ORG,Northampton, Overy for ,PERSON, damages caused in relation to acquisition of Treasure
+ORG,Korban, supplied ,CARDINAL, Lebanese export permit for first four pieces purchased
+ORG,Korban, supplied ,ORDINAL, Lebanese export permit for first four pieces
+PERSON,Art Newspaper, seen ,O, documents attesting
+PERSON,Visy, is in ,PERSON, Zsolt Visy
+PERSON,Peter Mimpriss, was ,O, also lawyer
+PERSON,De Walden, trial of ,PERSON, Sevso Treasure
+GPE,Zurich, in vault is ,DATE, Painter 1990
+PERSON,Art Newspaper, claimed In ,DATE, March 2007
+ORG,Korban, supplied ,CARDINAL, Lebanese export permit for four pieces
+ORG,Mimpriss, received ,PERSON, word from Getty about forged documentation
+ORG,Korban, obtained In ,O, June 1981
+ORG,Mimpriss, received ,O, word
+ORG,Mimpriss, later received ,O, word about forged documentation
+PERSON,Peter Mimpriss, was also lawyer to ,O, Marquess
+ORG,Northampton, Overy for ,O, damages caused
+ORG,Wilson, prepared ,O, ten-page prospectus
+ORG,Northampton, bought ,CARDINAL, four pieces
+PERSON,Zsolt Visy, in Hajdú is ,ORG, Seuso treasure
+ORG,Mimpriss, later received ,PERSON, word from Getty about forged documentation
+ORG,Korban, supplied ,NORP, Lebanese export permit for first four pieces
+PERSON,Peter Mimpriss, was also lawyer to ,ORG, Marquess of Northampton

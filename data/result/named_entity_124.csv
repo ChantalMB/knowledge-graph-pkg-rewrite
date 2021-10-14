@@ -1,0 +1,107 @@
+Type,Entity 1,Relationship,Type,Entity2
+CARDINAL,half, shown in ,O, years in association
+ORG,MFA, focusing on ,NORP, objects connected by Nazis
+ORG,MFA, notably appointed ,O, Curator
+ORG,MFA, focusing on ,O, objects connected
+CARDINAL,half, shown in ,CARDINAL, recent years in association with photograph of half
+ORG,MFA, focusing specifically on ,O, objects connected during Second World War
+ORG,MFA, 's half is ,ORG, BBC 2011
+CARDINAL,halves, were in ,O, fact of same statue
+GPE,Boston, in ,ORG, Globe newspaper
+CARDINAL,halves, were from ,O, same statue
+ORG,MFA, had assumed ,CARDINAL, ownership of top half of Herakles
+ORG,MFA, in ,ORG, Boston Globe
+ORG,MFA, focusing specifically on ,NORP, objects connected by Nazis during Second World War
+ORG,MFA, receive ownership upon ,O, death
+ORG,MFA, has ,GPE, half of statue to Turkey
+CARDINAL,half, shown in ,CARDINAL, years in association with photograph of half of statue
+ORG,MFA, has ,O, director of public relations at time
+ORG,MFA, focusing on ,O, objects connected to confiscations during World War
+ORG,MFA, in ,GPE, Boston Globe
+PERSON,Jale Inan, had heard rumors In ,CARDINAL, fact at time of excavation of bottom half of statue
+GPE,Turkey, launches ,O, new culture war
+CARDINAL,halves, were in ,O, fact
+CARDINAL,half, was ,O, Meanwhile displayed
+ORG,MFA, had assumed ,CARDINAL, ownership of half of Herakles
+PERSON,Perge, is in ,GPE, southern Turkey
+CARDINAL,half, shown in ,CARDINAL, years in association with photograph of upper half of statue
+ORG,MFA, appointed ,O, Curator of Provenance
+PERSON,Jale Inan, had heard rumors In ,CARDINAL, fact at time of excavation of half
+ORG,MFA, focusing on ,NORP, objects connected to confiscations by Nazis during Second World War
+PERSON,Jale Inan, had heard rumors In ,O, fact
+ORG,MFA, appointed ,ORDINAL, first Curator
+ORG,MFA, focusing on ,NORP, objects connected by Nazis during World War
+ORG,MFA, focusing on ,O, objects
+ORG,MFA, had assumed ,CARDINAL, full ownership of top half of Herakles
+ORG,MFA, focusing on ,O, objects connected to confiscations
+ORG,MFA, focusing specifically on ,O, objects connected to confiscations during Second World War
+ORG,MFA, had assumed ,CARDINAL, ownership of half
+ORG,MFA, had assumed ,CARDINAL, ownership of top half
+CARDINAL,halves, were from ,O, statue
+ORG,MFA, focusing specifically on ,NORP, objects connected to confiscations by Nazis
+ORG,MFA, ' Globe is ,O, 29 December
+ORG,MFA, ' Globe is ,O, B01
+ORG,MFA, focusing on ,O, objects connected during World War
+CARDINAL,half, was displayed in ,GPE, Antalya Museum
+ORG,MFA, notably appointed ,O, Curator of Provenance
+ORG,MFA, first Curator of ,O, Provenance
+ORG,MFA, receive ownership upon ,PERSON, death of Leon Levy
+ORG,MFA, receive ,O, full ownership
+CARDINAL,half, shown in ,CARDINAL, years in association with photograph of half
+CARDINAL,halves, were in ,O, fact of statue
+ORG,MFA, had assumed ,CARDINAL, full ownership of half
+ORG,MFA, focusing specifically on ,NORP, objects connected to confiscations by Nazis during World War
+GPE,Weary Herakles, is in ,O, Rose
+ORG,MFA, receive ,O, ownership
+ORG,MFA, notably appointed Curator After ,O, return
+ORG,MFA, had assumed ,CARDINAL, full ownership of top half of Weary Herakles
+PERSON,Jale Inan, had heard rumors In ,CARDINAL, fact at time of excavation of half of statue
+ORG,MFA, had assumed ,CARDINAL, full ownership of half of Herakles
+ORG,MFA, Curator of ,O, Provenance
+ORG,MFA, Curator in ,GPE, US museum
+PERSON,Jale Inan, director of ,O, excavations
+ORG,MFA, had assumed ,CARDINAL, full ownership of top half
+PERSON,Jale Inan, had heard rumors In ,O, fact at time of excavation
+ORG,MFA, focusing specifically on ,O, objects connected
+ORG,MFA, focusing on ,O, objects connected during Second World War
+ORG,MFA, had assumed ,CARDINAL, ownership of top half of Weary Herakles
+CARDINAL,half, shown in ,CARDINAL, years in association with photograph of upper half
+CARDINAL,half, Meanwhile was displayed in ,GPE, Antalya Museum
+CARDINAL,half, shown in ,O, years in association with photograph
+PERSON,Jale Inan, had heard ,O, rumors
+ORG,MFA, had assumed ,O, full ownership
+ORG,MFA, focusing specifically on ,NORP, objects connected by Nazis during World War
+CARDINAL,half, shown in ,O, recent years in association
+CARDINAL,half, shown in ,O, recent years
+PERSON,Jale Inan, had heard rumors In ,CARDINAL, fact at time of excavation of bottom half
+CARDINAL,half, shown in ,O, recent years in association with photograph
+ORG,MFA, focusing specifically on ,NORP, objects connected by Nazis
+ORG,MFA, focusing specifically on ,O, objects
+CARDINAL,half, was ,O, displayed
+ORG,MFA, 's director is ,O, Robert P Mitchell
+ORG,MFA, appointed ,O, Curator
+ORG,MFA, has ,CARDINAL, half of statue to Turkey
+ORG,MFA, focusing specifically on ,O, objects connected to confiscations
+ORG,MFA, focusing on ,O, objects connected to confiscations during Second World War
+PERSON,Jale Inan, had heard rumors In ,O, fact at time
+GPE,Turkey, has ,O, War on Illicit Antiquities Trade '
+DATE,recent years, is in ,CARDINAL, association with photograph of upper half of statue
+CARDINAL,half, shown in ,CARDINAL, recent years in association with photograph of half of statue
+ORG,MFA, focusing on ,NORP, objects connected by Nazis during Second World War
+GPE,Turkey, launches ,O, culture war
+ORG,MFA, appointed Curator After ,O, return
+ORG,MFA, had assumed ,CARDINAL, ownership of half of Weary Herakles
+ORG,MFA, focusing on ,NORP, objects connected to confiscations by Nazis
+CARDINAL,half, shown in ,CARDINAL, recent years in association with photograph of upper half of statue
+ORG,MFA, focusing specifically on ,O, objects connected during World War
+ORG,MFA, had assumed ownership by ,DATE, 2004
+ORG,MFA, focusing specifically on ,O, objects connected to confiscations during World War
+CARDINAL,half, shown in ,CARDINAL, recent years in association with photograph of upper half
+ORG,MFA, first Curator in ,GPE, US museum
+ORG,MFA, focusing on ,NORP, objects connected to confiscations by Nazis during World War
+ORG,MFA, had assumed ,CARDINAL, full ownership of half of Weary Herakles
+ORG,MFA, 's half is ,DATE, BBC 2011
+ORG,MFA, notably appointed ,ORDINAL, first Curator
+ORG,MFA, focusing specifically on ,NORP, objects connected to confiscations by Nazis during Second World War
+ORG,MFA, had assumed ,O, ownership
+CARDINAL,half, shown in ,O, years

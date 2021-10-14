@@ -1,0 +1,57 @@
+Type,Entity 1,Relationship,Type,Entity2
+WORK_OF_ART,Clay, stored ,O, collection
+ORG,IFAR, Claim Against ,O, Museum of Fine Arts
+DATE,1987, in Clay is ,GPE, Boston
+GPE,Robicsek, Book of ,O, Dead
+WORK_OF_ART,November Collection, was amassed by ,O, collector named
+PERSON,Malcolm Rogers, director of ,ORG, MFA
+PERSON,Coe, wrote ,O, forewords
+PERSON,Weld S. Henshaw, was quoted in ,GPE, Boston Globe
+GPE,Robicsek, is primary early publisher of ,DATE, November Collection pieces
+PERSON,Shestack, 's successor is ,PERSON, Malcolm Rogers
+GPE,Robicsek, is publisher of ,DATE, November Collection pieces
+GPE,Robicsek, is early publisher of ,DATE, November Collection pieces
+GPE,Robicsek, is ,O, publisher
+ORG,Landon T. Clay, chair of ,O, Eaton Vance Corporation
+PERSON,Alan Shestack, director of ,ORG, MFA
+PERSON,Shestack, has ,O, successor
+WORK_OF_ART,November Collection, was initially amassed by ,O, collector named
+ORG,Landon T. Clay, is in ,DATE, 1987
+WORK_OF_ART,Clay, stored ,O, collection at museum
+PERSON,Kerr, has ,O, http://www.mayavase.com/
+PERSON,Weld S. Henshaw, was ,O, quoted
+GPE,Robicsek, to ,DATE, 1975 volumes
+WORK_OF_ART,November Collection, was ,O, amassed
+PERSON,John Fulling, Collectors of ,DATE, November
+PERSON,De Fahsen, told ,GPE, Boston Globe
+WORK_OF_ART,November Collection, was amassed by ,O, Florida-based collector
+WORK_OF_ART,November Collection, was ,O, initially amassed
+GPE,Robicsek, Study in ,LOC, Maya Art
+WORK_OF_ART,Clay, donating ,PERSON, Dorfman 1998
+WORK_OF_ART,Clay, collection at ,O, museum
+PERSON,Alan Shestack, director until ,DATE, 1993
+GPE,Robicsek, is primary publisher of ,DATE, November Collection pieces
+ORG,IFAR, Boston for ,O, Pre-Colombian Objects ' International Foundation <
+ORG,MFA, because of ,O, lavish due diligence
+PERSON,Coe, has ,O, book
+WORK_OF_ART,November Collection, has ,O, provenance
+WORK_OF_ART,November Collection, was initially amassed by ,O, Florida-based collector named
+DATE,1960, In ,O, John
+ORG,MFA, gift of ,WORK_OF_ART, Landon T. Clay
+WORK_OF_ART,November Collection, was initially amassed by ,O, Florida-based collector
+WORK_OF_ART,Clay, donating ,O, it
+GPE,Robicsek, is ,O, primary publisher
+WORK_OF_ART,November Collection, was initially amassed by ,O, collector
+PERSON,Alan Shestack, director from ,DATE, 1987
+PERSON,Weld S. Henshaw, was ,O, Yet quoted
+PERSON,Malcolm Rogers, director from ,DATE, 1994
+WORK_OF_ART,Clay, formally donating ,DATE, Dorfman 1998
+WORK_OF_ART,Clay, formally donating ,PERSON, Dorfman 1998
+WORK_OF_ART,November Collection, was amassed by ,O, Florida-based collector named
+WORK_OF_ART,Clay, formally donating ,O, it
+GPE,Robicsek, is ,O, early publisher
+PERSON,Coe, Lords of ,O, Underworld
+GPE,Robicsek, is ,O, primary early publisher
+WORK_OF_ART,November Collection, was amassed by ,O, collector
+PERSON,Weld S. Henshaw, Yet was quoted in ,GPE, Boston Globe
+WORK_OF_ART,Clay, donating ,DATE, Dorfman 1998

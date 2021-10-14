@@ -1,0 +1,45 @@
+Type,Entity 1,Relationship,Type,Entity2
+GPE,Sipán, is ,O, however commonly used
+LOC,Huaca Rajada, is ,GPE, smallest of three pyramids at Sipán site
+LOC,Huaca Rajada, is ,CARDINAL, At sixty feet smallest of three pyramids
+LOC,Huaca Rajada, is ,GPE, At sixty feet high smallest at Sipán site
+LOC,Huaca Rajada, is smallest at ,DATE, Kirkpatrick 1992
+LOC,Huaca Rajada, is smallest At ,O, sixty feet
+GPE,Sipán, however is used ,O, refer
+GPE,Peru, on ,O, north coast
+LOC,Huaca Rajada, is smallest at ,GPE, Sipán site
+GPE,Sipán, is ,O, however used
+LOC,Huaca Rajada, is smallest of ,CARDINAL, three pyramids
+ORG,Ernil Bernal, punctured ,O, roof
+LOC,Huaca Rajada, is ,CARDINAL, At sixty feet high smallest of three pyramids
+GPE,Sipán, however is commonly used ,O, refer
+LOC,Huaca Rajada, is ,CARDINAL, smallest of three pyramids at Sipán site
+ORG,Ernil Bernal, locating ,O, number
+LOC,Huaca Rajada, is ,GPE, At sixty feet smallest of three pyramids at Sipán site
+LOC,Huaca Rajada, is ,CARDINAL, At sixty feet high smallest of three pyramids at Sipán site
+GPE,Sipán, refer ,O, both to material
+GPE,Sipán, however is now commonly used ,O, refer
+PERSON,Samuel Bernal, one of ,O, original looters
+LOC,Huaca Rajada, is smallest at ,PERSON, Kirkpatrick 1992
+GPE,Sipán, is ,O, commonly used
+LOC,Huaca Rajada, is ,CARDINAL, At sixty feet smallest of three pyramids at Sipán site
+LOC,Huaca Rajada, is ,GPE, At sixty feet high smallest of three pyramids at Sipán site
+LOC,Huaca Rajada, is ,GPE, At sixty feet smallest at Sipán site
+LOC,Huaca Rajada, is ,O, smallest
+GPE,Sipán, is ,O, now used
+GPE,Sipán, is ,O, now commonly used
+GPE,Sipán, refer ,O, both to material from Huaca Rajada
+GPE,Sipán, however is now used ,O, refer
+GPE,Sipán, is now commonly used ,O, refer
+GPE,Sipán, is ,O, used
+GPE,Sipán, is ,O, however now used
+ORG,Ernil Bernal, locating ,O, number of gold beads
+GPE,Sipán, is commonly used ,O, refer
+ORG,Ernil Bernal, punctured ,O, roof of tunnel
+GPE,Sipán, is now used ,O, refer
+GPE,Sipán, refer ,O, both
+GPE,Sipán, is ,O, however now commonly used
+PERSON,Kirkpatrick, Lords of ,GPE, Sipán
+LOC,Huaca Rajada, is smallest At ,O, sixty feet high
+GPE,Sipán, is used ,O, refer
+PERSON,Alva, Tombs of ,GPE, Sipán

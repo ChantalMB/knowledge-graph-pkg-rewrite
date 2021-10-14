@@ -1,0 +1,71 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Kilpatrick, contacted ,O, authorities
+PERSON,Manukonga, path ,O, described
+PERSON,Manukonga, path ,O, described as tribesman
+PERSON,Entwistle, applying for ,O, permit do under stipulations
+PERSON,Kilpatrick, contacted authorities at ,GPE, Taranaki Museum
+PERSON,Entwistle, offered provenance documents According to ,O, members
+PERSON,Kilpatrick, immediately contacted authorities at ,GPE, Taranaki Museum
+PERSON,Entwistle, bought panels for ,MONEY, $ 6000
+PERSON,Entwistle, told ,O, him
+PERSON,Entwistle, bought panels from ,PERSON, Manukonga
+PERSON,Entwistle, bought ,O, panels
+PERSON,Entwistle, applying for ,O, permit
+PERSON,Entwistle, applying for ,O, permit do
+PERSON,Entwistle, offered ,O, provenance documents
+PERSON,Kilpatrick, remained ever ,NORP, Topine
+PERSON,Kilpatrick, immediately contacted ,O, authorities
+PERSON,Entwistle, also offered ,O, provenance documents
+PERSON,Ortiz, consign ,CARDINAL, 234 items for auction
+PERSON,Ortiz, shipped panels to ,GPE, London
+PERSON,Entwistle, also offered provenance documents According to ,O, members
+PERSON,Kilpatrick, immediately contacted ,NORP, Topine
+PERSON,Kilpatrick, now referred ,NORP, Topine
+PERSON,Ortiz, indicated As ,O, sale
+PERSON,Ortiz, determined In ,O, appeal
+PERSON,Ortiz, indicated As ,O, sale of items
+ORG,Crown, acquired ,O, title
+GPE,New York, view ,O, panels
+PERSON,Entwistle, allegedly told ,O, him
+PERSON,Entwistle, offered provenance documents According to ,O, members of New Zealand government
+PERSON,Ortiz, shipped panels for ,O, 29 June sale
+PERSON,Entwistle, applying for ,DATE, permit do so under stipulations of 1962 New Zealand Historic Articles Act
+PERSON,Kilpatrick, contacted authorities at ,GPE, Taranaki Museum in New Plymouth
+PERSON,Graziella, was ,O, returned
+PERSON,Kilpatrick, remained ,NORP, Topine
+PERSON,Ortiz, indicated As ,O, sale of other items
+PERSON,Manukonga, brought ,O, panels
+GPE,Motunui, at battle is ,O, group of elaborate carved wooden panels
+PERSON,Kilpatrick, referred ,NORP, Topine
+PERSON,Entwistle, applying for ,O, permit do so under stipulations
+PERSON,Manukonga, brought panels to ,O, his home
+PERSON,Ortiz, purchased ,CARDINAL, five panels
+PERSON,Ortiz, enough indicated As ,O, sale of other items
+PERSON,Manukonga, reportedly brought panels to ,O, his home
+PERSON,Manukonga, reportedly brought ,O, panels
+ORG,Crown, only acquired ,O, title
+PERSON,Kilpatrick, referred to ,GPE, to Ngati Rahiri Taonga
+GPE,New Zealand, has ,O, claim
+PERSON,Manukonga, was cutting path through ,O, swamp
+PERSON,Manukonga, was cutting ,O, path
+PERSON,Kilpatrick, contacted ,NORP, Topine
+PERSON,Kilpatrick, now referred to ,GPE, to Ngati Rahiri Taonga
+PERSON,Ortiz, consign ,CARDINAL, 234 items
+PERSON,Entwistle, applying for ,DATE, permit do under stipulations of 1962 New Zealand Historic Articles Act
+PERSON,Manukonga, was reportedly cutting path through ,O, swamp
+PERSON,Kilpatrick, immediately contacted authorities at ,GPE, Taranaki Museum in New Plymouth
+PERSON,Entwistle, Specifically exported ,O, them
+PERSON,Ortiz, shipped ,O, panels
+PERSON,Ortiz, determined In ,O, subsequent appeal
+PERSON,Ortiz, enough indicated As ,O, sale of items
+PERSON,Ortiz, enough indicated As ,O, sale
+PERSON,Manukonga, was reportedly cutting ,O, path
+PERSON,Manukonga, path ,O, described as Maori tribesman
+PERSON,Entwistle, exported ,O, them
+PERSON,Ortiz, shipped panels for ,O, 29 June sale at Sotheby 's
+PERSON,Ortiz, consigned In ,DATE, 1978
+PERSON,Graziella, for ,O, ransom
+PERSON,Entwistle, also offered provenance documents According to ,O, members of New Zealand government
+GPE,New Zealand, has ,DATE, Historic Articles Act of 1962
+PERSON,Ortiz, sent ,O, them
+PERSON,Ortiz, consigned after at_time ,CARDINAL, five years

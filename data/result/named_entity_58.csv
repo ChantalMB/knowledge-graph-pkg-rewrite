@@ -1,0 +1,30 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Alva, encountered ,O, several looters
+PERSON,Dos Cabezas, is cultural site ,O, site
+GPE,Peru, of ,O, north coast
+PERSON,Alva, reaching ,O, La Mina
+PERSON,van Rijn, has stated in ,O, turn
+PERSON,Alva, encountered looters in ,O, process
+GPE,Peru, on ,O, north coast
+PERSON,Kirkpatrick, reception of ,O, looted La Mina material
+PERSON,Dos Cabezas, is Moche site ,O, site
+PERSON,Dos Cabezas, is Moche cultural site ,O, site of tomb looting event
+PERSON,Dos Cabezas, is Moche cultural site ,O, site of major tomb looting event
+PERSON,Alva, encountered looters in ,O, process of digging
+PERSON,Bourne, has ,O, collection
+PERSON,Dos Cabezas, is site ,O, site
+PERSON,Alva, encountered ,O, looters
+PERSON,Dos Cabezas, is cultural site ,O, site of tomb looting event
+PERSON,Dos Cabezas, is cultural site ,O, site of major tomb looting event
+PERSON,Dos Cabezas, is site ,O, site of major tomb looting event
+PERSON,Dos Cabezas, is site ,O, site of tomb looting event
+FAC,JFK International Airport, is in ,O, New York
+PERSON,Dos Cabezas, is Moche site ,O, site of tomb looting event
+PERSON,Pobo Galego, is in ,O, Santiago
+PERSON,Bourne, maintained For ,DATE, years
+PERSON,Dos Cabezas, is Moche site ,O, site of major tomb looting event
+PERSON,Kirkpatrick, reception 's ,O, art market
+PERSON,Dos Cabezas, is Moche cultural site ,O, site
+GPE,London, by ,O, Metropolitan Police
+PERSON,Patterson, of ,O, collection
+PERSON,Kirkpatrick, Lords of ,GPE, Sipán

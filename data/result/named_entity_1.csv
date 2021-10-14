@@ -1,0 +1,46 @@
+Type,Entity 1,Relationship,Type,Entity2
+GPE,Aidonia, are curated for ,O, benefit of general public
+ORG,SPGH, returned in ,DATE, Howland 1996
+PERSON,Ward, donate material to ,O, Society
+PERSON,Ward, donate ,O, material
+PERSON,Ward, avoided ,O, financial loss
+GPE,Aidonia, unfavourably are curated in ,O, purpose-built museum
+GPE,Aidonia, are curated in ,O, purpose-built museum
+PERSON,Krystalli-Votsi, excavation of ,NORP, Mycenaean cemetery
+QUANTITY,ten kilometres, is in ,GPE, northeastern Peloponnesian district of Corinthia
+ORG,SPGH, returned material in ,DATE, Howland 1996
+GPE,Greece, 's case is ,DATE, Fitzpatrick 1996
+PERSON,Ward, avoided ,O, large loss
+GPE,Greece, has ,O, case
+PERSON,Cherry, reflections on ,O, attribution
+GPE,Aidonia, unfavourably are curated in ,O, museum
+ORG,SPGH, returned ,O, material
+GPE,Aidonia, are curated in ,O, museum
+GPE,Aidonia, unfavourably are curated for ,O, benefit of general public
+GPE,Aidonia, are curated for ,O, benefit of public
+PERSON,Cherry, reflections in ,NORP, Aegean bronze age
+PERSON,Ward, donate material for ,O, Preservation
+PERSON,Ward, donate material for ,NORP, Preservation of Greek Heritage
+ORG,SPGH, returned to ,GPE, Greece
+ORG,P.P. Betancourt, in Cherry is ,O, John F.
+PERSON,Brodie, Lost ,PERSON, Apostolidis History
+PERSON,Ward, donate material for ,O, Preservation of Heritage
+GPE,Aidonia, unfavourably are curated for ,O, benefit of public
+GPE,Aidonia, are ,O, curated
+GPE,http://www.nytimes.com/1993/04/04/arts/arts-artifacts-rare-gold-baubles-small-ancient-and-radiant.html, accessed ,O, 23 August 2012
+GPE,Aidonia, are ,O, unfavourably curated
+GPE,Aidonia, unfavourably are curated for ,O, benefit
+PERSON,Cherry, is in ,O, P.P. Betancourt
+ORG,P.P. Betancourt, in Cherry is ,GPE, After Aidonia Further reflections on attribution
+ORG,SPGH, returned in ,GPE, Howland 1996
+PERSON,Ward, avoided ,O, large financial loss
+PERSON,Ward, donate material to ,O, US-based Society
+ORG,SPGH, returned material to ,GPE, Greece
+PERSON,Ward, avoided ,O, loss
+ORG,SPGH, returned material in ,GPE, Howland 1996
+PERSON,Ward, was ,O, dealer
+GPE,Aidonia, are curated for ,O, benefit
+QUANTITY,ten kilometres, is in ,NORP, northeastern Peloponnesian district of Corinthia
+PERSON,Cherry, reflections After ,GPE, Aidonia
+GPE,New York, has ,PERSON, Michael Ward Gallery
+PERSON,Brodie, Lost ,PERSON, Neil

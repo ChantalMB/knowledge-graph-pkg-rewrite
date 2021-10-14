@@ -1,0 +1,17 @@
+Type,Entity 1,Relationship,Type,Entity2
+GPE,Wanborough, is in ,GPE, Surrey
+PERSON,Bland, Development of ,O, Treasure Act
+GPE,Wanborough, experienced due ,O, further looting
+GPE,Wanborough, experienced ,O, further looting
+GPE,Wanborough, experienced looting perhaps due on ,O, occasions
+GPE,Wanborough, experienced perhaps due ,O, further looting
+PERSON,Addyman, Antiquities without ,PERSON, Archaeology in United Kingdom '
+GPE,Wanborough, experienced looting due on ,O, later occasions
+GPE,Wanborough, experienced perhaps due ,O, looting
+GPE,Wanborough, experienced ,O, looting
+GPE,Wanborough, experienced looting on ,O, occasions
+GPE,Wanborough, experienced looting perhaps due on ,O, later occasions
+PERSON,Graham, change ,O, law
+GPE,Wanborough, experienced due ,O, looting
+GPE,Wanborough, experienced looting on ,O, later occasions
+GPE,Wanborough, experienced looting due on ,O, occasions

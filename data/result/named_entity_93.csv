@@ -1,0 +1,36 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Pitblado, sought ,O, expertise of group of scholars
+PERSON,Steve Nelson, confirm ,O, presence of lacquer called on returned figurine
+PERSON,Steve Nelson, used ,O, scanning electron microscope
+ORG,Pilling, brought figurines to ,O, family friend
+PERSON,Morss, visited in ,DATE, Morss 1954
+PERSON,Steve Nelson, confirm ,O, presence of lacquer called
+PERSON,Pitblado, sought ,O, expertise of group
+GPE,Prehistoric Museum, is in ,GPE, College of Eastern Utah
+ORG,Pilling, brought figurines to ,O, family friend named
+PERSON,Steve Nelson, confirm ,O, presence
+ORG,Eastern Utah Prehistoric Museum, of College is ,GPE, n.d.
+ORG,Pilling, brought ,O, figurines
+PERSON,Noel Morss, inspected ,O, figurines
+ORG,Utah State University, of ,O, geospatial anthropology lab
+PERSON,Steve Nelson, confirm ,O, presence of lacquer called on figurine
+PERSON,Pitblado, sought ,O, expertise of multidisciplinary group
+PERSON,Steve Nelson, confirm ,O, presence of lacquer
+ORG,Fremont Culture, lived in ,GPE, Utah region
+PERSON,Steve Nelson, geochemist at ,O, Brigham Young University
+PERSON,Molly Boeka Cannon, ran ,O, fingerprint tests on prints
+PERSON,Molly Boeka Cannon, ran ,O, forensic fingerprint tests on prints found
+PERSON,Price, in Back is ,O, Carbon-Emery Division
+PERSON,James Adovasio, expert from ,O, Mercyhurst College
+PERSON,Noel Morss, visited ,O, site
+PERSON,Morss, determined Based on ,O, idiosyncrasies
+PERSON,Bonnie Pitblado, anthropologist at ,GPE, Utah State University
+PERSON,Pitblado, sought ,O, expertise
+PERSON,Molly Boeka Cannon, ran ,O, forensic fingerprint tests on prints
+PERSON,Morss, determined Based on ,O, iconographic idiosyncrasies
+PERSON,Molly Boeka Cannon, ran ,O, fingerprint tests on prints found
+PERSON,Morss, visited in ,PERSON, Morss 1954
+PERSON,Pitblado, to ,O, assistant
+PERSON,Molly Boeka Cannon, ran ,O, fingerprint tests
+PERSON,Molly Boeka Cannon, ran ,O, forensic fingerprint tests
+PERSON,Pitblado, sought ,O, expertise of multidisciplinary group of scholars

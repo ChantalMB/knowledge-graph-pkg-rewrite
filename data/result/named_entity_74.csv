@@ -1,0 +1,61 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORG,Bell, was permitted In ,DATE, 1999
+GPE,Italy, has ,O, quest for repatriation of looted artifacts '
+ORG,Bell, was ,O, convinced
+ORG,Met, has ,O, fears on looted antiquities
+PERSON,Hundley, turn ,O, auction houses
+GPE,Aidone, is expected ,O, benefit
+PERSON,Hundley, turn ,O, eye
+ORG,Metropolitan, restored ,O, ownership
+ORDINAL,first, was made later in ,DATE, 1988
+ORG,Bell, made requests In ,DATE, following years
+ORG,Bell, was convinced to ,O, extent
+ORG,Bell, was ,O, permitted
+ORG,Metropolitan, restored ,GPE, ownership of krater to Italy
+PERSON,Hundley, turn ,O, collectors
+PERSON,Malcolm Bell, archaeologist in ,NORP, charge of ongoing excavations at Morgantina
+ORG,Bell, was convinced of ,O, true provenance of hoard
+PERSON,Brodie, is In ,O, news
+ORDINAL,first, was ,O, made
+ORG,Metropolitan, restored ownership In ,DATE, 2006
+ORG,Met, from ,O, own translation by von Bothmer of inscription
+GPE,Italy, from art is ,ORG, Metropolitan Museum 2006
+ORDINAL,first, was ,DATE, made four years later
+ORG,Bell, was finally permitted In ,DATE, 1999
+PERSON,Vincenzo Bossi, sold silver for ,O, 110 million lire
+ORG,Bell, was convinced of ,O, provenance of hoard
+PERSON,Vincenzo Bossi, sold ,O, Filippo Baviera
+PERSON,Hundley, turn ,O, blind eye
+PERSON,Vincenzo Bossi, sold ,O, silver
+ORG,Met, has ,O, curator
+ORG,Bell, view Morgantina silver at ,ORG, Met
+GPE,Italy, from art is ,DATE, Metropolitan Museum 2006
+GPE,Italy, 's quest is ,O, Suffolk Transnational Law Review
+PERSON,Vincenzo Bossi, silver ,O, Filippo Baviera
+ORG,Met, purchased silver in ,CARDINAL, two lots
+GPE,Aidone, is ,O, expected
+ORG,Met, purchased ,O, silver
+ORG,Met, has ,O, executive vice president
+ORG,Bell, view ,NORP, Morgantina silver
+ORDINAL,first, was made in ,DATE, 1988
+ORDINAL,first, was ,DATE, made four years later in 1988
+ORG,Bell, was ,O, convinced of true provenance to extent
+GPE,Aidone, of ,O, Art Info
+ORG,Met, of director is ,NORP, then Italian Culture Minister
+ORG,Metropolitan, restored ,O, ownership of krater
+PERSON,Hundley, turn ,O, private collectors
+ORG,Bell, was convinced of ,O, true provenance
+ORG,Bell, was ,O, finally permitted
+ORG,Bell, made requests In ,DATE, years
+ORG,Met, 's president is ,O, Ashton Hawkins
+GPE,Aidone, is expected ,O, benefit economically
+ORG,Bell, made ,O, requests
+GPE,Italy, from ,O, tomb raiders to greatest museums
+ORDINAL,first, was ,O, made later
+GPE,Lugano, is in ,GPE, Switzerland
+ORG,Bell, was ,O, convinced of provenance of hoard to extent
+ORG,Bell, made ,O, several requests
+ORG,Bell, was ,O, convinced of provenance to extent
+PERSON,Vincenzo Bossi, tombaroli in ,GPE, Enna
+PERSON,Vincenzo Bossi, sold silver for ,O, 110 million lire to Orazio Di Simone
+ORG,Bell, was convinced of ,O, provenance

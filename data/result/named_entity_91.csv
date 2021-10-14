@@ -1,0 +1,28 @@
+Type,Entity 1,Relationship,Type,Entity2
+FAC,Dulles International Airport, is in ,O, Washington DC
+PERSON,Smith, Guilty In ,ORG, Movement of Pre-Columbian Items
+PERSON,Bernstein, pleaded ,DATE, Smith 1982
+PERSON,Bernstein, pleaded ,O, misdemeanour
+PERSON,Bernstein, pleaded On ,DATE, 26 January 1982
+PERSON,Evans, suffered ,O, heart attack
+PERSON,Smith, Guilty of ,O, Misdemeanor
+PERSON,Bernstein, pleaded ,PERSON, Smith 1982
+PERSON,Bernstein, was given ,DATE, one-year suspended sentence
+GPE,Peru, of ,O, archaeological sites
+DATE,19 January 1981, Evans of ,O, able
+PERSON,Bernstein, was given ,ORG, USD fine
+PERSON,Bernstein, was ,O, asked
+PERSON,Bernstein, was ,O, required
+PERSON,Bernstein, was given ,O, suspended sentence
+PERSON,Evans, suffered ,O, fatal heart attack
+PERSON,Bernstein, has ,GPE, Manhattan residence
+NORP,poncho, was worth by ,O, itself
+PERSON,Bernstein, pleaded ,O, guilty
+PERSON,Bernstein, was given ,DATE, one-year sentence
+PERSON,Bernstein, has ,CARDINAL, four suitcases
+PERSON,Bernstein, informed ,O, customs agents
+GPE,Peru, has ,O, Lost World
+PERSON,Bernstein, pleaded ,O, guilty to charge
+PERSON,Bernstein, was given ,O, sentence
+PERSON,Bernstein, was ,O, When asked
+NORP,poncho, was ,O, worth

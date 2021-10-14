@@ -1,0 +1,20 @@
+Type,Entity 1,Relationship,Type,Entity2
+GPE,Pakistan, has ,O, Antiquity Act
+ORG,BBC, Mystery of ,NORP, Persian Mummy
+ORG,Doole, Culture Without ,CARDINAL, 9
+NORP,Naqvi, awaits ,O, burial
+PERSON,Amanollah Riggi, sent ,PERSON, Oscar Muscarella of New York 's Metropolitan Museum
+PRODUCT,Reeki, received ,O, mummy
+PERSON,Amanollah Riggi, sent ,PERSON, Oscar Muscarella
+PERSON,Riggi, acting on behalf of ,O, acquaintance
+PRODUCT,Reeki, received mummy from ,O, an
+ORG,Doole, Culture Without ,CARDINAL, 14-15
+PERSON,Riggi, acting on behalf of ,NORP, Pakistani acquaintance
+PRODUCT,Reeki, received mummy from ,NORP, an Iranian
+ORG,Doole, Culture Without ,O, Context
+ORG,http://news.bbc.co.uk/1/hi/world/south_asia/7206526.stm, accessed ,O, 17 July 2012
+ORG,Doole, Mystery of ,NORP, Persian Mummy
+PERSON,Riggi, claimed ,O, be acting
+NORP,Naqvi, still awaits ,O, burial
+PERSON,Amanollah Riggi, sent Oscar Muscarella In ,DATE, March 2000
+PERSON,Romey, Saga of ,NORP, Persian Princess '

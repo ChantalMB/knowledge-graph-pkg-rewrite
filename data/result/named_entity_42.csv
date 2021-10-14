@@ -1,0 +1,46 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Coe, have ,O, look
+PERSON,Saenz, was ,O, shown
+PERSON,Coe, been ,O, Indeed had previously shy
+PERSON,Coe, contacted in ,DATE, 1973
+ORG,Grolier, were found in ,O, library
+ORG,Thompson, offered ,PERSON, several examples of looters coming across Maya paper
+PERSON,Coe, obtained ,PERSON, permission from Saenz
+PERSON,Coe, been ,O, Indeed had shy
+PERSON,Maya, were ,O, traumatised
+PERSON,Saenz, got in ,O, plane
+PERSON,Maya, were traumatised by ,DATE, De Landa Calderón 1566
+ORG,Thompson, offered ,O, several examples of looters coming across paper
+ORG,Thompson, offered ,PERSON, several examples of looters coming across unmarked Maya paper
+PERSON,Coe, been ,O, had previously shy
+ORG,Thompson, offered ,O, several examples of looters
+ORG,Thompson, offered ,O, several examples of looters coming
+PERSON,Maya, were traumatised by ,O, destruction
+PERSON,Coe, obtained ,O, permission
+PERSON,Coe, been ,O, had shy
+ORG,Herner, being ,NORP, pre-Hispanic
+PERSON,Saenz, got in ,O, light plane
+ORG,Thompson, offered ,O, several examples of looters coming across unmarked paper
+PERSON,Maya, were ,O, literate
+ORG,Herner, lists ,PERSON, Josué Saenz
+PERSON,Rob, History of ,O, Fa
+ORG,Thompson, offered ,O, examples of looters coming
+ORG,Thompson, offered ,O, examples of looters coming across paper
+PERSON,Saenz, stated In ,ORG, interview with Herner
+PERSON,Coe, travelled to ,O, México City
+PERSON,Knorozov, translated by ,PERSON, Stephanie D. Coe
+ORG,Thompson, offered ,PERSON, examples of looters coming across Maya paper
+PERSON,Coe, reveals ,O, little
+PERSON,Coe, contacted by ,ORG, Karl E. Meyer
+ORG,Thompson, following Baudez is ,DATE, 2002
+GPE,Diego, Relación de ,O, las cosas de Yucatán
+ORG,Thompson, offered ,O, examples
+ORG,Thompson, offered ,O, examples of looters
+PERSON,Coe, reveals ,PERSON, little about Dr Saenz
+ORG,Thompson, offered ,O, several examples
+ORG,Thompson, offered ,PERSON, examples of looters coming across unmarked Maya paper
+ORG,Grolier, were ,O, found
+PERSON,Saenz, stated In ,O, interview
+ORG,Grolier, were found in ,O, old library
+ORG,Thompson, offered ,O, examples of looters coming across unmarked paper
+PERSON,Milbrath, Questions Concerning ,ORG, Authenticity of Grolier Codex ' Latin American Indian Literatures Journal

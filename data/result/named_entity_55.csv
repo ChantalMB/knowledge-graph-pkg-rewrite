@@ -1,0 +1,42 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Bourne, endow ,LOC, centre for study of art of ancient Americas
+GPE,Peru, at ,GPE, request under US National Stolen Property Act
+PERSON,Johnson, purchased ,ORG, shipment of material from Sipán
+PERSON,Johnson, purchased ,O, shipment of material
+PERSON,Bourne, asked ,O, comment on return of monkey head bead
+PERSON,Bourne, asked ,O, comment
+GPE,Spain, returned In ,DATE, 2007
+PERSON,Bourne, creating ,O, Constable 2008
+GPE,Peru, in ,O, Lambayeque Valley
+GPE,Spain, returned ,O, monkey head bead
+PERSON,Bourne, asked ,O, comment on return
+PERSON,Benjamin Bishop Johnson, was ,O, former art historian
+GPE,Spain, returned ,O, similar monkey head bead
+PERSON,Bourne, bequeathed ,O, 4 million USD
+PERSON,Levine, also acknowledged ,O, museum 's interest
+PERSON,Bourne, creating ,O, his museum
+GPE,Spain, returned to ,GPE, Peru
+PERSON,Johnson, purchased shipment According to ,O, testimony
+PERSON,Johnson, purchased shipment at_time ,O, only six months
+PERSON,Kirkpatrick, Lords of ,ORG, Sipán
+PERSON,Bourne, endow ,LOC, centre for study of art of Americas
+GPE,Spain, returned monkey head bead In ,DATE, 2007
+PERSON,Bourne, expressed ,O, interest
+PERSON,Bourne, endow ,O, centre
+PERSON,Johnson, purchased shipment According to ,PERSON, testimony of Michael Kelly
+PERSON,Bourne, defended ,O, his decision
+ORG,Walters, receives ,O, artwork
+GPE,Chávez, retired in ,DATE, 2004
+PERSON,Johnson, purchased ,ORG, shipment from Sipán
+PERSON,Johnson, purchased ,O, shipment
+PERSON,Karen Durkovitch, president of ,O, boar
+PERSON,Bourne, also bequeathed ,O, 4 million USD
+PERSON,Bourne, creating ,O, his own museum
+PERSON,Bourne, endow ,O, centre for study
+GPE,Spain, returned monkey head bead to ,GPE, Peru
+PERSON,Bourne, told ,ORG, FBI agents
+PERSON,Bourne, expressed interest At ,O, time
+PERSON,Bourne, endow ,O, centre for study of art
+PERSON,Levine, acknowledged ,O, museum 's interest
+ORG,Sipán, is in ,GPE, Peru 's Lambayeque Valley
+PERSON,Johnson, purchased shipment at_time ,O, six months

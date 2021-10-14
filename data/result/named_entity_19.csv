@@ -1,0 +1,56 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Lobo, Fabric of ,O, Life
+NORP,Bolivians, act in ,DATE, Bubba 1990
+ORG,Yorke, operated ,O, store in La Paz
+CARDINAL,hundreds, were ,O, confiscated
+CARDINAL,1, became involved in ,GPE, Coroma textile inventory process
+PERSON,Roger Yorke, illegally importing ,NORP, Bolivian cultural property
+ORG,Yorke, appealed ,O, search
+ORG,Yorke, unsuccessfully appealed search In ,O, October
+PERSON,Murra, sent ,O, copies
+PERSON,Roger Yorke, illegally importing ,O, cultural property
+GPE,Bolivia, University of ,O, Cambridge
+ORG,Yorke, lived for ,O, nine years
+PERSON,Roger Yorke, importing ,O, cultural property
+ORG,Yorke, appealed search In ,O, October
+ORG,Yorke, lived in ,O, South America
+GPE,US, entered In ,DATE, 2001
+GPE,US, entered ,GPE, Bolivia
+ORG,Yorke, seizure on ,O, grounds
+CARDINAL,hundreds, were ,DATE, In February 1988 confiscated from premises of Steven Berger
+DATE,Forty three, had ,PERSON, had seized from Berger
+DATE,Forty three, had ,O, had seized
+PERSON,Roger Yorke, illegally importing ,NORP, Bolivian property
+GPE,Canada, under ,O, Cultural Property Export
+ORG,Yorke, from ,O, residence
+PERSON,Roger Yorke, importing ,NORP, Bolivian cultural property
+PERSON,Roger Yorke, illegally importing ,O, property
+CARDINAL,hundreds, were confiscated In ,DATE, February 1988
+ORG,Yorke, seizure on ,O, constitutional grounds
+NORP,Bolivians, act in ,PERSON, Bubba 1990
+CARDINAL,hundreds, were confiscated from ,PERSON, premises of Steven Berger
+ORG,Yorke, unsuccessfully appealed In ,O, October
+PERSON,Roger Yorke, was charged In ,DATE, January 1990
+GPE,Potosí, of department is ,O, 120 km north
+PERSON,Roger Yorke, importing ,NORP, Bolivian property
+PERSON,Roger Yorke, was ,O, charged
+ORG,Yorke, unsuccessfully appealed ,O, search
+PERSON,Roger Yorke, importing ,O, property
+ORG,Yorke, appealed In ,O, October
+ORG,Yorke, operated ,O, store
+GPE,New Bolivia, Journal of ,O, Cultural Property
+PERSON,Roger Yorke, importing property into ,DATE, Paterson 1993
+PERSON,Roger Yorke, importing property into ,GPE, Canada
+PERSON,Roger Yorke, illegally importing property into ,GPE, Canada
+LAW,Constitution, charged ,O, state
+PERSON,Roger Yorke, illegally importing property into ,PERSON, Paterson 1993
+PERSON,Berger, is in ,GPE, Bolivia
+NORP,Bolivians, act in ,O, their stead
+PERSON,Roger Yorke, importing property into ,PERSON, Paterson 1993
+CARDINAL,hundreds, were confiscated from ,O, premises
+ORG,Yorke, of ,O, residence
+CARDINAL,hundreds, were ,DATE, In February 1988 confiscated from premises
+PERSON,Roger Yorke, illegally importing property into ,DATE, Paterson 1993
+CARDINAL,hundreds, were ,PERSON, In February 1988 confiscated from premises of Steven Berger
+PERSON,Berger, of ,O, clients
+CARDINAL,one, from five is ,DATE, Lowenthal 1992

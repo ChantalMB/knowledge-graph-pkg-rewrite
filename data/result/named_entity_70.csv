@@ -1,0 +1,96 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Getty, 's acquisitions is ,O, Los Angeles Times
+ORG,True, was responsible for ,DATE, acquisitions of material including 1988 purchase
+PERSON,Getty, of ,O, motives
+ORG,True, regards ,O, its acquisition of unprovenanced antiquities
+ORG,True, acquired ,PERSON, BC bronze tripod for Getty
+ORG,True, was responsible for ,O, controversial acquisitions of unprovenanced material
+PERSON,Jiri Frel, was associated with ,O, irregularities
+ORG,True, was responsible for ,DATE, controversial acquisitions of unprovenanced material including 1988 purchase
+ORG,http://www.newyorker.com/reporting/2007/12/17/071217fa_fact_eakin, accessed ,O, 18 July 2012
+PERSON,Getty, has ,O, antiquities collection
+ORG,True, acquired ,ORG, fifth-century BC bronze tripod
+ORG,Medici, at ,O, storerooms
+PERSON,Getty, behind ,O, adoption of clear policy guidelines
+PERSON,Jiri Frel, was associated with ,O, several irregularities regarding museum acquisitions
+ORG,True, was responsible for ,O, controversial acquisitions of material
+PERSON,Getty, 's policy is ,O, Felch
+PERSON,Getty, of ,O, conflict-of-interest policy
+ORG,True, was responsible for ,O, acquisitions of unprovenanced material
+ORG,True, was responsible for ,PERSON, controversial acquisitions of material including 1988 purchase of Getty Aphrodite
+PERSON,http://articles.latimes.com/2007/nov/28/entertainment/et-getty28, accessed ,O, 18 July 2012
+PERSON,Jiri Frel, was curator at ,PERSON, J.Paul Getty Museum
+ORG,True, was driving force behind ,PERSON, Getty 's adoption
+ORG,True, was responsible for ,DATE, controversial acquisitions of material including 1988 purchase of Getty Aphrodite
+ORG,True, was ,O, promoted
+PERSON,Getty, 's collection is ,PERSON, Eakin 2007
+GPE,Italy, in Collection is ,O, Felch
+ORG,True, was responsible for ,PERSON, acquisitions of material including 1988 purchase of Getty Aphrodite
+ORG,True, was ,O, fired
+PERSON,Getty, had bought ,O, several pieces
+ORG,True, receiving ,O, stolen antiquities
+PERSON,Jiri Frel, was ,O, curator
+PERSON,Getty, returns ,CARDINAL, 90
+PERSON,Getty, would return object in ,O, question
+ORG,True, declined ,O, offer
+ORG,True, was offered position at ,O, Metropolitan Museum
+ORG,True, was ,O, driving force
+ORG,True, was ,O, charged
+ORG,True, was responsible for ,DATE, acquisitions of material including 1988 purchase of Getty Aphrodite
+ORG,True, was responsible for ,O, acquisitions of material
+ORG,True, was responsible for ,O, acquisitions
+GPE,Italy, in Maritima is ,DATE, Lyons 2010
+PERSON,Getty, ' ,O, acquisitions
+ORG,True, was force behind ,PERSON, Getty 's adoption of clear policy guidelines
+PERSON,Giacomo Medici, illegal export of ,O, goods
+PERSON,Giacomo Medici, conspiracy to ,O, traffic
+ORG,True, was responsible for ,DATE, acquisitions of unprovenanced material including 1988 purchase
+PERSON,James A.R. Nafziger, in Lyons is ,PERSON, Claire
+ORG,True, was ,O, responsible
+PERSON,Getty, 's collection is ,DATE, Eakin 2007
+ORG,True, receiving ,O, antiquities
+ORG,True, regards ,O, its acquisition
+PERSON,Getty, would return ,O, object
+PERSON,Getty, Furthermore would return object in ,O, question
+PERSON,Jiri Frel, was ,PERSON, curator of antiquities at J.Paul Getty Museum
+ORG,True, was driving force behind ,PERSON, Getty 's adoption of policy guidelines
+ORG,True, regards ,O, its acquisition of antiquities
+PERSON,Jiri Frel, was associated with ,O, several irregularities
+PERSON,Getty, had bought ,O, several important pieces
+ORG,True, was offered position at ,O, Metropolitan Museum in New York
+ORG,True, was force behind ,PERSON, Getty 's adoption of policy guidelines
+PERSON,http://www.newyorker.com/online/blogs/newsdesk/2010/10/marion-true.html, accessed ,O, 18 July 2012
+ORG,True, acquired ,DATE, fifth-century BC bronze tripod for Getty
+ORG,True, was responsible for ,DATE, controversial acquisitions of material including 1988 purchase
+ORG,Medici, is ,NORP, Italian
+ORG,True, was driving force behind ,PERSON, Getty 's adoption of clear policy guidelines
+ORG,True, was charged On ,DATE, 1 April 2005
+PERSON,Jiri Frel, was curator of ,O, antiquities
+PERSON,Getty, returns ,CARDINAL, three works
+PERSON,Getty, had bought ,O, important pieces
+ORG,True, was force behind ,PERSON, Getty 's adoption
+ORG,True, acquired ,ORG, fifth-century BC bronze tripod for Getty
+PERSON,Jiri Frel, was ,O, associated
+ORG,True, acquired ,PERSON, fifth-century BC bronze tripod for Getty
+ORG,True, acquired ,DATE, fifth-century BC bronze tripod
+PERSON,Getty, Furthermore would return ,O, object
+ORG,True, acquired ,ORG, BC bronze tripod
+ORG,True, was promoted After ,DATE, Frel 's departure in 1986
+PERSON,Getty, returns ,O, Art Newspaper
+PERSON,Getty, had bought ,O, pieces
+PERSON,Giacomo Medici, export of ,O, goods
+ORG,True, replace ,O, him
+PERSON,Getty, returns ,CARDINAL, three stolen works
+PERSON,Jiri Frel, was associated with ,O, irregularities regarding museum acquisitions
+PERSON,Getty, 's acquisitions is ,O, 20 May
+ORG,True, was ,O, force
+ORG,True, was offered ,O, position
+ORG,True, was responsible for ,O, controversial acquisitions
+ORG,True, was charged On ,CARDINAL, 1 April 2005
+ORG,True, acquired ,ORG, BC bronze tripod for Getty
+ORG,Medici, from ,GPE, Geneva storerooms
+ORG,True, on ,O, alleged offences
+PERSON,James A.R. Nafziger, in Lyons is ,PERSON, Museums as sites of reconciliation
+PERSON,http://www.theartnewspaper.com/articles/Neither-condemned-nor-vindicated/22163, accessed ,O, 18 July 2012
+PERSON,Jiri Frel, Curator of ,O, Antiquities
+ORG,True, was promoted After ,O, Frel 's departure

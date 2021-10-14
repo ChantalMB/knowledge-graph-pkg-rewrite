@@ -1,0 +1,111 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Northampton, has ,O, lawyers have
+ORDINAL,second, arising out ,DATE, police investigation 1980 death Hungarian national József Sümegh
+PERSON,Sevso, was made ,O, resident of excavated villa
+PERSON,Sevso, was made for ,NORP, important Roman official living in area of Lake Balaton in western Hungary
+PERSON,Zsolt Visy, in Tóth is ,WORK_OF_ART, Seuso Treasure
+PERSON,Sevso, was made for ,NORP, Roman official living in Hungary
+WORK_OF_ART,Treasure, may ,O, may have buried at separate locations during time of major barbarian incursion in 374 AD
+WORK_OF_ART,Treasure, may ,O, may have buried at separate locations
+PERSON,József Sümegh, has ,O, younger half-brother
+PERSON,József Sümegh, was ,O, found
+PERSON,Zsolt Visy, in Mráv is ,GPE, Late Roman silver folding stand from Polgárdi
+PERSON,Ludovic, Origins of ,PERSON, Sevso treasure
+PERSON,Sevso, was made for ,NORP, Roman official living
+PERSON,Sevso, was made for ,NORP, important Roman official living in area in western Hungary
+PERSON,Zsolt Visy, in Visy is ,O, Zsolt
+PERSON,Sevso, was made for ,NORP, Roman official living in area in Hungary
+ORDINAL,second, arising out ,PERSON, police investigation 1980 death József Sümegh
+ORDINAL,second, arising out ,NORP, police investigation 1980 death Hungarian József Sümegh
+WORK_OF_ART,Treasure, may ,O, may have buried during time of barbarian incursion in 374 AD
+GPE,Hungary, has ,O, failure call particularly they had
+PERSON,Sevso, was made for ,NORP, Roman official
+PERSON,Sevso, was made for ,NORP, important Roman official living in western Hungary
+WORK_OF_ART,Treasure, may ,O, may have buried at locations during time of barbarian incursion
+PERSON,Sevso, was made ,O, resident of archaeologically excavated villa at Szabadbattyán
+PERSON,Landesman, curse of ,PERSON, Sevso silver
+PERSON,Sevso, was made for ,GPE, Roman official living in area in Hungary
+PERSON,Zsolt Visy, in Mráv is ,NORP, Late Roman silver folding stand from Polgárdi
+PERSON,Sevso, was made for ,GPE, important Roman official living in area in Hungary
+PERSON,Sümegh, been ,O, probably murdered
+ORDINAL,second, arising out ,O, police investigation
+PERSON,Sevso, was made for ,GPE, important Roman official living in area in western Hungary
+PERSON,Visy, objects of ,WORK_OF_ART, Seuso Treasure
+ORDINAL,second, arising out ,DATE, police investigation 1980 death
+PERSON,Zsolt Visy, in Visy is ,WORK_OF_ART, known objects of Seuso Treasure
+PERSON,Sevso, was made for ,NORP, important Roman official living
+PERSON,Sevso, was made for ,GPE, Roman official living in area of Lake Balaton in western Hungary
+PERSON,Sevso, was made ,O, resident
+PERSON,Zsolt Visy, in Visy is ,ORG, known objects of Seuso Treasure
+ORDINAL,second, arising out ,DATE, police investigation 1980 death Hungarian József Sümegh
+ORDINAL,second, arising out ,PERSON, police investigation 1980 death national József Sümegh
+PERSON,Sevso, was made ,O, resident of excavated villa at Szabadbattyán
+PERSON,De Walden, is in ,GPE, Kate Fitz Gibbon
+PERSON,Zsolt Visy, in Mráv is ,O, Zsolt
+PERSON,Sevso, was made for ,NORP, Roman official living in area
+PERSON,Sevso, was made for ,GPE, Roman official living in Hungary
+PERSON,Sümegh, been ,O, murdered
+PERSON,Sevso, was made for ,NORP, Roman official living in area of Lake Balaton in western Hungary
+PERSON,Sevso, was made for ,NORP, important Roman official living in area of Lake Balaton in Hungary
+WORK_OF_ART,Treasure, may ,O, may have buried during time
+PERSON,Sevso, was made for ,NORP, Roman official living in area in western Hungary
+ORDINAL,second, arising out ,PERSON, police investigation 1980 death Hungarian József Sümegh
+ORDINAL,second, arising out ,DATE, police investigation 1980 death national József Sümegh
+WORK_OF_ART,Treasure, may ,O, may have buried at locations during time
+PERSON,Zsolt Visy, in Nádorfi is ,NORP, Preliminary report on excavation of Late Roman building
+PERSON,Sevso, was made for ,GPE, Roman official living in area in western Hungary
+PERSON,József Sümegh, was found ,O, dead
+WORK_OF_ART,Treasure, may ,O, may have buried at locations during time of major barbarian incursion
+WORK_OF_ART,Treasure, may ,O, may have buried during time of major barbarian incursion in 374 AD
+ORG,Wilson, has ,O, sons
+PERSON,Sevso, was made for ,NORP, important Roman official living in Hungary
+PERSON,Sevso, was made for ,NORP, important Roman official
+WORK_OF_ART,Treasure, may ,O, may have buried at locations during time of major barbarian incursion in 374 AD
+PERSON,Sevso, was made ,O, resident of villa
+WORK_OF_ART,Treasure, may ,O, may have buried at locations
+PERSON,Sevso, was made ,O, resident of archaeologically excavated villa
+DATE,November 1993, is in ,PERSON, favour of Marquess of Northampton
+PERSON,Sevso, was made ,O, resident of villa at Szabadbattyán
+PERSON,Sevso, was made for ,GPE, important Roman official living in western Hungary
+PERSON,József, is with ,WORK_OF_ART, Treasure
+PERSON,Sevso, was made for ,NORP, Roman official living in western Hungary
+PERSON,Sevso, was made for ,NORP, Roman official living in area of Lake Balaton
+PERSON,Sümegh, of ,O, close family
+WORK_OF_ART,Treasure, may ,O, may have buried at separate locations during time of major barbarian incursion
+PERSON,Sevso, was made for ,GPE, important Roman official living in area of Lake Balaton in western Hungary
+PERSON,Sevso, was made for ,NORP, Roman official living in area of Lake Balaton in Hungary
+PERSON,József Sümegh, was found ,DATE, dead in 1980
+PERSON,Sevso, was made for ,PERSON, Sevso
+PERSON,Sümegh, began ,O, searching for possible motives
+WORK_OF_ART,Treasure, may ,O, may have buried at separate locations during time of barbarian incursion
+WORK_OF_ART,Treasure, may ,O, may have buried
+PERSON,Northampton, purchase ,O, silver
+PERSON,Sevso, was made for ,NORP, important Roman official living in area of Lake Balaton
+PERSON,Sevso, was made for ,GPE, Roman official living in western Hungary
+PERSON,Sevso, was made for ,NORP, important Roman official living in area
+PERSON,Sevso, was ,O, made
+PERSON,Sevso, was made for ,GPE, important Roman official living in Hungary
+WORK_OF_ART,Treasure, may ,O, may have buried during time of major barbarian incursion
+PERSON,Sümegh, of ,O, father
+PERSON,Zsolt Visy, in Tóth is ,PERSON, Endre
+PERSON,Visy, objects of ,ORG, Seuso Treasure
+PERSON,Zsolt Visy, in Hajdú is ,PERSON, Éva
+ORG,Mráv, is in ,PERSON, Zsolt Visy
+PERSON,De Walden, trial of ,WORK_OF_ART, Sevso Treasure
+PERSON,Northampton, has ,O, lawyers
+ORDINAL,second, arising out ,PERSON, police investigation 1980 death Hungarian national József Sümegh
+PERSON,Sevso, was made for ,GPE, important Roman official living in area of Lake Balaton in Hungary
+ORG,Mráv, stand from ,GPE, Polgárdi
+PERSON,Sümegh, began ,O, searching
+ORDINAL,second, arising out ,DATE, police investigation 1980 death József Sümegh
+PERSON,Visy, is in ,PERSON, Zsolt Visy
+ORDINAL,second, arising out ,NORP, police investigation 1980 death Hungarian national József Sümegh
+WORK_OF_ART,Treasure, may ,O, may have buried during time of barbarian incursion
+PERSON,De Walden, trial of ,PERSON, Sevso Treasure
+PERSON,Zsolt Visy, in Tóth is ,ORG, Seuso Treasure
+PERSON,Sevso, was made for ,NORP, important Roman official living in area in Hungary
+WORK_OF_ART,Treasure, may ,O, may have buried at separate locations during time of barbarian incursion in 374 AD
+WORK_OF_ART,Treasure, may ,O, may have buried at separate locations during time
+PERSON,Zsolt Visy, in Hajdú is ,ORG, Seuso treasure
+WORK_OF_ART,Treasure, may ,O, may have buried at locations during time of barbarian incursion in 374 AD
+PERSON,Sevso, was made for ,GPE, Roman official living in area of Lake Balaton in Hungary

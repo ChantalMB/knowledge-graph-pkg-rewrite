@@ -1,0 +1,47 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORG,Palmira, is in ,GPE, Colombia
+PERSON,Malagana, is also assigned to ,GPE, Yotoco culture
+PERSON,Hacienda Malagana, is located in ,ORG, municipality of Palmira
+PERSON,Hacienda Malagana, is located in ,ORG, municipality of Palmira in Colombia
+ORG,Museo del Oro, buy ,PERSON, Malagana objects
+ORG,Museo del Oro, was ,O, able
+PERSON,Malagana, is assigned to ,GPE, Yotoco culture
+PERSON,Museo, received ,O, gold objects
+PERSON,Hacienda Malagana, is ,O, located
+PERSON,Malagana, is ,O, also assigned
+PERSON,Hacienda Malagana, is ,O, located in municipality about twenty minutes
+PERSON,Bogotá, 's Oro is ,O, offshoot of Banco de la República
+PERSON,Hacienda Malagana, is ,ORG, located in municipality of Palmira about twenty minutes
+CARDINAL,Hundreds, were destroyed during ,O, looting
+PERSON,Hacienda Malagana, experiences ,O, area
+PERSON,Godzilla, has ,O, Realm
+PERSON,Robert D., Chiefdoms ' ,GPE, of Southwestern Colombia
+PERSON,Malagana, is assigned to ,O, culture
+PERSON,Hacienda Malagana, is ,GPE, located in municipality of Palmira in Colombia about twenty minutes from Cali
+PERSON,Hacienda Malagana, experiences ,O, incidences
+ORG,Museo del Oro, buy ,PERSON, many Malagana objects
+CARDINAL,Hundreds, were ,O, destroyed
+PERSON,Hacienda Malagana, is ,GPE, located in municipality about twenty minutes from Cali
+PERSON,Malagana, is ,O, sometimes assigned
+PERSON,Malagana, is also assigned to ,O, culture
+PERSON,Hacienda Malagana, is located at_time ,GPE, about twenty minutes from Cali
+PERSON,Hacienda Malagana, is located in ,O, municipality
+PERSON,Hacienda Malagana, is ,ORG, located in municipality of Palmira in Colombia about twenty minutes from Cali
+PERSON,Hacienda Malagana, is located at_time ,O, about twenty minutes
+PERSON,Hacienda Malagana, still experiences ,O, area
+PERSON,Hacienda Malagana, is ,GPE, located in municipality of Palmira about twenty minutes from Cali
+PERSON,Hacienda Malagana, is located in ,GPE, municipality of Palmira in Colombia
+CARDINAL,Hundreds, were destroyed during ,PERSON, Drennan 2008
+PERSON,Malagana, is ,O, also sometimes assigned
+PERSON,Malagana, is also sometimes assigned to ,O, culture
+PERSON,Malagana, is sometimes assigned to ,O, culture
+PERSON,Hacienda Malagana, experiences ,O, incidences of looting
+PERSON,Hacienda Malagana, is ,GPE, located in municipality of Palmira in Colombia about twenty minutes
+PERSON,Bogotá, has ,PERSON, famous Museo del Oro
+PERSON,Malagana, is also sometimes assigned to ,GPE, Yotoco culture
+PERSON,Hacienda Malagana, is ,ORG, located in municipality of Palmira about twenty minutes from Cali
+PERSON,Hacienda Malagana, still experiences ,O, incidences
+PERSON,Malagana, is sometimes assigned to ,GPE, Yotoco culture
+PERSON,Malagana, is ,O, assigned
+PERSON,Hacienda Malagana, still experiences ,O, incidences of looting
+PERSON,Hacienda Malagana, is ,ORG, located in municipality of Palmira in Colombia about twenty minutes

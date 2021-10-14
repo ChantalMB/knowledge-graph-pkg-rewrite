@@ -1,0 +1,48 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORG,Dumbarton Oaks, subsequently displayed ,O, its newly acquired silver
+PERSON,Zacos, had acquired silver in ,DATE, 1962
+GPE,Turkey, requested ,CARDINAL, return of dozens
+ORG,Dumbarton Oaks, acquired ,DATE, collection of sixth-century AD Byzantine liturgical silverware
+GPE,Turkey, requested ,GPE, return of dozens of artefacts from several US museums
+ORG,Dumbarton Oaks, acquired ,DATE, collection of sixth-century AD Byzantine silverware
+GPE,Turkey, requested ,CARDINAL, return of dozens of artefacts
+GPE,Turkey, has ,O, war on illicit antiquities
+ORG,Dumbarton Oaks, acquired ,O, collection of AD silverware
+GPE,Turkey, requested return including ,GPE, Kumluca Silver
+GPE,Turkey, requested ,CARDINAL, return of dozens from US museums
+ORG,Dumbarton Oaks, acquired ,O, collection of AD Byzantine silverware
+ORG,Dumbarton Oaks, subsequently displayed ,O, its silver
+ORG,Dumbarton Oaks, displayed ,O, its newly acquired silver
+GPE,Turkey, requested ,GPE, return from several US museums
+ORG,Dumbarton Oaks, acquired ,DATE, collection of sixth-century AD silverware
+ORG,Dumbarton Oaks, acquired ,O, collection of AD Byzantine liturgical silverware
+GPE,Turkey, requested ,O, return
+GPE,Turkey, requested ,GPE, return of dozens of artefacts from US museums
+ORG,Dumbarton Oaks, replied with ,O, press statement
+GPE,Turkey, requested return including ,GPE, Kumluca Silver from Dumbarton Oaks
+ORG,Dumbarton Oaks, acquired ,DATE, collection of sixth-century AD liturgical silverware
+PERSON,Zacos, left Turkey in ,DATE, 1963
+GPE,Turkey, requested ,CARDINAL, return of dozens of artefacts from several US museums
+GPE,Turkey, requested return including ,ORG, Kumluca Silver from Dumbarton Oaks
+ORG,Dumbarton Oaks, acquired ,O, collection of AD liturgical silverware
+PERSON,Zacos, had acquired silver in ,GPE, Kumluca
+ORG,Dumbarton Oaks, displayed ,O, its acquired silver
+GPE,Turkey, requested ,CARDINAL, return of dozens from several US museums
+GPE,Turkey, requested return In ,DATE, March 2012
+GPE,Turkey, asks US museums for ,O, return of antiquities '
+GPE,Turkey, requested ,GPE, return of dozens from several US museums
+GPE,Turkey, asks US museums for ,O, return
+PERSON,Boyd, treasure from ,O, church
+GPE,Turkey, asks ,GPE, US museums
+GPE,Turkey, requested ,GPE, return of dozens from US museums
+ORG,Dumbarton Oaks, acquired ,O, collection
+PERSON,Boyd, is in ,O, provinces
+PERSON,Zacos, had acquired ,O, silver
+ORG,Dumbarton Oaks, subsequently displayed ,O, its acquired silver
+GPE,Turkey, requested ,GPE, return from US museums
+ORG,Dumbarton Oaks, acquired collection In ,DATE, 1963
+ORG,Dumbarton Oaks, is in ,O, Washington
+PERSON,Ecclesiastical Silver Plate, is in ,DATE, Sixth-Century Byzantium
+ORG,Dumbarton Oaks, displayed ,O, its silver
+PERSON,Zacos, left ,GPE, Turkey
+GPE,Turkey, requested ,CARDINAL, return of dozens of artefacts from US museums

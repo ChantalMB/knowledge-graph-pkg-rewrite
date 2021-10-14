@@ -1,0 +1,13 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Las Limas Monument 1, smuggled into ,O, United States
+PERSON,Las Limas Monument 1, smuggled for ,O, sale on market
+PERSON,Las Limas Monument 1, smuggled for ,O, sale
+GPE,Mexico, by ,ORG, INAH
+PERSON,Las Limas Monument 1, was stolen at ,ORG, Xalapa
+PERSON,Las Limas Monument 1, is ,O, about 55 cm tall
+PERSON,Las Limas Monument 1, weighs ,O, about 60 kg
+PERSON,Las Limas Monument 1, was ,ORG, stolen from museum at Xalapa
+PERSON,Las Limas Monument 1, was stolen from ,O, museum
+PERSON,Las Limas Monument 1, was ,O, stolen
+PERSON,Las Limas Monument 1, weighs ,O, about 60 kg making
+PERSON,Las Limas Monument 1, is ,O, about 55 tall

@@ -1,0 +1,14 @@
+Type,Entity 1,Relationship,Type,Entity2
+GPE,New Zealand, 's efforts is ,O, process
+PERSON,Te Herekiekie Herewini, has noted ,O, change
+PERSON,Te Herekiekie Herewini, head at ,O, Te Papa
+PERSON,Cook, during ,ORDINAL, first voyage to New Zealand
+ORG,Te Papa, museum of ,O, New Zealand
+PERSON,Te Herekiekie Herewini, head of ,O, repatriation team
+PERSON,Te Herekiekie Herewini, has noted ,O, change in attitude concerning return
+PERSON,Cook, 's voyage is ,CARDINAL, 2
+GPE,New Zealand, to voyage is ,CARDINAL, 2
+PERSON,Te Herekiekie Herewini, has noted ,O, change in attitude
+GPE,New Zealand, of ,O, repatriation efforts
+GPE,New Zealand, during ,O, Musket Wars
+PERSON,Te Herekiekie Herewini, has noted ,O, change in attitude concerning return of Toi moko

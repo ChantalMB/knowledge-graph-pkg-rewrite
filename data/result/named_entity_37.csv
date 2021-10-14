@@ -1,0 +1,39 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORG,Canavesi, approached Getty In ,DATE, 1996
+PERSON,Getty, convened seminar in ,DATE, 2007
+ORG,Canavesi, was ,O, found
+PERSON,Getty, convened ,O, seminar of international experts consider
+PERSON,Getty, statue on ,O, list
+PERSON,Getty, included ,O, statue on list
+ORG,Canavesi, was found In ,DATE, 2001
+GPE,Rome, in ,O, press release
+PERSON,Getty, included ,O, statue
+ORG,Canavesi, approached Getty with ,O, view
+PERSON,Getty, convened ,O, seminar of experts
+PERSON,Getty, convened ,O, seminar of experts consider
+PERSON,Getty, convened ,O, seminar consider
+ORG,Canavesi, approached Getty directly In ,DATE, 1996
+PERSON,Getty, sending ,O, copies
+PERSON,Getty, agreed In ,DATE, 2006
+PERSON,Getty, agreed in ,O, view of evidence assembled
+PERSON,Getty, agreed in ,O, view of evidence
+PERSON,Getty, convened ,O, seminar of international experts
+PERSON,Getty, included ,CARDINAL, statue on list of forty objects
+PERSON,Getty, sending ,O, copies of photographs
+PERSON,Getty, agreed ,O, consider
+PERSON,Getty, included statue On ,DATE, 31 July 2007
+PERSON,Getty, agreed in ,O, view of evidence assembled during its investigation
+PERSON,Getty, statue on ,CARDINAL, list of forty objects
+PERSON,Getty, Ministry of ,O, Culture
+PERSON,Getty, sending copies before ,O, its cleaning
+PERSON,Getty, agreed in ,O, view
+PERSON,Getty, has ,O, troubled goddess
+ORG,Canavesi, approached Getty directly with ,O, view
+PERSON,Frammolino, goddess 's ,PERSON, Getty
+PERSON,Mark Greenberg, in Brand is ,O, Michael Introduction
+PERSON,Getty, convened ,O, seminar
+GPE,Rome, ' release is ,O, 1 August
+ORG,Canavesi, approached directly ,PERSON, Getty
+ORG,Canavesi, was sentenced to ,DATE, two-years imprisonment
+ORG,Canavesi, approached ,PERSON, Getty
+ORG,Canavesi, was ,O, sentenced

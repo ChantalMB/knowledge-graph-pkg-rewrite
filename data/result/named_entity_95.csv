@@ -1,0 +1,22 @@
+Type,Entity 1,Relationship,Type,Entity2
+NORP,Tainos, was later used by ,NORP, Spanish
+PERSON,Fort Charles, restoration ,O, settlement Port Royal
+PERSON,George Bass, in Royal is ,GPE, Jamaica
+PERSON,Port Royal, earthquake in ,O, sixteenth century
+PERSON,Port Royal, ' ,DATE, http://www.jnht.com/site_port_royal.php accessed 15 November 2012
+PERSON,Luna Erreguerena, foundations of ,O, underwater
+ORG,Thompson, take ,O, steps
+GPE,Jamaica, deposited with ,O, Director-General
+NORP,Tainos, was used by ,NORP, Spanish
+PERSON,Margaret Leshikar-Denton, in Gray is ,NORP, Dorrick Jamaican version
+GPE,Jamaica, deposited with ,ORG, Director-General of UNESCO
+NORP,Tainos, was ,O, used
+NORP,Tainos, was ,O, later used
+PERSON,Port Royal, is in ,O, George Bass
+ORG,Kingston, is in ,GPE, Jamaica
+DATE,12 May, accessed ,DATE, 15 November 2012
+GPE,Jamaica, deposited On ,DATE, 9 August 2011
+NORP,Tainos, was later used by ,NORP, Spanish for cleaning
+NORP,Tainos, was used by ,NORP, Spanish for cleaning
+PERSON,Mayes, left in ,DATE, 1971
+ORG,Gray, is in ,PERSON, Margaret Leshikar-Denton

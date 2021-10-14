@@ -1,0 +1,39 @@
+Type,Entity 1,Relationship,Type,Entity2
+GPE,San Andrés de Machaca, is located in ,O, 230 km
+GPE,San Andrés de Machaca, is located in ,GPE, 230 km in Bolivia 's Altiplano
+PERSON,Felipe Pérez Paco, were ,O, convicted of theft at
+PERSON,Felipe Pérez Paco, were ,DATE, In October 2010 convicted of theft at
+GPE,Bolivia, 's Crimen is ,O, FELCC
+PERSON,Felipe Pérez Paco, were ,O, convicted
+PERSON,Felipe Pérez Paco, were ,O, convicted of theft of objects from church at
+PERSON,Felipe Pérez Paco, were ,DATE, In October 2010 convicted of theft of objects
+DATE,1974, in Andrés is ,O, La Paz
+GPE,San Andrés de Machaca, village within ,O, greater municipality of San Andrés de Machaca
+PERSON,Felipe Pérez Paco, were convicted In ,DATE, October 2010
+ORG,http://www.laprensa.com.bo/diario/entretendencias/cultura/20111008/lienzos-rescatados-estan-bajo-resguardo_8652_14551.html, accessed ,DATE, 22 August 2012
+PERSON,Felipe Pérez Paco, were ,O, convicted at
+PERSON,Felipe Pérez Paco, were ,DATE, In October 2010 convicted of theft of objects at
+PERSON,http://www.ine.gob.bo/publicaciones/visorPdf.aspx?Codigo=020805&tipo=1, accessed ,DATE, 22 August 2012
+GPE,San Andrés de Machaca, is ,O, located
+ORG,National Monument, signed on ,DATE, 15 June 1962
+GPE,San Andrés de Machaca, is located in ,GPE, 230 km from city of La Paz in Bolivia 's Altiplano
+GPE,San Andrés de Machaca, is located in ,O, Ingavi Province
+PERSON,Felipe Pérez Paco, were convicted of ,O, theft of objects from church
+PERSON,Felipe Pérez Paco, convicted ,O, Édgar Quiroz Soliz
+GPE,San Andrés de Machaca, is located in ,O, 230 km from city of La Paz
+GPE,San Andrés de Machaca, is located in ,GPE, 230 km from city in Bolivia 's Altiplano
+GPE,Bolivia, has ,O, Fuerza Especial de Lucha Contra el Crimen
+PERSON,Felipe Pérez Paco, were ,DATE, In October 2010 convicted at
+PERSON,Felipe Pérez Paco, were ,O, convicted of theft of objects at
+PERSON,Felipe Pérez Paco, were convicted of ,O, theft of objects
+PERSON,Lupe Meneses, has emphasised ,O, importance
+GPE,Bolivia, en Tourism is ,PERSON, Blog
+GPE,Bolivia, in ,O, Altiplano
+PERSON,Felipe Pérez Paco, were convicted of ,O, theft
+PERSON,Felipe Pérez Paco, were ,DATE, In October 2010 convicted of theft
+PERSON,Felipe Pérez Paco, were ,DATE, In October 2010 convicted of theft of objects from church
+PERSON,Felipe Pérez Paco, were ,DATE, In October 2010 convicted of theft of objects from church at
+QUANTITY,230 km, is in ,GPE, Bolivia 's Altiplano
+ORG,http://www2.la-razon.com/version.php?ArticleId=897&EditionId=59, accessed ,DATE, 22 August 2012
+PERSON,Lupe Meneses, director of ,NORP, cataloguing with Bolivian Ministry
+ORG,http://www.caracol.com.co/noticias/roban-47-obras-de-arte-de-san-andres-de-machaca/20080821/nota/655739.aspx, accessed ,DATE, 22 August 2012

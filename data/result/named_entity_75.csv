@@ -1,0 +1,38 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORG,Sáenz, take ,O, antiquities
+ORG,Meyer, calls ,O, George Alpha
+PERSON,Coe, was ,O, contacted
+PERSON,Ekholm, examined ,O, mask
+PERSON,Marhenke, FAMSI ' ,ORG, Grolier Codex
+ORG,Sáenz, wrote ,O, cheque for higher amount of mask
+GPE,Dumbarton Oaks, Website of ,O, Dumbarton Oaks Research Library
+ORG,Sáenz, wrote ,O, cheque for amount of mask
+ORG,Sáenz, wrote ,O, post-dated cheque for amount of mask
+ORG,Sáenz, wrote ,O, cheque for higher amount
+ORG,Sáenz, showed ,O, mask
+PERSON,George Alpha, identified here as ,O, Alphonse Jax
+ORG,Sáenz, wrote ,O, cheque for amount
+PERSON,Gonzáles, called ,CARDINAL, three times
+PERSON,Ekholm, examined mask under ,O, microscope
+PERSON,Coe, Breaking ,O, New York
+PERSON,Coe, Breaking ,LOC, Maya Code
+ORG,Sáenz, put stop purchase order Based on ,O, Franco 's opinion
+ORG,Sáenz, wrote ,O, post-dated cheque for amount
+ORG,Sáenz, take flight to ,GPE, Villahermosa
+ORG,Sáenz, wrote ,O, post-dated cheque
+ORG,Sáenz, showed mask to ,O, José Luis Franco
+ORG,Sáenz, wrote ,O, post-dated cheque for higher amount
+ORG,Meyer, calls ,O, George Alpha identified
+ORG,Sáenz, wrote ,O, cheque
+ORG,Meyer, calls ,O, George Alpha identified here as Alphonse Jax
+ORG,Sáenz, take ,O, flight
+ORG,Meyer, calls ,O, George Alpha identified as Alphonse Jax
+PERSON,George Alpha, identified as ,O, Alphonse Jax
+ORG,Sáenz, take ,ORDINAL, first flight
+ORG,Sáenz, wrote ,O, post-dated cheque for higher amount of mask
+ORG,Sáenz, allegedly put stop purchase order Based on ,O, Franco 's opinion
+ORG,Meyer, calls ,O, George Alpha identified here
+PERSON,Ekholm, has ,O, declaration
+ORG,Meyer, states ,O, saying
+ORG,Sáenz, take back ,O, antiquities
+ORG,Sáenz, take flight to ,ORG, Tabasco

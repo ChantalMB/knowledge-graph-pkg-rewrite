@@ -1,0 +1,9 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Jim Knight, chairman at ,GPE, Tuscaloosa campus of University of Alabama
+GPE,Alabama, of University is ,O, Stolen Pottery Vessels from
+GPE,Alabama, of University is ,GPE, n.d.
+ORG,Moundville Archaeological Site, was ,O, reported
+PERSON,Jim Knight, chairman at ,ORG, Tuscaloosa campus of University of Alabama
+PERSON,Jim Knight, chairman of ,O, anthropology
+PERSON,Cathy Andreen, spokeswoman for ,GPE, University of Alabama
+PERSON,Jim Knight, expressed ,O, hope

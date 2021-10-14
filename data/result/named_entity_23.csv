@@ -1,0 +1,50 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORG,Roeckl, returned on ,CARDINAL, 2 November 2010
+PERSON,Dos Cabezas, is cultural site ,O, site
+ORG,Roeckl, returned pieces on ,DATE, 2 November 2010
+GPE,Peru, of ,O, North Coast
+ORG,Roeckl, returned as ,O, part of settlement
+GPE,Peru, from ,O, Departamento de Monumentos Arqueológicos
+PERSON,Dos Cabezas, was ,O, looted
+ORG,Roeckl, returned as ,O, part
+GPE,Peru, on ,O, north coast
+PERSON,Dos Cabezas, is Moche site ,O, site
+PERSON,Dos Cabezas, was looted during ,O, Sometime week of 5 February
+PERSON,Dos Cabezas, is Moche cultural site ,O, site of tomb looting event
+PERSON,Dos Cabezas, is Moche cultural site ,O, site of major tomb looting event
+PERSON,Dos Cabezas, was looted during ,O, week
+ORG,Roeckl, returned pieces on ,CARDINAL, 2 November 2010
+PERSON,Dos Cabezas, was looted again during ,O, week
+ORG,Roeckl, returned to ,GPE, Peru
+PERSON,Donnan, find ,ORG, several Moche tombs
+PERSON,Dos Cabezas, was looted during ,O, week of 5 February
+ORG,Roeckl, returned on ,DATE, 2 November 2010
+PERSON,Donnan, find ,ORG, unlooted Moche tombs
+ORG,Roeckl, returned pieces as ,O, part
+ORG,Roeckl, returned ,O, pieces
+PERSON,Dos Cabezas, was looted once again during ,O, Sometime week of 5 February of 2011
+PERSON,Dos Cabezas, was looted once again during ,O, week of 5 February of 2011
+PERSON,Dos Cabezas, is site ,O, site
+PERSON,Dos Cabezas, was looted again during ,O, Sometime week of 5 February
+PERSON,Donnan, find ,ORG, several unlooted Moche tombs
+PERSON,Dos Cabezas, was looted once again during ,O, Sometime week
+ORG,Roeckl, returned pieces to ,GPE, Peru
+PERSON,Dos Cabezas, is cultural site ,O, site of tomb looting event
+PERSON,Dos Cabezas, is cultural site ,O, site of major tomb looting event
+PERSON,Dos Cabezas, is site ,O, site of major tomb looting event
+PERSON,Dos Cabezas, is site ,O, site of tomb looting event
+PERSON,Dos Cabezas, is Moche site ,O, site of tomb looting event
+PERSON,Dos Cabezas, was looted once again during ,O, Sometime week of 5 February
+PERSON,Dos Cabezas, was looted again during ,O, week of 5 February of 2011
+PERSON,Dos Cabezas, was looted again during ,O, Sometime week of 5 February of 2011
+ORG,Roeckl, returned pieces as ,O, part of settlement
+PERSON,Dos Cabezas, was looted again during ,O, Sometime week
+PERSON,Dos Cabezas, was ,O, looted again
+PERSON,Dos Cabezas, is Moche site ,O, site of major tomb looting event
+PERSON,Dos Cabezas, was looted once again during ,O, week
+PERSON,Dos Cabezas, was looted again during ,O, week of 5 February
+PERSON,Donnan, find ,ORG, Moche tombs
+PERSON,Dos Cabezas, was looted during ,O, Sometime week of 5 February of 2011
+PERSON,Dos Cabezas, was looted during ,O, week of 5 February of 2011
+PERSON,Dos Cabezas, was looted once again during ,O, week of 5 February
+PERSON,Dos Cabezas, was looted during ,O, Sometime week

@@ -1,0 +1,119 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Byrne, presents ,O, account how he came into possession
+PERSON,Byrne, presents ,O, account he came
+PERSON,Byrne, presents ,O, different account how he came into possession
+PERSON,Peter Byrne, traveled ,O, look for evidence
+PERSON,Yeti, was ,O, historically perceived
+PERSON,Yeti, are common topic of ,O, conversation between climbers
+PERSON,Peter Byrne, look for ,O, evidence
+PERSON,Hand, is ,O, alleged
+PERSON,Byrne, related story to ,O, primatologist at Royal College
+PERSON,Byrne, related story to ,PERSON, Professor William Osman Hill
+PERSON,Byrne, presents ,O, slightly different account how he came
+PERSON,Weta, Working off ,O, early photographs
+PERSON,Tenzig Norgay, Tiger of ,O, Snows
+PERSON,Burns, Report on ,O, Sample of Skin
+PERSON,Byrne, staying at ,ORG, Pangboche
+PERSON,Byrne, presents ,O, account
+PERSON,Byrne, obtained ,PERSON, finger from Hill
+PERSON,Yeti, are characters in ,O, popular mythology
+PERSON,Yeti, are well-known characters in ,O, high-Himalaya popular mythology
+PERSON,Byrne, presents ,O, different account how he came into possession of finger
+PERSON,Byrne, presents ,O, account he came into possession
+PERSON,Byrne, Back related story to ,O, primatologist
+PERSON,Yeti, are well-known characters in ,O, popular mythology
+PERSON,Byrne, presents ,O, slightly different account how he came into possession
+PERSON,Byrne, presents ,O, slightly different account how he came into possession of finger
+PERSON,Byrne, presents ,O, different account how he came
+PERSON,Byrne, flew to ,GPE, London
+PERSON,Weta, recreated ,O, object
+PERSON,Byrne, Letter from ,PERSON, Peter Byrne ' Return
+PERSON,Lama Gershe, recovering in ,GPE, Kathmandu
+PERSON,Byrne, stealing ,CARDINAL, one of fingers from Yeti hand
+PERSON,Weta, Working off ,O, early photographs of hand
+PERSON,Burns, Report on ,O, Sample
+PERSON,Yeti, are also common topic of ,O, conversation between western climbers
+PERSON,Byrne, related ,O, story
+PERSON,Yeti, been incorporated into ,O, local interpretation of Buddhism
+PERSON,Byrne, presents ,O, different account he came into possession of finger
+PERSON,Byrne, stealing ,CARDINAL, one of fingers
+PERSON,Byrne, returned with ,O, it
+PERSON,Yeti, are ,O, characters
+PERSON,Byrne, returned to ,DATE, Byrne 2011
+PERSON,Byrne, presents ,O, slightly different account
+PERSON,Yeti, are characters in ,O, high-Himalaya popular mythology
+PERSON,Yeti, are also common topic of ,O, conversation between climbers
+PERSON,Peter Byrne, look for ,O, evidence of existence of
+PERSON,Yeti, are ,O, common topic
+PERSON,Yeti, historically was perceived as ,O, threat to people of region
+PERSON,Byrne, Back related ,O, story of hand
+PERSON,Yeti, are also common topic of ,O, conversation
+PERSON,Yeti, are ,O, also topic
+PERSON,Byrne, returned to ,PERSON, Byrne 2011
+PERSON,Byrne, related ,O, story of hand
+PERSON,Yeti, been incorporated into ,O, interpretation of Buddhism
+PERSON,Yeti, was perceived as ,O, threat to people of region
+PERSON,Peter Byrne, traveled ,O, look
+PERSON,Byrne, related story to ,O, primatologist
+PERSON,Byrne, presents ,O, account how he came into possession of finger
+PERSON,Yeti, was perceived as ,O, threat
+PERSON,Byrne, Writing in ,DATE, 2011
+PERSON,Yeti, are also topic of ,O, conversation
+PERSON,Byrne, Back related story to ,O, primatologist at Royal College
+PERSON,Weta, Working off ,O, photographs
+PERSON,Byrne, returned to ,GPE, Nepal
+PERSON,Yeti, was perceived as ,O, threat to people
+ORG,Continuity, is in ,O, Mount Everest Region
+PERSON,Byrne, stealing ,CARDINAL, one fingers
+PERSON,Peter Byrne, traveled ,O, look for evidence of existence
+PERSON,Peter Byrne, look for ,O, evidence of existence
+PERSON,Yeti, are ,O, topic
+PERSON,Yeti, are also topic of ,O, conversation between western climbers
+PERSON,Weta, recreated ,O, object free
+PERSON,Yeti, are ,O, well-known characters
+PERSON,Yeti, are ,O, common
+PERSON,Peter Byrne, traveled to ,LOC, Himalayas
+PERSON,Byrne, presents ,O, account how he came
+PERSON,Byrne, Back related ,O, story
+PERSON,Weta, recreated ,O, object free of charge
+PERSON,Lama Gershe, had ,O, stroke
+PERSON,Yeti, are well-known characters in ,O, mythology
+PERSON,Byrne, stealing ,PERSON, one of fingers from Yeti hand
+PERSON,Lama Gershe, slowly recovering in ,GPE, Kathmandu
+PERSON,Yeti, are characters in ,O, mythology
+PERSON,Weta, Working off ,O, photographs of hand
+PERSON,Byrne, stealing ,PERSON, one fingers from Yeti hand
+PERSON,Yeti, was ,O, perceived
+PERSON,Burns, Report on ,O, Sample from 80
+PERSON,Lama Gershe, had stroke in ,DATE, September 2010
+PERSON,Byrne, Back related story to ,NORP, primatologist at Royal College of Surgeon 's Hunterian Museum
+PERSON,Byrne, related story to ,NORP, primatologist at Royal College of Surgeon 's Hunterian Museum
+PERSON,Byrne, Back related story to ,PERSON, Professor William Osman Hill
+PERSON,Yeti, are topic of ,O, conversation between climbers
+PERSON,Weta, recreated object on ,O, understanding
+PERSON,Yeti, are common topic of ,O, conversation between western climbers
+PERSON,Yeti, historically was perceived as ,O, threat to people
+ORG,BBC News, accessed at_time ,CARDINAL, 4 December 2012
+PERSON,Yeti, are topic of ,O, conversation between western climbers
+PERSON,Byrne, obtained ,O, finger
+PERSON,Yeti, are well-known characters in ,O, high-Himalaya mythology
+PERSON,Byrne, presents ,O, slightly different account he came into possession of finger
+PERSON,Byrne, presents ,O, different account he came
+PERSON,Yeti, are characters in ,O, high-Himalaya mythology
+PERSON,Byrne, presents ,O, different account
+PERSON,Byrne, presents ,O, slightly different account he came into possession
+PERSON,Yeti, been incorporated into ,O, local interpretation
+PERSON,Yeti, historically was perceived as ,O, threat
+PERSON,Byrne, presents ,O, slightly different account he came
+PERSON,Yeti, been incorporated into ,O, interpretation
+PERSON,Byrne, presents ,O, account he came into possession of finger
+PERSON,Yeti, been ,O, incorporated
+PERSON,Yeti, are ,O, also common topic
+PERSON,Byrne, presents ,O, different account he came into possession
+PERSON,Yeti, are also topic of ,O, conversation between climbers
+PERSON,Yeti, are common topic of ,O, conversation
+PERSON,Byrne, stealing ,CARDINAL, one fingers from Yeti hand
+PERSON,Byrne, Working on ,O, premise
+PERSON,Peter Byrne, traveled ,O, look for evidence of existence of
+PERSON,Yeti, are topic of ,O, conversation
+PERSON,Burns, Report on ,O, Sample of Skin from 80

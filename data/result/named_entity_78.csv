@@ -1,0 +1,13 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Perches, was charged with ,O, theft
+PERSON,Perches, stated According to ,DATE, Miller 1989
+PERSON,Perches, was charged with ,O, theft of national treasure
+PERSON,Perches, stated According to ,O, Attorney General Enrique Alvarez del Castillo
+PERSON,Pakal, in ,O, intact tomb
+PERSON,Marjorie, Artifacts 's ,O, Museum
+PERSON,Perches, was ,O, charged
+PERSON,Perches, stated According to ,PERSON, Miller 1989
+PERSON,Pakal, Besides ,O, funerary mask
+NORP,Palenque, within ,O, Temple of Inscriptions
+PERSON,Perches, was charged with ,O, theft of treasure
+PERSON,Pakal, has ,O, funerary objects

@@ -1,0 +1,6 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORG,FBI, working in ,O, collaboration with experts
+ORG,FBI, working in ,O, collaboration
+ORG,Christie, has ,O, sale of ancient earrings '
+ORG,FBI, working in ,NORP, collaboration with Iraqi experts
+ORG,Christie, has ,O, website entry for earrings

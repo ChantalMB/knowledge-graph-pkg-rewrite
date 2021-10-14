@@ -1,0 +1,128 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORG,Uigwe, provide ,O, a
+ORG,Uigwe, include ,O, details of various other activities
+ORG,Uigwe, Furthermore include ,O, details of various activities including construction techniques for buildings
+ORG,Uigwe, include ,O, details of other cultural activities including construction techniques for royal buildings
+GPE,France, to ,LOC, desire sell to South Korea
+ORG,Uigwe, Furthermore include ,O, details of various other cultural activities including construction techniques for royal buildings
+GPE,France, to ,GPE, desire sell to South Korea
+ORG,Uigwe, Furthermore include ,O, details of various activities
+ORG,Uigwe, include ,O, details of various other activities including construction techniques
+ORG,Uigwe, Furthermore include ,O, details of activities including construction techniques for buildings
+GPE,South Korea, request ,O, return of additional cultural property
+GPE,South Korea, formally request ,GPE, return of property held in Japan
+GPE,South Korea, formally request ,O, return of additional cultural property held
+ORG,Uigwe, had ,O, had classified
+GPE,South Korea, formally request ,O, return of additional cultural property
+GPE,Korea, of ,PERSON, Joseon
+ORG,Uigwe, could ,O, could comprised
+ORG,Uigwe, Furthermore include ,O, details of activities including construction techniques
+GPE,South Korea, formally request ,O, return of property held
+GPE,South Korea, formally request ,O, return of property
+ORG,Uigwe, Furthermore include ,O, details of cultural activities including construction techniques for royal buildings
+ORG,Uigwe, Furthermore include ,O, details of various cultural activities including construction techniques for royal buildings
+ORG,Uigwe, include ,O, details of other activities including construction techniques for royal buildings
+GPE,South Korea, request ,O, return of cultural property held
+ORG,Uigwe, been ,O, illegally looted
+ORG,Uigwe, include ,O, details of various cultural activities
+ORG,Uigwe, include ,O, details of other activities
+ORG,Uigwe, Furthermore include ,O, details of various other activities
+ORG,Uigwe, were ,O, written
+ORG,Uigwe, include ,O, details of various activities including construction techniques for royal buildings
+ORG,Uigwe, Furthermore include ,O, details
+GPE,North Korea, retained ,O, ability
+ORG,Uigwe, comprise ,O, collection
+ORG,Uigwe, include ,O, details of various other cultural activities including construction techniques
+ORG,Uigwe, Furthermore include ,O, details of other activities
+ORG,Uigwe, can ,O, can translated in number of ways
+ORG,Uigwe, Furthermore include ,O, details of other cultural activities including construction techniques
+GPE,South Korea, formally request ,GPE, return of additional property held in Japan
+ORG,Uigwe, were brought to ,GPE, Bibliothèque nationale de France
+ORG,Uigwe, include ,O, details
+ORG,Uigwe, were ,GPE, then brought to Bibliothèque nationale de France
+GPE,South Korea, request ,GPE, return of property held in Japan
+ORG,Uigwe, were ,O, then brought
+ORG,Uigwe, include ,O, details of various other activities including construction techniques for buildings
+GPE,South Korea, request ,GPE, return of cultural property held in Japan
+ORG,Uigwe, Furthermore include ,O, details of other activities including construction techniques for buildings
+ORG,Uigwe, include ,O, details of various other cultural activities including construction techniques for buildings
+ORG,Uigwe, Furthermore include ,O, details of other activities including construction techniques
+GPE,South Korea, formally request ,O, return of additional property held
+ORG,Uigwe, include ,O, details of cultural activities including construction techniques for buildings
+ORG,Uigwe, Furthermore include ,O, details of various cultural activities
+GPE,South Korea, request ,GPE, return of additional cultural property held in Japan
+ORG,Uigwe, include ,O, details of various other cultural activities including construction techniques for royal buildings
+ORG,Uigwe, include ,O, details of other activities including construction techniques
+ORG,Uigwe, include ,O, details of other cultural activities
+ORG,Uigwe, include ,O, details of other activities including construction techniques for buildings
+GPE,South Korea, formally request ,GPE, return of additional cultural property held in Japan
+ORG,Uigwe, include ,O, details of various cultural activities including construction techniques
+ORG,Uigwe, include ,O, details of other cultural activities including construction techniques
+ORG,Uigwe, were ,O, brought
+ORG,Uigwe, had ,O, had mistakenly classified
+GPE,South Korea, request ,GPE, return of additional property held in Japan
+ORG,Uigwe, can ,O, can translated
+ORG,Uigwe, include ,O, details of various cultural activities including construction techniques for royal buildings
+ORG,Uigwe, Furthermore include ,O, details of other activities including construction techniques for royal buildings
+GPE,South Korea, request ,O, return of cultural property
+ORG,Uigwe, Furthermore include ,O, details including construction techniques for buildings
+ORG,Uigwe, Furthermore include ,O, details of various cultural activities including construction techniques for buildings
+ORG,Uigwe, Furthermore include ,O, details of various other cultural activities
+ORG,Uigwe, Furthermore include ,O, details of various cultural activities including construction techniques
+ORG,Uigwe, Furthermore include ,O, details of cultural activities including construction techniques for buildings
+ORG,Uigwe, include ,O, details of various other activities including construction techniques for royal buildings
+ORG,Uigwe, Furthermore include ,O, details of various activities including construction techniques
+ORG,Uigwe, Furthermore include ,O, details of cultural activities including construction techniques
+ORG,Uigwe, include ,O, details of various other cultural activities
+ORG,Uigwe, Furthermore include ,O, details of activities
+ORG,Uigwe, Furthermore include ,O, details of other cultural activities
+GPE,South Korea, formally request ,O, return of cultural property
+ORG,Uigwe, drawn by ,O, hand
+ORG,Uigwe, been ,O, looted
+ORG,Uigwe, Furthermore include ,O, details including construction techniques for royal buildings
+GPE,South Korea, request ,O, return of property held
+ORG,Uigwe, include ,O, details of cultural activities including construction techniques for royal buildings
+ORG,Uigwe, include ,O, details of other cultural activities including construction techniques for buildings
+ORG,Uigwe, Furthermore include ,O, details of various other activities including construction techniques for royal buildings
+GPE,Japan, return ,DATE, Chosun Ilbo 2008
+ORG,Uigwe, include ,O, details of activities
+ORG,Uigwe, include ,O, details of cultural activities including construction techniques
+FAC,Changdeokgung Palace, is in ,GPE, Seoul
+GPE,South Korea, request ,O, return of additional property
+ORG,Uigwe, Furthermore include ,O, details of various other cultural activities including construction techniques for buildings
+GPE,South Korea, formally request ,GPE, return of cultural property held in Japan
+ORG,Uigwe, Furthermore include ,O, details of various activities including construction techniques for royal buildings
+ORG,Uigwe, include ,O, details of various cultural activities including construction techniques for buildings
+ORG,Uigwe, include ,O, details including construction techniques for buildings
+GPE,South Korea, formally request ,O, return of additional property
+GPE,South Korea, formally request ,O, return of cultural property held
+ORG,Uigwe, Furthermore include ,O, details of various other cultural activities including construction techniques
+ORG,Uigwe, is in ,GPE, France
+ORG,Uigwe, include ,O, details of various activities including construction techniques
+ORG,Uigwe, were brought to ,ORG, Bibliothèque nationale de France
+ORG,Uigwe, Furthermore include ,O, details including construction techniques
+ORG,Uigwe, returned by ,GPE, Japan
+ORG,Uigwe, Furthermore include ,O, details of various other activities including construction techniques
+ORG,Uigwe, include ,O, details of various activities
+ORG,Uigwe, Furthermore include ,O, details of other cultural activities including construction techniques for buildings
+ORG,Uigwe, Furthermore include ,O, details of cultural activities
+ORG,Uigwe, Furthermore include ,O, details of activities including construction techniques for royal buildings
+ORG,Uigwe, include ,O, details including construction techniques for royal buildings
+GPE,South Korea, request ,O, return of property
+ORG,Uigwe, include ,O, details of activities including construction techniques
+ORG,Uigwe, were ,ORG, then brought to Bibliothèque nationale de France
+GPE,Japan, return ,ORG, Uigwe
+GPE,South Korea, request ,O, return of additional cultural property held
+ORG,Uigwe, include ,O, details including construction techniques
+GPE,Japan, to palace is ,DATE, Lee 2011b
+GPE,Japan, to palace is ,PERSON, Lee 2011b
+ORG,Uigwe, include ,O, details of various activities including construction techniques for buildings
+ORG,Uigwe, Furthermore include ,O, details of other cultural activities including construction techniques for royal buildings
+ORG,Uigwe, can ,O, can translated in number
+ORG,Uigwe, include ,O, details of activities including construction techniques for royal buildings
+ORG,Uigwe, include ,O, details of cultural activities
+GPE,South Korea, request ,O, return
+GPE,South Korea, request ,O, return of additional property held
+GPE,South Korea, formally request ,O, return
+ORG,Uigwe, Furthermore include ,O, details of various other activities including construction techniques for buildings
+ORG,Uigwe, include ,O, details of activities including construction techniques for buildings

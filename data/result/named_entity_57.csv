@@ -1,0 +1,18 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Stela 1, was looted from ,GPE, La Amelia
+ORG,Shook, had ,O, portions of stela transported
+ORG,Shook, had ,O, remaining portions
+GPE,Sweden, of ,O, National Museum
+PERSON,Stela 1, was ,O, looted
+ORG,Shook, had ,O, portions of stela transported to town
+ORDINAL,seventh, was ,O, located
+PERSON,Stela 1, was looted in ,DATE, IDAEH 1994
+ORG,Shook, had ,LANGUAGE, portions of stela transported to town of Sayaxché
+ORDINAL,seventh, was located in ,DATE, 1997
+ORG,Shook, had ,O, remaining portions of stela transported
+ORG,Shook, had ,O, portions of stela
+GPE,Guatemala, to ,GPE, Instituto de Antropología e Historia safe keeping
+ORG,Rassiga, was ,O, dealer
+ORG,Shook, had ,O, portions
+GPE,Stockholm, in Museum is ,DATE, catalogue number 2285
+ORG,Shook, had ,O, remaining portions of stela

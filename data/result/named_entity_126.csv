@@ -1,0 +1,22 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Xochipala, is best known for ,WORK_OF_ART, Preclassic/Formative period
+PERSON,Xochipala, is ,O, known
+PERSON,Forrest D. Colburn, is in ,DATE, 2003
+CARDINAL,two, as notable is ,GPE, Griffin
+DATE,1983, in Joralemon is ,O, formerly curator at Lowe Art Museum
+DATE,2003, in Colburn is ,O, Professor of Latin American Studies at City University of New York
+PERSON,Forrest D. Colburn, Professor of ,O, Latin American Studies
+PERSON,Xochipala, is ,O, best known
+GPE,Las Mesas, miles from ,PERSON, Xochipala
+GPE,Mexico, has ,O, Indigenous Past
+PERSON,Xochipala, is known for ,O, period
+PERSON,Xochipala, is best known for ,O, period
+ORG,Princeton University, Record of ,O, Art Museum
+GPE,Mexico, 's Past is ,O, Norman
+PERSON,Peter David Joralemon, curator at ,O, Lowe Art Museum
+PERSON,Xochipala, is known for ,WORK_OF_ART, Preclassic/Formative period
+PERSON,Forrest D. Colburn, Professor at ,O, City University of New York
+PERSON,Peter G. Wray, is in ,DATE, 1982
+ORG,Aztecs, to Olmecs is ,GPE, London
+GPE,Niven, from ,O, collection
+PERSON,Peter David Joralemon, is in ,DATE, 1983

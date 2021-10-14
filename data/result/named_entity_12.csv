@@ -1,0 +1,24 @@
+Type,Entity 1,Relationship,Type,Entity2
+GPE,Cancuén, is ,PERSON, Classic Maya site
+GPE,Cancuén, at ,O, Mesoweb Reports http://www.mesoweb.com/reports/cancuen_new.html
+GPE,Cancuén, of ,O, stone monuments
+GPE,Antiquities, in Trading is ,O, New York Times
+PERSON,Photographs, were taken in ,O, effort
+ORG,Archaeologist, has ,PERSON, partnership with Maya villagers
+GPE,Cancuén, from ,O, Mesoweb Reports http://www.mesoweb.com/reports/cancuen_altar.html
+PERSON,Photographs, were taken of ,O, ballcourt marker
+GPE,Cancuén, is ,PERSON, Maya
+GPE,Cancuén, is ,O, major Classic site
+GPE,Cancuén, is ,O, Classic site
+PERSON,Zender, Discoveries at ,GPE, Cancuén ' Mesoweb Reports http://www.mesoweb.com/reports/cancuen_new.html
+DATE,three years, is in ,O, prison
+GPE,Guatemala, in ,O, Exploration
+GPE,Cancuén, is ,O, major
+PERSON,Photographs, were ,O, taken of ballcourt marker in effort
+PERSON,Zender, Marker from ,GPE, Cancuén ' Mesoweb Reports http://www.mesoweb.com/reports/cancuen_altar.html
+PERSON,Zender, accessed ,DATE, 30 April 2012
+DATE,1981, before Cancuén is ,GPE, Guatemala
+ORG,Morley, Inscriptions of ,O, Peten Volume 5
+PERSON,Zender, accessed ,O, 21 July 2020
+PERSON,Photographs, were ,O, taken
+GPE,Cancuén, is ,PERSON, major Classic Maya site

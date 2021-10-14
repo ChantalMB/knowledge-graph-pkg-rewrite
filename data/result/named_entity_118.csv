@@ -1,0 +1,38 @@
+Type,Entity 1,Relationship,Type,Entity2
+GPE,Ecuador, has garnered ,O, amount
+ORG,Bruhns, writing ,PERSON, Hammond
+GPE,Ecuador, in ,O, major cities
+GPE,Ecuador, has garnered ,O, smaller amount of international research focus
+GPE,Valdivia, had ,GPE, contact with Jomon Period Japan
+GPE,Ecuador, has garnered ,O, amount of research focus
+PERSON,Damp, of ,O, paper
+GPE,Ecuador, in ,O, coastal lowlands
+GPE,Ecuador, has garnered ,O, relatively smaller amount of international research focus
+ORG,Bruhns, encountered ,O, locals
+ORG,Bruhns, visiting ,PERSON, Hammond
+ORG,Bruhns, encountered ,PERSON, Hammond
+ORG,Bruhns, were writing in ,O, 1980s
+GPE,Ecuador, Compared to ,GPE, studied cultures of neighbouring Peru
+GPE,Ecuador, has ,O, western lowlands
+GPE,Ecuador, Compared to ,GPE, cultures of neighbouring Peru
+GPE,Ecuador, has garnered ,O, amount of international research focus
+GPE,Ecuador, Compared to ,GPE, well studied cultures of neighbouring Peru
+GPE,Ecuador, Compared to ,O, cultures
+GPE,Ecuador, has garnered ,O, smaller amount
+GPE,Ecuador, Compared to ,O, studied cultures
+ORG,Bruhns, visiting ,O, site
+GPE,Valdivia, had ,GPE, direct contact with Jomon Period Japan
+ORG,Bruhns, Faking ,O, Andes
+GPE,Ecuador, has garnered ,O, relatively smaller amount
+ORG,Bruhns, assert ,PERSON, Hammond 1983
+ORG,Bruhns, report ,PERSON, Hammond
+GPE,Ecuador, Compared to ,O, well studied cultures
+ORG,Bruhns, Faking ,O, Ancient Andes
+GPE,Valdivia, had ,O, contact
+ORG,Bruhns, visiting site in ,DATE, 1980
+GPE,Valdivia, had ,O, direct contact
+ORG,Bruhns, assert ,DATE, Hammond 1983
+ORG,Bruhns, visiting ,GPE, site of Valdivia
+GPE,Valdivia, has ,O, pottery sequence
+GPE,Ecuador, has garnered ,O, smaller amount of research focus
+GPE,Ecuador, has garnered ,O, relatively smaller amount of research focus

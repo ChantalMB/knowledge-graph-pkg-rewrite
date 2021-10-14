@@ -1,0 +1,70 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Ian Graham, link ,O, lintel held to lintel missing
+LOC,Classic Maya city, looted in ,O, 1960s
+PERSON,Ian Graham, positively link ,O, lintel
+ORG,El Zotz Lintel, is ,CARDINAL, doorway lintel composed of five sopadilla wood planks
+PERSON,Ian Graham, link ,O, lintel
+ORG,El Zotz Lintel, is ,CARDINAL, carved wooden doorway lintel composed of five sopadilla wood planks
+ORG,El Zotz Lintel 1, is ,CARDINAL, wooden doorway lintel composed of five sopadilla wood planks
+ORG,El Zotz Lintel, is ,O, doorway lintel composed
+PERSON,Ian Graham, link ,GPE, lintel held by Denver Art Museum to lintel missing from Temple 1 at El Zotz
+PERSON,Ian Graham, link ,O, lintel held to lintel
+PERSON,Ian Graham, link ,O, lintel held to lintel missing at El Zotz
+ORG,El Zotz Lintel 1, is ,O, wooden doorway lintel
+ORG,El Zotz Lintel 1, is ,CARDINAL, doorway lintel composed of five sopadilla wood planks
+PERSON,Stephen D. Houston, places ,O, looting
+GPE,El Zotz, was ,O, component
+PERSON,Stephen D. Houston, places ,DATE, looting of lintel to 1975
+PERSON,Stephen D. Houston, basing ,O, his date
+ORG,El Zotz Lintel, is ,O, doorway lintel
+ORG,El Zotz Lintel, is ,O, wooden doorway lintel composed
+PERSON,Ian Graham, positively link ,CARDINAL, lintel held to lintel missing from Temple 1 at El Zotz
+PERSON,Ian Graham, link ,GPE, lintel held by Denver Art Museum to lintel missing at El Zotz
+ORG,El Zotz Lintel 1, is ,O, carved doorway lintel
+PERSON,Ian Graham, link ,O, lintel held
+ORG,El Zotz Lintel, is ,O, carved wooden doorway lintel
+PERSON,Ian Graham, link ,CARDINAL, lintel held by Denver Art Museum to lintel missing from Temple 1 at El Zotz
+PERSON,Ian Graham, positively link ,GPE, lintel held by Denver Art Museum
+PERSON,Stephen D. Houston, places ,DATE, looting to 1975
+PERSON,Ian Graham, link ,GPE, lintel held by Denver Art Museum to lintel
+ORG,El Zotz Lintel, is ,O, wooden doorway lintel
+PERSON,Ian Graham, positively link ,GPE, lintel held by Denver Art Museum to lintel missing from Temple 1
+LOC,Classic Maya city, heavily looted in ,O, 1960s
+PERSON,Ian Graham, on ,DATE, 1978 observations at site
+PERSON,Ian Graham, positively link ,CARDINAL, lintel held by Denver Art Museum to lintel missing from Temple 1
+GPE,Merrin, sold piece to ,O, law firm
+PERSON,Ian Graham, was ,O, able
+PERSON,Ian Graham, positively link ,CARDINAL, lintel held by Denver Art Museum to lintel missing from Temple 1 at El Zotz
+PERSON,Ian Graham, link ,GPE, lintel held by Denver Art Museum to lintel missing
+PERSON,Stephen D. Houston, places ,O, looting of lintel
+PERSON,Ian Graham, link ,CARDINAL, lintel held to lintel missing from Temple 1
+PERSON,Ian Graham, positively link ,GPE, lintel held by Denver Art Museum to lintel missing from Temple 1 at El Zotz
+ORG,El Zotz Lintel, is ,O, carved doorway lintel composed
+ORG,El Zotz Lintel 1, is ,CARDINAL, carved wooden doorway lintel composed of five sopadilla wood planks
+ORG,El Zotz Lintel, is ,CARDINAL, wooden doorway lintel composed of five sopadilla wood planks
+ORG,El Zotz Lintel, is ,O, carved doorway lintel
+PERSON,Ian Graham, positively link ,O, lintel held to lintel missing
+ORG,El Zotz Lintel 1, is ,O, carved wooden doorway lintel
+ORG,El Zotz Lintel, is ,O, carved wooden doorway lintel composed
+PERSON,Ian Graham, link ,CARDINAL, lintel held by Denver Art Museum to lintel missing from Temple 1
+PERSON,J.P. Laporte, in Zotz is ,O, San José
+PERSON,Ian Graham, positively link ,O, lintel held
+GPE,Merrin, sold ,O, piece
+PERSON,J.P. Laporte, Zotz ' ,O, Petén
+ORG,El Zotz Lintel 1, is ,CARDINAL, carved doorway lintel composed of five sopadilla wood planks
+GPE,El Zotz, is in ,O, J.P. Laporte
+ORG,El Zotz Lintel 1, is ,O, doorway lintel composed
+PERSON,Ian Graham, link ,GPE, lintel held by Denver Art Museum
+PERSON,Ian Graham, link ,CARDINAL, lintel held to lintel missing from Temple 1 at El Zotz
+PERSON,Ian Graham, positively link ,O, lintel held to lintel missing at El Zotz
+PERSON,Ian Graham, positively link ,GPE, lintel held by Denver Art Museum to lintel
+PERSON,Ian Graham, link ,GPE, lintel held by Denver Art Museum to lintel missing from Temple 1
+ORG,El Zotz Lintel 1, is ,O, wooden doorway lintel composed
+ORG,El Zotz Lintel 1, is ,O, carved doorway lintel composed
+ORG,El Zotz Lintel, is ,CARDINAL, carved doorway lintel composed of five sopadilla wood planks
+PERSON,Ian Graham, positively link ,GPE, lintel held by Denver Art Museum to lintel missing at El Zotz
+PERSON,Ian Graham, positively link ,CARDINAL, lintel held to lintel missing from Temple 1
+ORG,El Zotz Lintel 1, is ,O, carved wooden doorway lintel composed
+PERSON,Ian Graham, positively link ,GPE, lintel held by Denver Art Museum to lintel missing
+PERSON,Ian Graham, positively link ,O, lintel held to lintel
+ORG,El Zotz Lintel 1, is ,O, doorway lintel

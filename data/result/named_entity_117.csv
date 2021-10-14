@@ -1,0 +1,63 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORG,Uma Maheshwar, surfaced in ,DATE, 1995
+PERSON,Bangdel, photographing ,O, Schick
+PERSON,Dhulikhel, is on ,O, ancient trade route at a natural
+PERSON,Dhulikhel, is on ,GPE, trade route between central Nepal at a
+PERSON,Bangdel, recording ,O, Schick
+ORG,Pradhan, quoted in ,ORG, Dixit 1999
+PERSON,Dhulikhel, is on ,O, ancient trade route at a
+GPE,Yaldiz, quoted in ,GPE, Spice 2000a
+ORG,Uma Maheshwar, was formally returned to ,GPE, Nepal
+ORG,Uma Maheshwar, was ,GPE, formally returned to Nepal on 28 August 2000
+ORG,Uma Maheshwar, surfaced in ,O, inventory of art dealer
+PERSON,Bangdel, photographing ,O, art
+PERSON,Dhulikhel, is on ,GPE, ancient trade route between Nepal at a
+ORG,Uma Maheshwar, 's return is ,ORG, Dixit 1999
+PERSON,Shiva, reclining with ,O, Parvati surrounded by deities
+PERSON,Dhulikhel, is on ,O, trade route
+PERSON,Shiva, reclining with ,O, Uma
+PERSON,Bangdel, recording ,O, antiquities theft
+PERSON,Dhulikhel, is on ,GPE, trade route between Nepal at a
+PERSON,Dhulikhel, is on ,GPE, trade route between Nepal at a natural
+PERSON,Dhulikhel, is on ,GPE, trade route between Nepal
+ORG,Uma Maheshwar, was returned to ,GPE, Nepal
+ORG,Uma Maheshwar, was ,O, stolen
+ORG,Uma Maheshwar, was ,O, returned
+ORG,Uma Maheshwar, for ,O, return
+PERSON,Bangdel, photographing ,O, sacred art
+PERSON,Shiva, reclining with ,O, Parvati surrounded
+ORG,Uma Maheshwar, surfaced in ,GPE, inventory of German art dealer in Wiesbaden
+PERSON,Bangdel, photographing ,GPE, art of Kathmandu Valley
+PERSON,Dhulikhel, is on ,GPE, ancient trade route between central Nepal at a
+PERSON,Shiva, reclining with ,O, Parvati surrounded on Mount Kailas
+ORG,Uma Maheshwar, was ,GPE, returned to Nepal on 28 August 2000
+ORG,Uma Maheshwar, was ,O, formally returned
+GPE,Wiesbaden, in dealer is ,DATE, Tuladhar 2000
+ORG,Uma Maheshwar, was ,DATE, formally returned to Nepal on 28 August 2000
+PERSON,Dhulikhel, is on ,GPE, trade route between central Nepal
+PERSON,Dhulikhel, is on ,GPE, trade route between central Nepal at a natural
+ORG,Uma Maheshwar, was returned on ,DATE, 28 August 2000
+GPE,Nepal, to ,O, claim for piece
+ORG,Uma Maheshwar, surfaced in ,NORP, inventory of German art dealer
+PERSON,Dhulikhel, is on ,GPE, ancient trade route between Nepal at a natural
+PERSON,http://d30021575.purehost.com/book_reviews/gods_leave_scmp.html Spice, Piece by ,O, piece
+PERSON,Dhulikhel, is on ,GPE, ancient trade route between central Nepal at a natural
+PERSON,Shiva, reclining with ,O, Parvati
+PERSON,Bangdel, recording antiquities theft from ,O, region
+PERSON,Dhulikhel, is on ,O, trade route at a natural
+PERSON,Bangdel, photographing ,GPE, sacred art of Kathmandu Valley
+ORG,Uma Maheshwar, surfaced in ,GPE, inventory of art dealer in Wiesbaden
+ORG,Uma Maheshwar, surfaced in ,O, inventory
+ORG,Uma Maheshwar, 's return is ,DATE, Dixit 1999
+PERSON,Shiva, reclining with ,O, Parvati surrounded by deities on Mount Kailas
+PERSON,Dhulikhel, is on ,GPE, ancient trade route between central Nepal
+PERSON,Patan Museum, km from ,PERSON, Dhulikhel
+ORG,Uma Maheshwar, was formally returned on ,DATE, 28 August 2000
+PERSON,Dhulikhel, is on ,GPE, ancient trade route between Nepal
+PERSON,Dhulikhel, is on ,O, trade route at a
+ORG,Uma Maheshwar, surfaced in ,NORP, inventory of German art dealer in Wiesbaden
+ORG,Uma Maheshwar, was in ,GPE, Berlin
+ORG,Pradhan, quoted in ,DATE, Dixit 1999
+ORG,Uma Maheshwar, was ,DATE, returned to Nepal on 28 August 2000
+PERSON,Dhulikhel, is on ,O, ancient trade route
+PERSON,Bangdel, recording antiquities theft in ,O, particular

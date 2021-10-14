@@ -1,0 +1,60 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORG,Hermitage, returned ,O, icon
+ORG,FitzGerald, knife in ,O, our back
+DATE,five years, is in ,O, prison
+ORG,Management Board, appealed In ,O, letter published
+ORG,Management Board, appealed In ,ORG, letter of World Wide Club of Petersburgers published on State Hermitage Museum website
+ORG,BBC News, Third arrest over ,ORG, Hermitage theft
+PERSON,Geraldine Norman, reporting ,O, home
+ORG,Pravda, translation by ,O, Leila Wilmers accessed 3 January 2013
+DATE,1764, in Great is ,O, BBC News 2006a
+ORG,Management Board, appealed In ,O, open letter of World Wide Club published
+ORG,Management Board, appealed In ,O, letter of World Wide Club published
+PERSON,Zavadsky, had ,O, had allegedly found
+PERSON,Geraldine Norman, reporting ,O, humble home
+PERSON,Zavadsky, had ,O, had found
+PERSON,Geraldine Norman, reporting ,O, relatively humble home
+ORG,Management Board, appealed In ,O, open letter
+ORG,Management Board, appealed In ,O, letter
+PERSON,Zavadskaya, In ,O, case
+ORG,BBC News, Third arrest over ,ORG, Hermitage theft accessed 3 January 2013
+DATE,10 October, accessed ,O, 3 January 2013
+ORG,Management Board, appealed In ,ORG, letter published on State Hermitage Museum website
+ORG,BBC News, Third arrest over ,ORG, http://news.bbc.co.uk/1/hi/world/europe/5249408.stm
+ORG,Management Board, appealed In ,ORG, open letter of World Wide Club published on State Hermitage Museum website
+ORG,Management Board, appealed In ,O, letter of World Wide Club of Petersburgers published
+ORG,Management Board, appealed In ,ORG, letter of World Wide Club published on State Hermitage Museum website
+ORG,Hermitage, returned ,O, stolen icon
+ORG,Management Board, appealed for ,O, assistance
+ORG,Management Board, appealed In ,ORG, open letter published on State Hermitage Museum website
+ORG,Hermitage, returned ,O, 10 October
+PERSON,Geraldine Norman, however has expressed ,O, doubts
+PERSON,Geraldine Norman, has expressed ,O, doubts
+LAW,FitzGerald 2006, is In ,PERSON, Zavadskaya 's case
+PERSON,Zavadsky, of ,DATE, sentencing in 2007
+ORG,BBC News, Third arrest over ,ORG, Hermitage theft accessed
+ORG,Hermitage, returned ,O, 10 October accessed 3 January 2013
+GPE,St Petersburg, in container is ,DATE, Agençe France-Presse 2006
+DATE,16 March, accessed ,O, 3 January 2013
+ORG,Hermitage, is in ,DATE, 2005
+ORG,Management Board, appealed In ,O, open letter of World Wide Club of Petersburgers published
+GPE,St Petersburg, city in ,NORP, Russian Federation
+ORG,Management Board, appealed In ,O, open letter of World Wide Club
+PERSON,Zavadsky, have in ,O, his possession receipts
+ORG,Hermitage, returned ,O, 10 October accessed
+ORG,BBC News, Third arrest over ,CARDINAL, 7 August
+ORG,BBC News, arrest over ,ORG, Hermitage theft accessed
+ORG,BBC News, arrest over ,ORG, http://news.bbc.co.uk/1/hi/world/europe/5249408.stm
+PERSON,Jones, underbelly of ,O, museum
+ORG,Management Board, Letter of ,O, World Wide Club
+ORG,Management Board, appealed In ,ORG, open letter of World Wide Club of Petersburgers published on State Hermitage Museum website
+ORG,BBC News, arrest over ,ORG, Hermitage theft accessed 3 January 2013
+ORG,Hermitage, at Discovery is ,PERSON, Larisa Zavadskaya
+ORG,BBC News, arrest over ,ORG, Hermitage theft
+ORG,Management Board, appealed In ,O, letter of World Wide Club of Petersburgers
+ORG,BBC News, arrest over ,CARDINAL, 7 August
+PERSON,Zavadskaya, sufferer of ,O, diabetes
+ORG,Management Board, appealed In ,O, open letter of World Wide Club of Petersburgers
+ORG,Management Board, appealed In ,O, letter of World Wide Club
+ORG,Management Board, appealed In ,O, open letter published
+ORG,Trace Magazine, Journal of ,CARDINAL, Cultural Property 2

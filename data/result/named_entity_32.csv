@@ -1,0 +1,16 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORDINAL,first, offered hoard in ,LOC, Tongeren in 2008
+GPE,Belgium, relegates ,O, responsibilities
+ORDINAL,first, offered ,O, hoard
+GPE,Belgium, relegates responsibilities As ,O, federal state
+ORDINAL,first, offered hoard to ,ORG, Provincial Gallo-Roman Museum
+ORDINAL,first, offered hoard in ,DATE, Tongeren in 2008
+GPE,Belgium, relegates responsibilities As ,O, state
+LOC,Tongeren, is in ,DATE, 2008
+GPE,Belgium, relegates responsibilities to ,PRODUCT, its Regions
+GPE,Belgium, relegates responsibilities such as ,O, heritage management
+GPE,Belgium, relegates responsibilities to ,PRODUCT, its constituent Regions
+PERSON,Het Nieuwsblad, accessed ,DATE, 10 September 2012
+ORG,Museum, by ,O, press announcement
+GPE,Belgium, relegates ,O, certain responsibilities
+ORDINAL,first, offered hoard in ,LOC, Tongeren

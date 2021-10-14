@@ -1,0 +1,12 @@
+Type,Entity 1,Relationship,Type,Entity2
+ORG,El-Ketaf, quoted in ,PERSON, Elkin 2012
+ORG,El-Ketaf, quoted in ,DATE, Elkin 2012
+ORG,El-Ketaf, replied In ,O, response to allegations
+GPE,Meo, raided ,FAC, Telegraph
+ORG,Walda, quoted in ,GPE, Meo 2011
+ORG,El-Ketaf, replied In ,O, response
+PERSON,Hafed Walda, was ,O, quoted
+ORG,UNESCO, According to ,O, Assistant Director-General for Culture Francesco Bandarin
+GPE,Meo, Treasure of ,O, Benghazi bank vault
+GPE,Meo, raided ,CARDINAL, 20 October.http
+ORG,Walda, quoted in ,DATE, Meo 2011

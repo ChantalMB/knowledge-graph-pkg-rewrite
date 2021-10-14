@@ -1,0 +1,70 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Ban Chiang, is ,GPE, in objects looted site in north-east Thailand
+PERSON,Ban Chiang, is badly looted archaeological site in ,O, objects
+PERSON,Ban Chiang, is badly looted archaeological site in ,O, looted objects
+PERSON,Chiang, is ,O, located
+PERSON,Ban Chiang, is ,O, badly looted site
+PERSON,Ban Chiang, is ,O, badly archaeological site
+PERSON,Ban Chiang, is badly looted site in ,O, objects
+PERSON,Ban Chiang, is archaeological site in ,O, objects
+PERSON,Ban Chiang, is looted archaeological site in ,O, looted objects
+PERSON,Ban Chiang, is ,GPE, in looted objects badly looted site in north-east Thailand
+PERSON,Ban Chiang, is archaeological site in ,O, looted objects
+PERSON,Ban Chiang, is badly archaeological site in ,O, looted objects
+PERSON,Ban Chiang, is ,GPE, archaeological site located on Khorat plateau of Udon Thani province in north-east Thailand
+PERSON,Ban Chiang, is site in ,O, looted objects
+PERSON,Ban Chiang, is ,GPE, in objects badly looted archaeological site in north-east Thailand
+PERSON,Ban Chiang, is ,O, site located
+PERSON,Ban Chiang, was inscribed on ,O, UNESCO World Heritage List
+PERSON,Ban Chiang, is ,GPE, in objects site in north-east Thailand
+PERSON,Ban Chiang, is badly archaeological site in ,GPE, north-east Thailand
+PERSON,Ban Chiang, is ,GPE, in looted objects looted archaeological site in north-east Thailand
+ORG,Thosarat, is in ,O, Neil Brodie
+PERSON,Ban Chiang, is ,GPE, in objects archaeological site in north-east Thailand
+PERSON,Ban Chiang, is ,GPE, in looted objects badly site in north-east Thailand
+PERSON,Ban Chiang, is ,O, badly looted archaeological site
+PERSON,Ban Chiang, is ,GPE, in looted objects looted site in north-east Thailand
+PERSON,Ban Chiang, is site in ,O, objects
+PERSON,Ban Chiang, is ,GPE, in looted objects badly archaeological site in north-east Thailand
+PERSON,Ban Chiang, is looted site in ,O, looted objects
+PERSON,Ban Chiang, is ,O, looted site
+PERSON,Ban Chiang, was ,CARDINAL, On 28 September 1990 inscribed on UNESCO World Heritage List
+PERSON,Ban Chiang, is ,O, archaeological site located
+PERSON,Ban Chiang, is badly looted site in ,GPE, north-east Thailand
+PERSON,Ban Chiang, is ,O, site
+PERSON,Ban Chiang, is archaeological site in ,GPE, north-east Thailand
+PERSON,Ban Chiang, was inscribed On ,CARDINAL, 28 September 1990
+PERSON,Ban Chiang, is ,GPE, in looted objects site in north-east Thailand
+PERSON,Ban Chiang, is ,GPE, in objects looted archaeological site in north-east Thailand
+PERSON,Ban Chiang, is ,GPE, in objects badly site in north-east Thailand
+PERSON,Ban Chiang, is ,O, archaeological site
+PERSON,Ban Chiang, was ,O, inscribed
+PERSON,Ban Chiang, is badly site in ,O, objects
+PERSON,Ban Chiang, is looted archaeological site in ,O, objects
+PERSON,Ban Chiang, is badly archaeological site in ,O, objects
+ORG,Thosarat, destruction of ,O, heritage
+PERSON,Neil Brodie, in Thosarat is ,PERSON, Rachanie
+PERSON,Ban Chiang, is badly looted site in ,O, looted objects
+PERSON,Ban Chiang, is ,GPE, in objects badly archaeological site in north-east Thailand
+PERSON,Ban Chiang, is badly looted archaeological site in ,GPE, north-east Thailand
+PERSON,Ban Chiang, is ,O, archaeological site located on Khorat plateau
+PERSON,Ban Chiang, is ,O, looted archaeological site
+PERSON,Chiang, is ,O, looted
+PERSON,Ban Chiang, is ,O, site located on Khorat plateau of Udon Thani province
+PERSON,Ban Chiang, is looted archaeological site in ,GPE, north-east Thailand
+PERSON,Ban Chiang, is badly site in ,GPE, north-east Thailand
+PERSON,Ban Chiang, is ,O, badly site
+PERSON,Ban Chiang, is ,O, site located on Khorat plateau
+PERSON,Neil Brodie, in Thosarat is ,O, destruction
+PERSON,Chiang, is ,O, archaeological
+PERSON,Ban Chiang, is ,GPE, site located on Khorat plateau of Udon Thani province in north-east Thailand
+PERSON,Ban Chiang, is looted site in ,GPE, north-east Thailand
+PERSON,Ban Chiang, is site in ,GPE, north-east Thailand
+PERSON,Ban Chiang, is ,GPE, archaeological site located on Khorat plateau in north-east Thailand
+PERSON,Ban Chiang, is ,GPE, in objects badly looted site in north-east Thailand
+PERSON,Ban Chiang, is ,GPE, site located on Khorat plateau in north-east Thailand
+PERSON,Ban Chiang, is badly site in ,O, looted objects
+PERSON,Ban Chiang, is ,GPE, in looted objects archaeological site in north-east Thailand
+PERSON,Ban Chiang, is ,O, archaeological site located on Khorat plateau of Udon Thani province
+PERSON,Ban Chiang, is ,GPE, in looted objects badly looted archaeological site in north-east Thailand
+PERSON,Ban Chiang, is looted site in ,O, objects

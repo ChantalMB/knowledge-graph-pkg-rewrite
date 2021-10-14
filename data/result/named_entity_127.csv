@@ -1,0 +1,32 @@
+Type,Entity 1,Relationship,Type,Entity2
+GPE,Guatemala, in ,WORK_OF_ART, Petén province
+GPE,Xultun, was looted Like ,PERSON, nearly Maya site in Petén
+GPE,Xultun, was ,WORK_OF_ART, Like Maya site in Petén heavily looted in 1960s
+ORG,Morley, spent ,O, his team
+ORG,Morley, spent at ,GPE, Xultun
+GPE,Xultun, at Murals is ,O, http://www.mesoweb.com/reports/Xultun.pdf
+GPE,Xultun, was heavily looted Like ,PERSON, nearly Maya site in Petén
+GPE,Xultun, was ,WORK_OF_ART, Like Maya site in Petén looted in 1960s
+GPE,Xultun, was looted Like ,WORK_OF_ART, nearly Maya site in Petén
+GPE,Xultun, was looted Like ,WORK_OF_ART, Maya site in Petén
+DATE,many weeks, is in ,O, removal of many tons of stone
+PERSON,Von Euw, Corpus of ,PERSON, Maya Hieroglyphic Inscriptions Vol 5.1
+GPE,Xultun, was ,O, explored
+GPE,Xultun, feed ,O, demand for ceramics
+GPE,Xultun, was ,WORK_OF_ART, Like nearly Maya site in Petén heavily looted in 1960s
+GPE,Xultun, feed ,O, international demand for ceramics
+GPE,Xultun, was ,WORK_OF_ART, Like nearly Maya site in Petén looted in 1960s
+GPE,Xultun, feed ,O, international demand
+GPE,Xultun, was heavily looted Like ,WORK_OF_ART, nearly Maya site in Petén
+GPE,Xultun, was ,PERSON, Like Maya site in Petén looted in 1960s
+GPE,Xultun, was heavily looted Like ,WORK_OF_ART, Maya site in Petén
+GPE,Xultun, was looted Like ,PERSON, Maya site in Petén
+GPE,Xultun, was ,PERSON, Like Maya site in Petén heavily looted in 1960s
+GPE,Xultun, was heavily looted Like ,PERSON, Maya site in Petén
+GPE,Xultun, feed ,PERSON, demand for Maya ceramics
+GPE,Xultun, feed ,O, demand
+GPE,Xultun, was ,PERSON, Like nearly Maya site in Petén heavily looted in 1960s
+GPE,Xultun, feed ,PERSON, international demand for Maya ceramics
+GPE,Xultun, was ,PERSON, Like nearly Maya site in Petén looted in 1960s
+GPE,Xultun, at Murals is ,O, Mesoweb Reports
+GPE,Xultun, from ,O, caches

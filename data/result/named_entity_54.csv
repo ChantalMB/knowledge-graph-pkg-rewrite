@@ -1,0 +1,23 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Harris, sentences to ,O, death
+GPE,Iran, has ,O, Ministry of Intelligence
+GPE,Iran, has ,NORP, Islamic Police
+GPE,London, in gallery is ,O, Chechi
+GPE,Iran, moved ,O, call
+GPE,Iran, call for ,O, repatriation of artefacts
+ORG,Art-Law Centre, University of ,O, Geneva
+PERSON,Yazd, ' Agency is ,DATE, 29/04/2006
+GPE,Iran, in ,PERSON, southern province of Kerman
+GPE,Iran, moved ,O, call for repatriation of artefacts
+GPE,Iran, call for ,O, repatriation of artefacts believed
+GPE,Iran, has ,O, New Raid against
+GPE,Iran, call for ,O, repatriation
+GPE,Iran, moved ,O, call for repatriation
+GPE,Iran, News 's ,PERSON, Payvand
+PERSON,Payvand, has ,GPE, Iran News
+PERSON,Yazd, in ,NORP, Iranian Cultural Heritage News Agency
+GPE,Iran, moved ,O, call for repatriation of artefacts believed
+GPE,Drouot, is in ,GPE, Paris
+PERSON,Payvand, 's News is ,DATE, 2004
+PERSON,Payvand, has ,GPE, Iran News 2004
+PERSON,Payvand, has ,DATE, Iran News 2004

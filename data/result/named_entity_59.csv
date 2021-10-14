@@ -1,0 +1,33 @@
+Type,Entity 1,Relationship,Type,Entity2
+GPE,Peru, of ,O, National Institute of Culture
+PERSON,Marañón, is in ,NORP, high Andean cloud forest
+ORG,Laguna de los Cóndores, is ,ORG, lagoon located in department of Amazonas in northern Peru
+ORG,Laguna de los Cóndores, is ,O, lagoon located in department
+ORG,Laguna de los Cóndores, known as ,O, Laguna las Momias
+DATE,day, has ,PERSON, hike from village of Leymebamba
+ORG,Chachapoya, been ,O, organized
+ORG,Chachapoya, were subject to ,GPE, von Hagen n.d.
+ORG,Chachapoya, been ,O, socio-political
+ORG,Ullilén, had taken ,O, many of artefacts
+ORG,Laguna de los Cóndores, is ,GPE, lagoon located in department in northern Peru
+ORG,Ullilén, is ,O, now manager
+ORG,Laguna de los Cóndores, also known as ,O, Laguna las Momias
+ORG,Chachapoya, were subject to ,ORG, von Hagen n.d.
+ORG,Laguna de los Cóndores, is ,ORG, lagoon located in department of Amazonas in Peru
+ORG,Chachapoya, were ,O, subject
+ORG,Ullilén, had taken ,O, many of artefacts stolen
+ORG,Ullilén, had taken ,O, many of artefacts stolen by looters
+ORG,Laguna de los Cóndores, also known as ,O, Laguna de las Momias
+PERSON,Photo, is In ,O, April 1997
+ORG,Laguna de los Cóndores, known as ,O, Laguna de las Momias
+ORG,Laguna de los Cóndores, is ,O, lagoon
+ORG,Laguna de los Cóndores, is ,GPE, lagoon located in department of Amazonas in northern Peru
+ORG,Laguna de los Cóndores, is ,GPE, lagoon located in department in Peru
+ORG,Laguna de los Cóndores, is ,O, lagoon located
+ORG,Ullilén, had taken ,O, many
+ORG,Chachapoya, were subject to ,O, forced resettlement
+PRODUCT,Museo Leymebamba, is in ,O, Lena Bjerregaard
+ORG,Ullilén, is ,O, manager
+ORG,Laguna de los Cóndores, is ,ORG, lagoon located in department of Amazonas
+ORG,Chachapoya, were subject to ,O, resettlement
+ORG,Laguna de los Cóndores, is ,GPE, lagoon located in department of Amazonas in Peru

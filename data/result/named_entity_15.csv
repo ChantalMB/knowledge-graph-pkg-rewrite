@@ -1,0 +1,39 @@
+Type,Entity 1,Relationship,Type,Entity2
+PERSON,Chacón, looter of ,O, archaeological sites
+GPE,Mostny, Meanwhile went ,O, search
+PERSON,Guillermo Chacón Carrasco, climbed ,O, peak
+PERSON,Guillermo Chacón Carrasco, climbed ,O, peak in Andes
+PERSON,Chacón, found ,GPE, Museo Nacional Historia Natural n.d.
+PERSON,Guillermo Chacón Carrasco, left ,O, village
+GPE,Mostny, went ,O, search for mummy
+PERSON,Chacón, had previously sites on ,O, mountain
+PERSON,Chacón, had sites on ,O, mountain
+PERSON,Guillermo Chacón Carrasco, climbed ,O, Cerro El Plomo
+GPE,Mostny, search for ,DATE, Fuenzalida 1957
+PERSON,Guillermo Chacón Carrasco, climbed ,O, Jaime Ríos Abarca
+PERSON,Capacocha, occurred during ,O, important events
+ORG,Dr Grete Mostny, head from ,DATE, 1943
+GPE,Mostny, search for ,O, mummy
+GPE,Mostny, went to ,O, Puente Alto
+GPE,Mostny, search for ,PERSON, Fuenzalida 1957
+PERSON,Chacón, had looted sites on ,O, mountain
+GPE,Mostny, Meanwhile went to ,O, Puente Alto
+GPE,Mostny, Meanwhile went ,O, search for stashed mummy
+GPE,Mostny, Meanwhile went ,O, search for mummy
+PERSON,Chacón, found ,O, silver items
+ORG,Dr Grete Mostny, head of ,O, Anthropology
+PERSON,Capacocha, occurred during ,O, events
+GPE,Mostny, search for ,O, stashed mummy
+PERSON,Chacón, was ,O, treasure hunter
+GPE,Mostny, went ,O, search
+PERSON,Guillermo Chacón Carrasco, climbed ,O, peak in Chilean Andes
+PERSON,Chacón, had previously looted sites on ,O, mountain
+PERSON,Guillermo Chacón Carrasco, left ,O, Jaime Ríos Abarca
+PERSON,Guillermo Chacón Carrasco, left ,O, village of Puente Alto
+PERSON,Chacón, found ,GPE, Museo Nacional de Historia Natural n.d.
+PERSON,Capacocha, occurred for ,O, example
+PERSON,Chacón, looter of ,O, sites
+DATE,1964, until Mostny is ,DATE, head of Anthropology from 1943
+PERSON,Cerro El Plomo, peak in ,O, Chilean Andes
+GPE,Mostny, went ,O, search for stashed mummy
+PERSON,Chacón, found ,O, ancient silver items
